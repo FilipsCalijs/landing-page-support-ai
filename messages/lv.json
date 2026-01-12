@@ -1,0 +1,14 @@
+{
+  "Index": {
+    "title": "Sveicināti!"
+  },
+  "About": {
+    "title": "Par mūsu produktu",
+    "description": "Tas ir inovatīvs risinājums jūsu biznesam.",
+    "specs": {
+      "heading": "Specifikācijas:",
+      "feature1": "Ātra darbība",
+      "feature2": "Droša aizsardzība"
+    }
+  }
+}

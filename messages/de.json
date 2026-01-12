@@ -1,0 +1,128 @@
+{
+  "Main":{
+    "Header":{
+      "altImg": "odly_logo_img",
+      "product":"Product",
+      "solution": "Solution",
+      "howItWork": "How it work",
+      "channels": "Channels",
+      "pricing": "Pricing",
+      "contactUs": "Contact us", 
+      "getStarted": "GET STARTED"
+    },
+    "Hero": {
+      "title": "AI concierge for inbound business messages",
+      "description": "AI concierge for inbound business messages",
+      "demo": "Request Demo",
+      "contactUs": "Contact Us",
+      "altimg": "odly_logo_hero_img"
+    },
+    "Cards": {
+      "title": "Problem → Solution",
+      "description": "From inbox chaos to signal clarity",
+
+      "BadgeBefore": {
+        "heading":"Before AI Concierge",
+        "feature1": "Inbox overload",
+        "feature2": "Manual sorting",
+        "feature3": "Missed requests",
+        "feature4": "Noise instead of signal"
+      },
+      "BadgeAfter": {
+        "heading":"Before AI Concierge",
+        "feature1": "Automatic classification",
+        "feature2": "Smart routing",
+        "feature3": "Clear priorities",
+        "feature4": "Zero noise"
+
+      }
+    },
+    "HowItWorks": {
+      "title": "How it works",
+      "description": "How Odly works",
+      "steps": {
+        "text1": "Specifications",
+        "text2": "Fast",
+        "text3": "Secure",
+        "text4": "Secure"
+      }
+    },
+    "Channels":{
+      "title": "How it works",
+      "description": "How Odly works",
+      "logos": {
+        "logo1": "telegram_alt_logo",
+        "logo2": "whatsapp_alt_logo",
+        "logo3": "google_meet_alt_logo",
+        "logo4": "discord_alt_logo",
+        "logo5": "gmail_alt_logo",
+        "logo6": "messanger_alt_logo",
+        "logo7": "slack_alt_logo",
+        "logo8": "teams_alt_logo",
+        "logo8": "chat_alt_logo"
+      },
+      "pros":{
+        "pros1":"Route to department",
+        "pros2":"Create Jira task",
+        "pros3":"Notify responsible",
+        "pros4":"Auto-reply",
+        "pros5":"Delete spam"
+      }
+    },
+    "Pricing": {
+      "title": "How it works",
+      "description": "How Odly works",
+      "Plans": {
+        "Starter": {
+          "title": "Starter",
+          "description": "For one or two people managing personal projects.",
+          "li": {
+            "li1": "Core channels",
+            "li2": "Basic classification",
+            "li3": "Limited automations"
+          },
+          "btn": "Get Started"
+        },
+        "Business": {
+          "title": "Business",
+          "description": "For growing teams that need to track their projects' progress and hit deadlines.",
+          "li": {
+            "li1": "Multiple channels",
+            "li2": "Advanced classification",
+            "li3": "Custom automations",
+            "li4": "Integrations"
+          },
+          "btn": "Get Started",
+          "btn2": "Request Demo"
+        },
+        "Enterprise": {
+          "title": "Enterprise",
+          "description": "For companies that need to coordinate and automate complex work across departments, without limits.",
+          "li": {
+            "li1": "All channels",
+            "li2": "Custom AI logic",
+            "li3": "Enterprise integrations",
+            "li4": "SLA & support"
+          },
+          "btn": "Get Started",
+          "btn2": "Request Demo"
+        }
+
+      }
+    },
+    "ContactUs": {
+      "name": "How it works",
+      "entername": "How Odly works",
+      "email": "How it works",
+      "enterEmail": "How Odly works",
+      "plan": "How it works",
+      "choosePlan": "How Odly works",
+      "message": "How it works",
+      "enterMessage": "How Odly works",
+      "sumbit": "Sumbit"
+    },
+    "Footer":{
+      "altimg": "odly_logo_img"
+    }
+  }
+}
