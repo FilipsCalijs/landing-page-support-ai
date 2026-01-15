@@ -7,7 +7,8 @@ import type {
 } from './card.styles';
 import type { HTMLAttributes } from 'react';
 
-export type CardProps = HTMLAttributes<HTMLDivElement> & VariantProps<typeof cardVariants>;
+export type CardProps = HTMLAttributes<HTMLDivElement> &
+  VariantProps<typeof cardVariants>;
 
 export type CardHeaderProps = HTMLAttributes<HTMLDivElement> &
   VariantProps<typeof cardHeaderVariants>;

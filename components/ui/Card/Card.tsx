@@ -16,9 +16,10 @@ import type {
   CardFooterProps,
 } from './card.types';
 
-export const Card = ({ className, variant, padding, ...props }: CardProps) => (
-  <div className={cn(getCardClasses(variant, padding), className)} {...props} />
+export const Card = ({ className, variant, size, color, ...props }: CardProps) => (
+  <div className={cn(getCardClasses(variant, size, color), className)} {...props} />
 );
+
 
 export const CardHeader = ({ className, padding, ...props }: CardHeaderProps) => (
   <div className={cn(getCardHeaderClasses(padding), className)} {...props} />

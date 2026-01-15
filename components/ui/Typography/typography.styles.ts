@@ -9,7 +9,8 @@ export const typographyVariants = cva('', {
       h4: 'text-6xl font-semibold',
       p: 'text-5xl',
       body1: 'text-2xl',
-     body2: 'text-[2rem]',
+      body2: 'text-[2rem]',
+      body3: 'text-lg'
     
     },
     color: {

@@ -41,10 +41,10 @@
       "title": "How it works",
       "description": "How Odly works",
       "steps": {
-        "text1": "Specifications",
-        "text2": "Fast",
-        "text3": "Secure",
-        "text4": "Secure"
+        "text1": "Incoming message",
+        "text2": "Intent detected",
+        "text3": "Classification",
+        "text4": "Action executed"
       }
     },
     "Channels":{
@@ -67,6 +67,17 @@
         "pros3":"Notify responsible",
         "pros4":"Auto-reply",
         "pros5":"Delete spam"
+      }
+    },
+    "Actions":{
+      "title": "Channels & Actions",
+      "description": "Where it works and what it does",
+      "functions": {
+        "function1":"Route to department",
+        "function2":"Create Jira task",
+        "function3":"Notify responsible",
+        "function4":"Auto-reply",
+        "function5":"Delete spam"
       }
     },
     "Pricing": {
@@ -111,18 +122,22 @@
       }
     },
     "ContactUs": {
-      "name": "How it works",
-      "entername": "How Odly works",
-      "email": "How it works",
-      "enterEmail": "How Odly works",
-      "plan": "How it works",
-      "choosePlan": "How Odly works",
-      "message": "How it works",
-      "enterMessage": "How Odly works",
+      "title": "Contact us",
+      "name":"First Name",
+      "entername": "Enter your First Name",
+      "email": "Email",
+      "enterEmail": "Enter your Email",
+      "plan": "Choose Plan",
+      "choosePlan": "Select a Plan",
+      "message": "Message",
+      "enterMessage": "Enter your Message",
       "sumbit": "Sumbit"
     },
-    "Footer":{
-      "altimg": "odly_logo_img"
+    "Footer": {
+      "altImg": "odly_logo_img",
+      "product": "Product",
+      "solution": "Solution",
+      "getStarted": "Get Started"
     }
   }
 }

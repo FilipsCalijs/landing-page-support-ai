@@ -1,7 +1,7 @@
 // proxy.ts
 import createMiddleware from 'next-intl/middleware';
 import { locales, defaultLocale } from './i18n.config';
-import { NextRequest, NextResponse } from 'next/server';
+import { NextRequest } from 'next/server';
 
 const intlMiddleware = createMiddleware({
   locales,

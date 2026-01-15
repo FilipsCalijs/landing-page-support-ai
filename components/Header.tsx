@@ -2,7 +2,7 @@ import NextLink from 'next/link';
 import { Link } from '@/i18n.navigation';
 import LanguageSwitcher from './LanguageSwitcher';
 import { useTranslations } from 'next-intl';
-import { Typography } from './ui/Typography';
+
 import { Button } from './ui/Button';
 
 export default function Header() {

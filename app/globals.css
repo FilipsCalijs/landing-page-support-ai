@@ -69,19 +69,27 @@
  
 
   html {
-    overflow: scroll;
-    scroll-behavior: smooth;
-    overscroll-behavior: contain;
-    @apply bg-background text-foreground;
-    font-feature-settings: 'rlig' 1, 'calt' 1;
+  overflow: scroll;
+  scroll-behavior: smooth;
+  overscroll-behavior: contain;
+  @apply bg-background text-foreground;
+  font-feature-settings: 'rlig' 1, 'calt' 1;
 
-    background-image: url('/Pattern.png'); 
-    /* background-color: aqua; */
-    background-repeat: repeat;
-    background-attachment: fixed; 
-    background-size: auto; 
+  position: relative;
+}
 
-  }
+html::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background-image: url('/Pattern.png');
+  background-repeat: repeat;
+  background-size: auto;
+  opacity: 0.2;
+  pointer-events: none;
+  z-index: -1;
+}
+
 
   /* Webkit scrollbar (Chrome, Safari, Edge) */
   *::-webkit-scrollbar {

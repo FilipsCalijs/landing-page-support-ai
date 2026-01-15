@@ -8,19 +8,25 @@ export const cardVariants = cva(
     variants: {
       variant: {
         default: 'border-none',
-        elevated: 'shadow-md hover:shadow-lg',
+        elevated: 'shadow-lg hover:shadow-lg',
         outline: 'border border-slate-200',
         ghost: 'shadow-none bg-transparent',
       },
-      // Добавил поддержку ширины прямо в варианты, если нужно
       size: {
         default: '',
         card: 'w-full md:w-[24rem]', 
+      },
+      color: {
+        default: 'bg-white',      
+        green50: 'bg-[#F0FDF4]',   
+        blue50: 'bg-blue-50',     
+        orange500: 'bg-orange-500 text-white', 
       }
     },
     defaultVariants: {
       variant: 'default',
       size: 'default',
+      color: 'default',
     },
   }
 );
@@ -71,15 +77,16 @@ export const cardFooterVariants = cva('flex items-center', {
   },
 });
 
-// ТИПИЗАЦИЯ
+
 export type CardVariantsType = VariantProps<typeof cardVariants>;
-// Создаем общий тип для паддингов, чтобы все подкомпоненты понимали друг друга
+
 export type CardPaddingType = VariantProps<typeof cardContentVariants>['padding'];
 
 export const getCardClasses = (
   variant?: CardVariantsType['variant'],
-  size?: CardVariantsType['size']
-) => cardVariants({ variant, size });
+  size?: CardVariantsType['size'],
+  color?: CardVariantsType['color']
+) => cardVariants({ variant, size, color });
 
 export const getCardHeaderClasses = (padding?: CardPaddingType) =>
   cardHeaderVariants({ padding });
