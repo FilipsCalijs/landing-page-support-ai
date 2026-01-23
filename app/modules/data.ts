@@ -9,26 +9,27 @@ import {
   Sparkles,
   Zap,
 } from 'lucide-react';
+import type { Dictionary } from '@/app/[locale]/dictionaries';
 
-export const problemItems = [
-  { id: 1, text: 'Inbox overload', icon: MailWarning, bgColor: 'bg-orange-50', color: 'text-orange-500' },
-  { id: 2, text: 'Manual sorting', icon: Pointer, bgColor: 'bg-orange-50', color: 'text-orange-500' },
-  { id: 3, text: 'Missed requests', icon: MessageSquareDashed, bgColor: 'bg-orange-50', color: 'text-orange-500' },
-  { id: 4, text: 'Noise instead of signal', icon: Signal, bgColor: 'bg-orange-50', color: 'text-orange-500' },
+export const getProblemItems = (dictionary: Dictionary) => [
+  { id: 1, text: dictionary.Main.Cards.BadgeBefore.feature1, icon: MailWarning },
+  { id: 2, text: dictionary.Main.Cards.BadgeBefore.feature2, icon: Pointer },
+  { id: 3, text: dictionary.Main.Cards.BadgeBefore.feature3, icon: MessageSquareDashed },
+  { id: 4, text: dictionary.Main.Cards.BadgeBefore.feature4, icon: Signal },
 ];
 
-export const solutionItems = [
-  { id: 1, text: 'AI automated replies', icon: Bot, bgColor: 'bg-blue-50', color: 'text-blue-500' },
-  { id: 2, text: 'Smart categorization', icon: Zap, bgColor: 'bg-blue-50', color: 'text-blue-500' },
-  { id: 3, text: 'Instant response', icon: Sparkles, bgColor: 'bg-blue-50', color: 'text-blue-500' },
-  { id: 4, text: 'Clear signal only', icon: CheckCircle2, bgColor: 'bg-blue-50', color: 'text-blue-500' },
+export const getSolutionItems = (dictionary: Dictionary) => [
+  { id: 1, text: dictionary.Main.Cards.BadgeAfter.feature1, icon: Bot },
+  { id: 2, text: dictionary.Main.Cards.BadgeAfter.feature2, icon: Zap },
+  { id: 3, text: dictionary.Main.Cards.BadgeAfter.feature3, icon: Sparkles },
+  { id: 4, text: dictionary.Main.Cards.BadgeAfter.feature4, icon: CheckCircle2 },
 ];
 
-export const steps = [
-  { id: 1, title: 'Intent detected' },
-  { id: 2, title: 'Classification' },
-  { id: 3, title: 'Information extraction' },
-  { id: 4, title: 'Action triggered' },
+export const getSteps = (dictionary: Dictionary) => [
+  { id: 1, title: dictionary.Main.HowItWorks.steps.text1 },
+  { id: 2, title: dictionary.Main.HowItWorks.steps.text2 },
+  { id: 3, title: dictionary.Main.HowItWorks.steps.text3 },
+  { id: 4, title: dictionary.Main.HowItWorks.steps.text4 },
 ];
 
 // data.ts
@@ -44,11 +45,10 @@ export const channelLogos = [
   { id: 9, name: 'zoom', src: '/logos/zoom.png' },
 ];
 
-// добавляем placeholder actions
-export const channelActions = [
-  { id: 1, name: 'Route to department', icon: '/icons/route.png' },
-  { id: 2, name: 'Create Jira task', icon: '/icons/plus.png' },
-  { id: 3, name: 'Notify responsible', icon: '/icons/bell.png' },
-  { id: 4, name: 'Auto-reply', icon: '/icons/reply.png' },
-  { id: 5, name: 'Delete spam', icon: '/icons/trash.png' },
+export const getChannelActions = (dictionary: Dictionary) => [
+  { id: 1, name: dictionary.Main.Actions.functions.function1, icon: '/icons/route.png' },
+  { id: 2, name: dictionary.Main.Actions.functions.function2, icon: '/icons/plus.png' },
+  { id: 3, name: dictionary.Main.Actions.functions.function3, icon: '/icons/bell.png' },
+  { id: 4, name: dictionary.Main.Actions.functions.function4, icon: '/icons/reply.png' },
+  { id: 5, name: dictionary.Main.Actions.functions.function5, icon: '/icons/trash.png' },
 ];

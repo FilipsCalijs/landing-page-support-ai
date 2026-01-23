@@ -1,6 +1,3 @@
-"use client";
-
-import { useTranslations } from 'next-intl';
 import { Star, Briefcase, Building2 } from 'lucide-react';
 import { Typography } from '@/components/ui/Typography';
 import { Button } from '@/components/ui/Button';
@@ -11,9 +8,9 @@ import {
   CardFooter 
 } from '@/components/ui/Card';
 import { cn } from '@/lib/utils';
+import type { Dictionary } from '@/app/[locale]/dictionaries';
 
-export function PricingSection() {
-  const t = useTranslations('Main');
+export function PricingSection({ dictionary }: { dictionary: Dictionary }) {
 
   const plans = [
     {
@@ -46,16 +43,16 @@ export function PricingSection() {
     <section className="mt-32 px-4 flex flex-col items-center bg-[url('/bg-pattern.png')] bg-repeat">
       <div className="text-center mb-20">
         <Typography variant="h2" weight="bold">
-          {t('Pricing.title')}
+          {dictionary.Main.Pricing.title}
         </Typography>
         <div className="mt-4">
           <Typography variant="body1" color="muted">
-            {t('Pricing.description')}
+            {dictionary.Main.Pricing.description}
           </Typography>
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full max-w-[80rem] border-orange-200">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 w-full max-w-7xl border-orange-200">
         {plans.map((plan) => (
           <Card 
             key={plan.id} 
@@ -68,14 +65,14 @@ export function PricingSection() {
                 {plan.icon}
               </div>
               <Typography weight="bold">
-                {t(`Pricing.Plans.${plan.id}.title`)}
+                {dictionary.Main.Pricing.Plans[plan.id as keyof typeof dictionary.Main.Pricing.Plans].title}
               </Typography>
             </CardHeader>
 
-            <CardContent padding="lg" className="flex-grow">
+            <CardContent padding="lg" className="grow">
               <div className="mb-8">
                 <Typography variant="body3" className="text-slate-600 leading-relaxed">
-                  {t(`Pricing.Plans.${plan.id}.description`)}
+                  {dictionary.Main.Pricing.Plans[plan.id as keyof typeof dictionary.Main.Pricing.Plans].description}
                 </Typography>
               </div>
 
@@ -84,7 +81,7 @@ export function PricingSection() {
                   <li key={featureKey} className="flex items-center gap-4">
                     <span className="w-1.5 h-1.5 rounded-full bg-slate-900 shrink-0" />
                     <Typography variant="body3">
-                      {t(`Pricing.Plans.${plan.id}.li.${featureKey}`)}
+                      {dictionary.Main.Pricing.Plans[plan.id as keyof typeof dictionary.Main.Pricing.Plans].li[featureKey as keyof typeof dictionary.Main.Pricing.Plans.Starter.li]}
                     </Typography>
                   </li>
                 ))}
@@ -92,27 +89,28 @@ export function PricingSection() {
             </CardContent>
 
             <CardFooter padding="lg" className="flex gap-4">
-                {/* Основная кнопка */}
+                {/* Main button */}
                 <Button
-                    className="flex-1"
+                    className="flex-1 rounded-xl"
                     variant={plan.id === 'Starter' ? 'outline' : 'primary'}
                     size="lg"
                 >
-                    {t(`Pricing.Plans.${plan.id}.btn`)}
+                    <Typography variant="body4" color={plan.id === 'Starter' ? 'black' : 'white'} className="whitespace-nowrap">
+                    {dictionary.Main.Pricing.Plans[plan.id as keyof typeof dictionary.Main.Pricing.Plans].btn}
+                    </Typography>
                 </Button>
 
            
                 {plan.id !== 'Starter' && (
                     <Button
-                    className="flex-1"
+                    className="flex-1 rounded-xl"
                     variant="outline"
                     size="lg"
                     >
-                    {t(`Pricing.Plans.${plan.id}.btn2`)}
+                      <Typography variant="body4" className="whitespace-nowrap">{dictionary.Main.Pricing.Plans[plan.id as keyof typeof dictionary.Main.Pricing.Plans].btn2}</Typography>
                     </Button>
                 )}
                 </CardFooter>
-
           </Card>
         ))}
       </div>

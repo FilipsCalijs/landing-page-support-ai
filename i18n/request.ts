@@ -2,11 +2,11 @@ import { getRequestConfig } from 'next-intl/server';
 import { locales } from '../i18n.config';
 
 export default getRequestConfig(async ({ requestLocale }) => {
-  // Ожидаем locale, так как в Next 15 это Promise
+  // Wait for locale, as in Next 15 it's a Promise
   let locale = await requestLocale;
 
-  // Проверяем, входит ли полученная строка в наш список допустимых локалей
-  // Используем приведение к string, чтобы .includes не ругался на типы
+  // Check if the received string is in our list of allowed locales
+  // Use type casting to string so .includes doesn't complain about types
   if (!locale || !locales.includes(locale as typeof locales[number])) {
     locale = 'en';
   }

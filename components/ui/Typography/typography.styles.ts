@@ -10,7 +10,8 @@ export const typographyVariants = cva('', {
       p: 'text-5xl',
       body1: 'text-2xl',
       body2: 'text-[2rem]',
-      body3: 'text-lg'
+      body3: 'text-lg',
+      body4: 'text-sm',
     
     },
     color: {
@@ -22,6 +23,8 @@ export const typographyVariants = cva('', {
       success: 'text-green-600 dark:text-green-400',
       warning: 'text-yellow-600 dark:text-yellow-400',
       info: 'text-blue-600 dark:text-blue-400',
+      white: 'text-white',
+      black: 'text-black',
     },
     weight: {
       light: 'font-light',

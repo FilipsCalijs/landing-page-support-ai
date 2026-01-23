@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import { useTranslations } from 'next-intl';
 import { Typography } from '@/components/ui/Typography';
@@ -9,12 +9,12 @@ import { cn } from '@/lib/utils';
 export function ContactSection() {
   const t = useTranslations('Main');
 
-  // Стили лейблов и инпутов
+  // Label and input styles
   const labelStyles = "block text-center text-sm font-bold text-[#1A1A1A] mb-2";
   const inputStyles = "w-full px-5 py-4 rounded-xl border border-[#E5E7EB] bg-white focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all placeholder:text-gray-400 text-base shadow-sm";
 
   return (
-    // Добавили центрирование и фон
+    // Added centering and background
     <section className="w-full mt-32 px-4 flex justify-center bg-[url('/bg-pattern.png')] bg-repeat">
       <div className="w-full max-w-[784px] mx-auto text-center">
          <Typography 
@@ -54,8 +54,8 @@ export function ContactSection() {
               <div className="space-y-2">
                 <label className={labelStyles}>{t('ContactUs.plan')}</label>
                 <div className="relative">
-                  <select className={cn(inputStyles, "appearance-none cursor-pointer pr-10 text-gray-500")}>
-                    <option value="" disabled selected>{t('ContactUs.choosePlan')}</option>
+                  <select defaultValue="" className={cn(inputStyles, "appearance-none cursor-pointer pr-10 text-gray-500")}>
+                    <option value="" disabled>{t('ContactUs.choosePlan')}</option>
                     <option value="starter">Starter</option>
                     <option value="business">Business</option>
                     <option value="enterprise">Enterprise</option>

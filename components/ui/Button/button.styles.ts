@@ -1,7 +1,7 @@
 import { cva, type VariantProps } from 'class-variance-authority';
 
 export const buttonVariants = cva(
-  'inline-flex justify-center items-center font-medium rounded-lg transition-colors ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50',
+  'inline-flex justify-center items-center font-medium transition-colors ring-offset-background focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50',
   {
     variants: {
       variant: {
@@ -12,10 +12,10 @@ export const buttonVariants = cva(
         ghost: 'hover:bg-accent hover:text-accent-foreground',
       },
       size: {
-        sm: 'h-9 px-3 text-sm',
-        md: 'h-12 px-7 text-base',
-        lg: 'h-11 px-8',
-        icon: 'h-10 w-10 p-0',
+        sm: 'h-9 text-sm',
+        md: 'h-12 text-base',
+        lg: 'h-11',
+        icon: 'h-10 w-10',
       },
     },
     defaultVariants: {

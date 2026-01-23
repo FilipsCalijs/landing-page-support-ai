@@ -1,4 +1,5 @@
 import NextLink from 'next/link';
+import Image from 'next/image';
 import { Link } from '@/i18n.navigation';
 import LanguageSwitcher from './LanguageSwitcher';
 import { useTranslations } from 'next-intl';
@@ -9,12 +10,15 @@ export default function Header() {
   const t = useTranslations('Main');
 
   return (
-    <header className="fixed top-6 left-1/2 -translate-x-1/2 w-[1180px] max-w-[95%] flex justify-between items-center px-8 py-4 border bg-white/80 backdrop-blur-md z-50 rounded-[2rem] shadow-sm">
+    <header className="fixed top-6 left-1/2 -translate-x-1/2 w-[1180px] max-w-[95%] flex justify-between items-center px-8 py-4 border bg-white/80 backdrop-blur-md z-50 rounded-4xl shadow-sm">
       <Link href="/" className="flex items-center gap-2">
-        <img
+        <Image
           src="/odly_blue_logo.png" 
           alt={t('Header.altImg')} 
+          width={120}
+          height={32}
           className="h-8 w-auto object-contain"
+          priority
         />
       </Link>
 
@@ -31,7 +35,7 @@ export default function Header() {
         >
           {t('Header.solution')}
         </NextLink>
-        <div className="w-[1px] h-4 bg-border mx-2" />
+        <div className="w-px h-4 bg-border mx-2" />
         <LanguageSwitcher />
       </nav>
 

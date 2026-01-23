@@ -1,18 +1,22 @@
+import Image from 'next/image';
 import { Link } from '@/i18n.navigation';
 import LanguageSwitcher from './LanguageSwitcher';
 import { useTranslations } from 'next-intl';
 import { Button } from './ui/Button';
 
 export default function Footer() {
-  // Мы сразу входим в ветку Main -> Footer
+  // We directly enter the Main -> Footer branch
   const t = useTranslations('Main.Footer');
 
   return (
     <footer className="w-full max-w-[74rem] mx-auto flex justify-between items-center p-8 mt-20 border-t bg-white">
       <div className="flex items-center gap-2 font-bold text-xl">
-        <img
+        <Image
           src="/odly_blue_logo.png" 
           alt={t('altImg')} 
+          width={120}
+          height={32}
+          priority
         />
       </div>
       
@@ -23,7 +27,7 @@ export default function Footer() {
         <LanguageSwitcher />
       </nav>
 
-      <Button size="sm">
+      <Button size="sm" className='rounded-4xl px-8'>
         {t('getStarted')} 
       </Button>
     </footer>

@@ -1,7 +1,17 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Landing Page Support AI
 
+A modern, multilingual landing page built with Next.js 16, React 19, and TypeScript. Features AI-powered support automation messaging with internationalization support for English, Russian, and Latvian.
 
+## Features
 
+- ⚡ **Next.js 16** with App Router
+- 🎨 **Tailwind CSS v4** for styling
+- 🌍 **next-intl** for internationalization (en, ru, lv)
+- 📱 **Fully responsive** design
+- 🎭 **TypeScript** for type safety
+- 🖼️ **Image optimization** with next/image
+- 🎯 **Component-based** architecture with CVA
+- 🔒 **SEO optimized** with metadata
 
 ## Getting Started
 
@@ -31,6 +41,34 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Project Structure
+
+```
+├── app/
+│   ├── [locale]/          # Localized routes
+│   │   ├── layout.tsx     # Layout with i18n
+│   │   ├── page.tsx       # Home page
+│   │   ├── error.tsx      # Error boundary
+│   │   └── loading.tsx    # Loading state
+│   └── modules/           # Page sections
+├── components/
+│   ├── ui/                # Reusable UI components
+│   │   ├── Button/
+│   │   ├── Card/
+│   │   └── Typography/
+│   ├── Header.tsx
+│   ├── Footer.tsx
+│   └── LanguageSwitcher.tsx
+├── i18n/
+│   └── request.ts         # i18n configuration
+├── messages/              # Translation files
+│   ├── en.json
+│   ├── ru.json
+│   └── lv.json
+├── middleware.ts          # i18n middleware
+└── i18n.config.ts         # Locale configuration
+```
 
 ## Deploy on Vercel
 

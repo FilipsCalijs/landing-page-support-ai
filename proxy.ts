@@ -19,7 +19,7 @@ export function proxy(request: NextRequest) {
   const cookie = request.cookies.get('locale');
 
   if (!cookie) {
-    // Если куки нет, проверяем путь или ставим дефолт (теперь lv)
+    // If cookie doesn't exist, check path or set default (now lv)
     const locale = request.nextUrl.pathname.split('/')[1] || defaultLocale;
     
     response.cookies.set('locale', locale, {
@@ -33,6 +33,6 @@ export function proxy(request: NextRequest) {
 }
 
 export const config = {
-  // Добавляем lv в регулярку матчера: (ru|en|lv)
+  // Add lv to matcher regex: (ru|en|lv)
   matcher: ['/', '/(ru|en|lv)/:path*', '/((?!api|_next|.*\\..*).*)']
 };

@@ -1,33 +1,31 @@
-"use client";
-
 import Image from 'next/image';
-import { channelLogos, channelActions } from './data';
-import { useTranslations } from 'next-intl';
+import { channelLogos, getChannelActions } from './data';
 import { Typography } from '@/components/ui/Typography';
 import { ArrowRight } from 'lucide-react';
 import { Card } from '@/components/ui/Card';
+import type { Dictionary } from '@/app/[locale]/dictionaries';
 
-export function ChannelSection() {
-  const t = useTranslations('Main');
+export function ChannelSection({ dictionary }: { dictionary: Dictionary }) {
+  const channelActions = getChannelActions(dictionary);
 
   return (
     <section
       id="channel"
-      className="mt-32 w-full max-w-[74rem] px-4 flex flex-col items-center"
+      className="mt-32 w-full max-w-296 px-4 flex flex-col items-center"
     >
-      {/* Заголовок */}
+      {/* Title */}
       <Typography variant="h2" weight="bold">
-        {t('Actions.title')}
+        {dictionary.Main.Actions.title}
       </Typography>
 
-      {/* Описание */}
-      <div className="mt-4 max-w-[40rem] text-center">
+      {/* Description */}
+      <div className="mt-4 max-w-160 text-center">
         <Typography variant="body1">
-          {t('Actions.description')}
+          {dictionary.Main.Actions.description}
         </Typography>
       </div>
 
-      {/* Логотипы каналов */}
+      {/* Channel logos */}
       <div className="flex items-center justify-center gap-12 mt-8">
         {channelLogos.map((logo) => (
           <div
@@ -44,20 +42,20 @@ export function ChannelSection() {
         ))}
       </div>
 
-      {/* Блоки действий */}
+      {/* Action blocks */}
       <div className="flex flex-wrap items-center justify-center gap-2 mt-12">
         {channelActions.map((action) => (
           <Card
             key={action.id}
             variant="elevated"
-            color='orange500'
-            className="flex flex-col items-center justify-center p-4"
-            style={{ width: '224px', height: '200px' }} // фиксированный размер
+            color='green50'
+            className="flex flex-col items-start justify-start p-4 gap-4" 
+            style={{ width: '224px', height: '200px' }} // fixed size
           >
-            <div className="w-10 h-10 mb-4 flex items-center justify-center bg-green-100 rounded-2">
+            <div className="w-10 h-10 flex items-center justify-center bg-green-100 rounded-xl">
               <ArrowRight className="w-5 h-5 text-green-700" />
             </div>
-            <Typography variant="body2" className="text-center">
+            <Typography variant="body2" className="text-start">
               {action.name}
             </Typography>
           </Card>

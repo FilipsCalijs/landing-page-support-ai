@@ -1,20 +1,20 @@
 'use client';
 
-import { useTransition } from 'react'; // Добавляем этот хук
+import { useTransition } from 'react'; // Add this hook
 import { useLocale } from 'next-intl';
 import { useRouter, usePathname } from './../i18n.navigation'; 
 import { locales, type Locale } from './../i18n.config'; 
 
 export default function LanguageSwitcher() {
-  const [isPending, startTransition] = useTransition(); // Инициализируем переход
+  const [isPending, startTransition] = useTransition(); // Initialize transition
   const locale = useLocale();
   const router = useRouter();
   const pathname = usePathname();
 
   const handleLanguageChange = (newLocale: Locale) => {
    
-    // Оборачиваем навигацию в startTransition
-    // Это говорит React и Next.js, что обновление роутера — это ожидаемое действие
+    // Wrap navigation in startTransition
+    // This tells React and Next.js that the router update is an expected action
     startTransition(() => {
       router.replace(pathname, { locale: newLocale });
     });
