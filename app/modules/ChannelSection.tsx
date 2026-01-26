@@ -3,7 +3,7 @@ import { channelLogos, getChannelActions } from './data';
 import { Typography } from '@/components/ui/Typography';
 import { ArrowRight } from 'lucide-react';
 import { Card } from '@/components/ui/Card';
-import type { Dictionary } from '@/app/[locale]/dictionaries';
+import type { Dictionary } from '@/i18n/dictionaries';
 
 export function ChannelSection({ dictionary }: { dictionary: Dictionary }) {
   const channelActions = getChannelActions(dictionary);
@@ -49,13 +49,13 @@ export function ChannelSection({ dictionary }: { dictionary: Dictionary }) {
             key={action.id}
             variant="elevated"
             color='green50'
-            className="flex flex-col items-start justify-start p-4 gap-4" 
+            className="flex flex-col items-start justify-between p-4 gap-4" 
             style={{ width: '224px', height: '200px' }} // fixed size
           >
-            <div className="w-10 h-10 flex items-center justify-center bg-green-100 rounded-xl">
+            <div className="w-10 h-10 flex items-center justify-center bg-green-100 rounded-xl mt-4">
               <ArrowRight className="w-5 h-5 text-green-700" />
             </div>
-            <Typography variant="body2" className="text-start">
+            <Typography variant="body1" className="text-start mb-4">
               {action.name}
             </Typography>
           </Card>

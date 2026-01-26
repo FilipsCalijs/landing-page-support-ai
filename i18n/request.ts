@@ -1,18 +1,14 @@
 import { getRequestConfig } from 'next-intl/server';
-import { locales } from '../i18n.config';
+import { headers } from 'next/headers';
+import { defaultLocale } from '../i18n.config';
 
-export default getRequestConfig(async ({ requestLocale }) => {
-  // Wait for locale, as in Next 15 it's a Promise
-  let locale = await requestLocale;
-
-  // Check if the received string is in our list of allowed locales
-  // Use type casting to string so .includes doesn't complain about types
-  if (!locale || !locales.includes(locale as typeof locales[number])) {
-    locale = 'en';
-  }
+export default getRequestConfig(async () => {
+  // Get locale from header set by middleware
+  const headersList = await headers();
+  const locale = headersList.get('x-locale') || defaultLocale;
 
   return {
     locale,
-    messages: (await import(`../messages/${locale}.json`)).default
+    messages: (await import(`../dictionaries/${locale}.json`)).default
   };
 });

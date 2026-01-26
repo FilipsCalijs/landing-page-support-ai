@@ -82,12 +82,31 @@ html::before {
   content: '';
   position: fixed;
   inset: 0;
-  background-image: url('/Pattern.png');
+  background-image: url('/pattern-geometric3.png');
   background-repeat: repeat;
-  background-size: auto;
-  opacity: 0.2;
+  background-size: 400px 400px;
+  opacity: 0.15;
   pointer-events: none;
   z-index: -1;
+  animation: patternShift 60s linear infinite;
+}
+
+html::after {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: radial-gradient(circle at 50% 50%, transparent 0%, rgba(255, 255, 255, 0.3) 100%);
+  pointer-events: none;
+  z-index: -1;
+}
+
+@keyframes patternShift {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 400px 400px;
+  }
 }
 
 

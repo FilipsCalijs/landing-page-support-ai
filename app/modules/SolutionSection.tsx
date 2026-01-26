@@ -2,7 +2,7 @@
 import { Typography } from '@/components/ui/Typography';
 import { Card, CardContent } from '@/components/ui/Card';
 import { getProblemItems, getSolutionItems } from './data';
-import type { Dictionary } from '@/app/[locale]/dictionaries';
+import type { Dictionary } from '@/i18n/dictionaries';
 
 export function SolutionSection({ dictionary }: { dictionary: Dictionary }) {
   const problemItems = getProblemItems(dictionary);

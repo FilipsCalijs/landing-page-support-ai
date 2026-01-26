@@ -2,7 +2,8 @@
 import Image from 'next/image';
 import { Typography } from '@/components/ui/Typography';
 import { Button } from '@/components/ui/Button';
-import type { Dictionary } from '@/app/[locale]/dictionaries';
+import { ChatTrigger } from '@/components/ChatTrigger';
+import type { Dictionary } from '@/i18n/dictionaries';
 
 export function HeroSection({ dictionary }: { dictionary: Dictionary }) {
 
@@ -15,7 +16,9 @@ export function HeroSection({ dictionary }: { dictionary: Dictionary }) {
       </div>
 
       <div className="flex gap-4">
-        <Button size="lg" className='rounded-4xl px-8'>{dictionary.Main.Hero.demo}</Button>
+        <ChatTrigger className='rounded-4xl px-8'>
+          {dictionary.Main.Hero.demo}
+        </ChatTrigger>
         <Button  size="lg" className='rounded-4xl px-8'>{dictionary.Main.Hero.contactUs}</Button>
       </div>
 

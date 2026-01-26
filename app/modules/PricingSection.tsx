@@ -8,7 +8,7 @@ import {
   CardFooter 
 } from '@/components/ui/Card';
 import { cn } from '@/lib/utils';
-import type { Dictionary } from '@/app/[locale]/dictionaries';
+import type { Dictionary } from '@/i18n/dictionaries';
 
 export function PricingSection({ dictionary }: { dictionary: Dictionary }) {
 
@@ -40,7 +40,7 @@ export function PricingSection({ dictionary }: { dictionary: Dictionary }) {
   ];
 
   return (
-    <section className="mt-32 px-4 flex flex-col items-center bg-[url('/bg-pattern.png')] bg-repeat">
+    <section id="pricing" className="mt-32 px-4 flex flex-col items-center bg-[url('/bg-pattern.png')] bg-repeat">
       <div className="text-center mb-20">
         <Typography variant="h2" weight="bold">
           {dictionary.Main.Pricing.title}
@@ -102,13 +102,15 @@ export function PricingSection({ dictionary }: { dictionary: Dictionary }) {
 
            
                 {plan.id !== 'Starter' && (
-                    <Button
-                    className="flex-1 rounded-xl"
-                    variant="outline"
-                    size="lg"
-                    >
-                      <Typography variant="body4" className="whitespace-nowrap">{dictionary.Main.Pricing.Plans[plan.id as keyof typeof dictionary.Main.Pricing.Plans].btn2}</Typography>
-                    </Button>
+                    <a href="#contact-us" className="flex-1">
+                      <Button
+                      className="w-full rounded-xl"
+                      variant="outline"
+                      size="lg"
+                      >
+                        <Typography variant="body4" className="whitespace-nowrap">{dictionary.Main.Pricing.Plans[plan.id as keyof typeof dictionary.Main.Pricing.Plans].btn2}</Typography>
+                      </Button>
+                    </a>
                 )}
                 </CardFooter>
           </Card>

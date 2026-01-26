@@ -9,7 +9,7 @@ import {
   Sparkles,
   Zap,
 } from 'lucide-react';
-import type { Dictionary } from '@/app/[locale]/dictionaries';
+import type { Dictionary } from '@/i18n/dictionaries';
 
 export const getProblemItems = (dictionary: Dictionary) => [
   { id: 1, text: dictionary.Main.Cards.BadgeBefore.feature1, icon: MailWarning },

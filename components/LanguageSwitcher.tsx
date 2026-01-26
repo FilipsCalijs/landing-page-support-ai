@@ -29,8 +29,8 @@ export default function LanguageSwitcher() {
           onClick={() => handleLanguageChange(lang)}
           className={`px-2 py-1 transition-colors ${
             locale === lang 
-              ? 'font-bold underline text-blue-600' 
-              : 'text-gray-600 hover:text-black'
+              ? 'text-[16px] font-semibold text-blue-600' 
+              : 'text-[16px] font-semibold text-foreground/70 hover:text-foreground'
           }`}
           style={{ cursor: isPending ? 'not-allowed' : 'pointer' }}
         >

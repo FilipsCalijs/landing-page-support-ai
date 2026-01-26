@@ -1,0 +1,144 @@
+{
+  "Main":{
+    "Header":{
+      "altImg": "Odly Platform Logo",
+      "product":"Product",
+      "solution": "Solution",
+      "howItWork": "How it Works",
+      "channels": "Channels",
+      "pricing": "Pricing",
+      "contactUs": "Contact Us", 
+      "getStarted": "GET STARTED"
+    },
+    "Hero": {
+      "title": "Every Message. Every Department. In one place.",
+      "description": "Odly consolidates email, Telegram, Slack, and all your channels into one AI-powered platform. Handle support, sales, HR, and billing in one place. Eliminate spam automatically, route intelligently, and respond instantly—while you reclaim hours every day.",
+      "demo": "Ask Odly what it can do",
+      "contactUs": "Talk to Sales",
+      "altimg": "Odly Platform Dashboard"
+    },
+    "Cards": {
+      "title": "Clarity",
+      "description": "Support, Sales, HR, and Billing—all in one unified system",
+
+      "BadgeBefore": {
+        "heading":"Without Odly",
+        "feature1": "Messages scattered across 5+ tools",
+        "feature2": "Wasting hours on spam & noise",
+        "feature3": "Critical requests buried & missed",
+        "feature4": "Customers waiting hours for replies"
+      },
+      "BadgeAfter": {
+        "heading":"With Odly",
+        "feature1": "One unified inbox for everything",
+        "feature2": "90% spam blocked automatically, rest marked as suspicious",
+        "feature3": "Self-learning knowledge base",
+        "feature4": "AI makes smart routing decisions"
+
+      }
+    },
+    "HowItWorks": {
+      "title": "How Odly Works",
+      "description": "Self-improving system: learns from your existing emails and every new resolution",
+      "steps": {
+        "text1": "Message arrives from any channel",
+        "text2": "Embeddings search knowledge base",
+        "text3": "AI decides category & priority",
+        "text4": "Smart routing or auto-reply"
+      }
+    },
+    "Channels":{
+      "title": "All Your Channels, One Platform",
+      "description": "Connect your support channels and let AI do the heavy lifting",
+      "logos": {
+        "logo1": "Telegram",
+        "logo2": "WhatsApp",
+        "logo3": "Google Meet",
+        "logo4": "Discord",
+        "logo5": "Gmail",
+        "logo6": "Messenger",
+        "logo7": "Slack",
+        "logo8": "Microsoft Teams",
+        "logo9": "Chat"
+      },
+      "pros":{
+        "pros1":"Department separation",
+        "pros2":"JIRA ticket creation",
+        "pros3":"Team notifications",
+        "pros4":"AI auto-responses",
+        "pros5":"Spam elimination"
+      }
+    },
+    "Actions":{
+      "title": "Intelligent Automation at Work",
+      "description": "Support, Sales, HR, Billing—automate workflows across all departments and channels",
+      "functions": {
+        "function1":"Department separation",
+        "function2":"Create JIRA tickets",
+        "function3":"Notify team members",
+        "function4":"AI auto-reply",
+        "function5":"Eliminate spam"
+      }
+    },
+    "Pricing": {
+      "title": "Pricing",
+      "description": "Plans that scale with your team",
+      "Plans": {
+        "Starter": {
+          "title": "Starter",
+          "description": "Get your team started with AI automation. Perfect for 1-3 team members handling one main channel.",
+          "li": {
+            "li1": "Up to 3 team members",
+            "li2": "Email + 1 messaging channel",
+            "li3": "AI decisions + semantic search"
+          },
+          "btn": "Start Free Trial",
+          "btn2": "Request Demo"
+        },
+        "Business": {
+          "title": "Professional",
+          "description": "Scale your operations with full AI automation. Built for teams managing support, sales, HR, and billing across multiple channels.",
+          "li": {
+            "li1": "Up to 25 team members",
+            "li2": "Unlimited channels & integrations",
+            "li3": "AI decisions + smart auto-reply",
+            "li4": "Self-learning knowledge base"
+          },
+          "btn": "Start Free Trial",
+          "btn2": "Request Demo"
+        },
+        "Enterprise": {
+          "title": "Enterprise",
+          "description": "For MSPs and enterprises managing multiple clients. White-label ready with custom AI training.",
+          "li": {
+            "li1": "Unlimited users & organizations",
+            "li2": "Self-hosting & custom deployment",
+            "li3": "Custom AI models & embeddings",
+            "li4": "Dedicated support & SLA"
+          },
+          "btn": "Talk to Sales",
+          "btn2": "Schedule Demo"
+        }
+
+      }
+    },
+    "ContactUs": {
+      "title": "See Odly in Action. Get Your Custom Demo.",
+      "name":"Full Name",
+      "entername": "John Smith",
+      "email": "Work Email",
+      "enterEmail": "john@company.com",
+      "plan": "Team Size",
+      "choosePlan": "How many team members?",
+      "message": "What's your biggest challenge?",
+      "enterMessage": "e.g., Managing support, sales, HR across multiple channels, spam overwhelming our inbox...",
+      "sumbit": "Get My Demo"
+    },
+    "Footer": {
+      "altImg": "Odly Support Platform",
+      "product": "Product",
+      "solution": "Solution",
+      "getStarted": "Get Started"
+    }
+  }
+}
