@@ -1,0 +1,483 @@
+{
+  "_about": "Phiên bản tiếng Việt. Tất cả văn bản hiển thị nằm ở đây. Các khóa bắt đầu bằng _ không được render.",
+
+  "meta": {
+    "locale": "vi",
+    "label": "Tiếng Việt",
+    "short": "VI",
+    "htmlLang": "vi",
+    "ogLocale": "vi_VN",
+    "siteTitle": "{brand} — AI Lột Đồ | Xoá Quần Áo Khỏi Ảnh Online",
+    "titleTemplate": "%s — {brand}",
+    "pageTitle": "AI Lột Đồ — Tẩy Quần Áo Khỏi Ảnh Bằng AI",
+    "pageDescription": "AI lột đồ nhanh và chân thực. Công cụ xoá quần áo khỏi ảnh trong vài giây. Tín dụng miễn phí và mã khuyến mãi trên trang chủ và bot Telegram. Nhanh, ẩn danh và chỉ dành cho 18+.",
+    "ogImageAlt": "AI lột đồ — trước và sau chân thực"
+  },
+
+  "gate": {
+    "rules": [
+      "Trang web này chứa nội dung người lớn, bao gồm ảnh khỏa thân và tài liệu khiêu gợi rõ ràng.",
+      "Nghiêm cấm tải lên hoặc sử dụng hình ảnh của trẻ vị thành niên, hoặc của bất kỳ ai mà không có sự đồng ý rõ ràng của họ.",
+      "Bạn chịu toàn bộ trách nhiệm về mọi hình ảnh bạn tạo ra trên nền tảng này.",
+      "Bằng cách nhấp vào “Đồng ý”, bạn xác nhận rằng bạn đã đủ tuổi thành niên theo pháp luật nơi bạn ở, đồng ý với các điều khoản trên và đồng ý xem nội dung khiêu gợi rõ ràng."
+    ],
+    "accept": "Đồng ý",
+    "a11yLabel": "Xác nhận tuổi và sự đồng ý"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} — trang chủ",
+    "langLabel": "Đổi ngôn ngữ",
+    "menuOpen": "Mở menu",
+    "menuClose": "Đóng menu",
+    "links": [
+      "AI Lột Đồ",
+      "Cách hoạt động",
+      "Ưu điểm",
+      "Câu hỏi thường gặp"
+    ],
+    "social": [
+      "Bot Telegram — tín dụng miễn phí, mã khuyến mãi và tin tức"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [
+      "Trí tuệ nhân tạo",
+      "AI"
+    ],
+    "titleLines": [
+      "AI",
+      "Lột",
+      "Đồ"
+    ],
+    "subtitleStrong": "Xoá quần áo khỏi bất kỳ ảnh nào trong vài giây.",
+    "subtitle": "Công cụ AI lột đồ của chúng tôi mang lại kết quả chân thực và tự nhiên. Chỉ cần tải ảnh lên. Tín dụng miễn phí và mã khuyến mãi có trên trang chủ và bot Telegram.",
+    "cta": "Tải ảnh lên và lột đồ",
+    "imageAlt": "Demo AI lột đồ — ảnh mặc quần áo trở thành khỏa thân chân thực"
+  },
+
+  "stats": {
+    "a11yLabel": "Các số liệu chính của nền tảng",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Người dùng mới hôm nay"
+      },
+      {
+        "value": "97%",
+        "label": "Tạo ảnh thành công"
+      },
+      {
+        "value": "348.000",
+        "label": "Tổng số người dùng đăng ký"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "Công cụ AI để lột đồ và tạo nội dung người lớn",
+    "badge": "Được dùng nhiều nhất",
+    "cta": "Thử ngay",
+    "items": [
+      {
+        "title": "AI Lột Đồ / Xoá Quần Áo",
+        "body": "Công cụ AI lột đồ tốt nhất. AI phân tích hình dáng cơ thể, nếp gấp quần áo, ánh sáng và bóng tối để tạo ra da chân thực và tỷ lệ tự nhiên. Cách nhanh nhất để xoá quần áo khỏi ảnh. Tín dụng miễn phí và mã khuyến mãi trên trang chủ và bot Telegram.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "AI lột đồ trước và sau",
+        "badge": true
+      },
+      {
+        "title": "Đổi Mặt Lên Ảnh Khỏa Thân",
+        "body": "Đặt bất kỳ khuôn mặt nào lên cơ thể khỏa thân, giữ nguyên ánh sáng, tông da và tư thế. Lý tưởng sau khi dùng công cụ lột đồ. Người dùng mới tìm thấy tín dụng miễn phí trong bot Telegram.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Kết quả đổi mặt lên ảnh khỏa thân"
+      },
+      {
+        "title": "Tạo Hiệu Ứng Khuôn Mặt",
+        "body": "Thêm hiệu ứng chân thực lên khuôn mặt chỉ với một cú nhấp. Hoạt động trên cả ảnh gốc và ảnh đã xử lý. Mã khuyến mãi và tín dụng miễn phí trên trang chủ và bot.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Xem trước hiệu ứng khuôn mặt"
+      },
+      {
+        "title": "Cơ Thể Mang Thai Bằng AI",
+        "body": "Biến bất kỳ ảnh nào thành cơ thể mang thai tự nhiên, giữ nguyên khuôn mặt và tư thế. Công cụ sáng tạo ngoài việc chỉ lột đồ. Theo dõi tín dụng miễn phí trong bot Telegram.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Chuyển đổi thành cơ thể mang thai"
+      },
+      {
+        "title": "Mặt Orgasm / Ahegao",
+        "body": "Tạo biểu cảm orgasm và ahegao với điều khiển cường độ. Có thể kết hợp với công cụ lột đồ. Tín dụng miễn phí và mã khuyến mãi trên trang chủ và bot Telegram.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Xem trước mặt orgasm"
+      },
+      {
+        "title": "AI Tạo Ahegao",
+        "body": "Biểu cảm ahegao cổ điển với độ chi tiết cao. Dùng độc lập hoặc sau khi lột đồ. Kiểm tra bonus hiện tại trong bot Telegram và trang chủ.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "Kết quả AI ahegao"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "Thử AI lột đồ miễn phí",
+    "ariaLabel": "Ví dụ trước và sau của AI lột đồ",
+    "pagerLabel": "Chọn ví dụ trước và sau",
+    "slideLabel": "Hiển thị ví dụ {n}",
+    "slides": [
+      {
+        "title": "AI lột đồ chân thực trên ảnh thông thường",
+        "body": "AI nhận diện quần áo, dự đoán hình dáng cơ thể bên dưới và tái tạo da, kết cấu cũng như bóng tối một cách tự nhiên. Kết quả trông như ảnh thật, không phải cắt thô. Tín dụng miễn phí và mã khuyến mãi có trên trang chủ và bot Telegram.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Ảnh gốc mặc quần áo",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Kết quả chân thực sau khi lột đồ",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Hoạt động tốt với tư thế và nền phức tạp",
+        "body": "Ngay cả khi tay bắt chéo, góc nghiêng hoặc nền rối, AI vẫn giữ được giải phẫu và cạnh sạch. Được huấn luyện để tách cơ thể khỏi môi trường. Theo dõi khuyến mãi tín dụng miễn phí trong bot Telegram.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Tư thế phức tạp trước khi xử lý",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Kết quả sạch trên tư thế phức tạp",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Chi tiết da cao và ánh sáng tự nhiên",
+        "body": "Các mô hình tạo ra da mịn, chi tiết chân thực và ánh sáng phù hợp với ảnh gốc. Tránh được vẻ ngoài nhân tạo. Mã khuyến mãi và tín dụng miễn phí trên trang chủ và bot Telegram.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Ảnh studio trước khi lột đồ",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Kết quả chi tiết với ánh sáng tự nhiên",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "Cách"
+      },
+      {
+        "text": "xoá quần áo khỏi bất kỳ ảnh nào",
+        "accent": true
+      },
+      {
+        "text": "chỉ với 3 bước đơn giản"
+      }
+    ],
+    "subline": "Không cần prompt phức tạp. Không cần cài đặt. Tín dụng miễn phí và mã khuyến mãi trên trang chủ và bot Telegram.",
+    "steps": [
+      {
+        "title": "Tải ảnh lên",
+        "body": "Chọn ảnh rõ nét của người từ 18 tuổi trở lên có sự đồng ý (JPG hoặc PNG). Góc chính diện và ba phần tư với ánh sáng tốt cho kết quả tốt nhất. Tín dụng miễn phí có trong bot Telegram và trang chủ."
+      },
+      {
+        "title": "AI xử lý hình ảnh",
+        "body": "Công cụ lột đồ nhận diện quần áo, xây dựng mô hình cơ thể và tạo da chân thực dựa trên tư thế, ánh sáng và bóng tối. Quá trình trung bình mất 5–12 giây."
+      },
+      {
+        "title": "Tải kết quả hoặc tinh chỉnh thêm",
+        "body": "Xem kết quả ngay. Tải xuống chất lượng cao hoặc dùng công cụ bổ sung (đổi mặt, hiệu ứng, ahegao). Đừng quên kiểm tra bot Telegram — tín dụng miễn phí và mã khuyến mãi xuất hiện thường xuyên."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Tại sao chọn"
+      },
+      {
+        "text": "AI lột đồ",
+        "accent": true
+      },
+      {
+        "text": "của chúng tôi"
+      }
+    ],
+    "subline": "So sánh trung thực với các công cụ phổ biến. Tín dụng miễn phí và mã khuyến mãi trên trang chủ và bot Telegram.",
+    "caption": "So sánh AI lột đồ với ClothOff, Undress.cc và các công cụ khác",
+    "rowHeader": "Tính năng",
+    "columns": [
+      "AI Lột Đồ của chúng tôi",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Có",
+      "no": "Không",
+      "partial": "Một phần"
+    },
+    "rows": [
+      {
+        "label": "Da và giải phẫu chân thực",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Dùng thử miễn phí không cần đăng ký",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Xử lý trong 5–12 giây",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Hoạt động với tư thế phức tạp",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Không lưu ảnh vĩnh viễn",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Công cụ bổ sung (mặt, hiệu ứng)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Tốt trên điện thoại",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Chính sách 18+ và đồng ý rõ ràng",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      },
+      {
+        "label": "Bot Telegram có tín dụng miễn phí",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Mã khuyến mãi trên trang chủ",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Thử AI lột đồ của chúng tôi",
+      "ClothOff",
+      "Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Tại sao"
+      },
+      {
+        "text": "AI lột đồ",
+        "accent": true
+      },
+      {
+        "text": "của chúng tôi cho kết quả tốt hơn"
+      }
+    ],
+    "items": [
+      {
+        "title": "Chân thực thật sự, không chỉ xóa quần áo",
+        "body": "Nhiều công cụ chỉ xóa vải và để lại vết không tự nhiên. AI của chúng tôi tái tạo khối lượng cơ thể, kết cấu da và bóng mềm. Kết quả trông như ảnh thật. Tín dụng miễn phí và mã khuyến mãi trên trang chủ và bot Telegram.",
+        "imageAlt": "Chi tiết da chân thực sau khi lột đồ"
+      },
+      {
+        "title": "Nhanh ngay cả với ảnh khó",
+        "body": "Nền rối, tay bắt chéo, góc nghiêng hoặc ánh sáng yếu — mô hình được huấn luyện cho những trường hợp này. Thời gian tạo trung bình 5–12 giây. Theo dõi khuyến mãi tín dụng miễn phí trong bot Telegram.",
+        "imageAlt": "AI lột đồ trên tư thế và nền phức tạp"
+      },
+      {
+        "title": "Quyền riêng tư được ưu tiên",
+        "body": "Ảnh được xử lý trong phiên tạm thời và tự động xóa. Chúng tôi không tạo thư viện vĩnh viễn và không bán dữ liệu. Bạn vẫn ẩn danh. Tín dụng miễn phí có thể nhận qua bot Telegram với thông tin tối thiểu.",
+        "imageAlt": "Xử lý ảnh an toàn và riêng tư"
+      },
+      {
+        "title": "Nhiều hơn chỉ lột đồ",
+        "body": "Sau khi lột đồ bạn có thể áp dụng đổi mặt, điều chỉnh cơ thể, ahegao và hiệu ứng khác. Một nền tảng thay thế nhiều dịch vụ. Mã khuyến mãi và tín dụng miễn phí trên trang chủ và bot Telegram.",
+        "imageAlt": "Công cụ AI bổ sung sau khi lột đồ"
+      },
+      {
+        "title": "Tín dụng miễn phí và mã khuyến mãi qua Telegram",
+        "body": "Chúng tôi thường xuyên phân phối tín dụng miễn phí và mã khuyến mãi hợp lệ. Ưu đãi hiện tại xuất hiện trên trang chủ và bot Telegram. Tham gia bot để không bỏ lỡ bonus và cập nhật.",
+        "imageAlt": "Bot Telegram với tín dụng miễn phí và mã khuyến mãi"
+      },
+      {
+        "title": "Quy trình đơn giản, không cài đặt phức tạp",
+        "body": "Không cần prompt dài. Tải ảnh lên — nhận kết quả. Với hầu hết người dùng điều này là đủ. Tín dụng miễn phí để bắt đầu có trên trang chủ và bot Telegram.",
+        "imageAlt": "Quy trình tải lên và kết quả đơn giản"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Câu hỏi thường gặp",
+    "title": "Câu hỏi về AI lột đồ và xoá quần áo khỏi ảnh",
+    "subtitle": "Tất cả những gì cần biết trước khi tải ảnh đầu tiên. Tín dụng miễn phí và mã khuyến mãi trên trang chủ và bot Telegram.",
+    "items": [
+      {
+        "q": "AI lột đồ / tẩy quần áo AI là gì?",
+        "a": "AI lột đồ (còn gọi là xoá quần áo hoặc undress AI) là trí tuệ nhân tạo phân tích ảnh mặc quần áo, dự đoán cơ thể bên dưới và tạo phiên bản khỏa thân chân thực. Các mô hình hiện đại tập trung vào da tự nhiên, giải phẫu chính xác và ánh sáng nhất quán. Dịch vụ chỉ dành cho người từ 18 tuổi trở lên và chỉ được dùng với sự đồng ý. Tín dụng miễn phí và mã khuyến mãi có trên trang chủ và bot Telegram."
+      },
+      {
+        "q": "Tôi có thể dùng thử miễn phí không?",
+        "a": "Có. Người dùng mới thường nhận được tín dụng miễn phí. Sau thời gian dùng thử có thể mua thêm. Thường không cần thẻ để bắt đầu. Tín dụng miễn phí và mã khuyến mãi hiện tại được đăng trên trang chủ và bot Telegram — hãy kiểm tra thường xuyên."
+      },
+      {
+        "q": "Xử lý mất bao lâu?",
+        "a": "Hầu hết ảnh được xử lý trong 5–12 giây tùy theo độ phân giải, độ phức tạp của tư thế và tải máy chủ. File rất lớn hoặc góc khó có thể mất thêm chút thời gian."
+      },
+      {
+        "q": "Có an toàn và riêng tư không?",
+        "a": "Ảnh tải lên được xử lý trong phiên tạm thời và tự động xóa. Chúng tôi không lưu bản sao vĩnh viễn và không chia sẻ ảnh với bên thứ ba. Chỉ dùng ảnh của bạn hoặc người đã đồng ý rõ ràng. Dịch vụ nghiêm ngặt 18+."
+      },
+      {
+        "q": "Tôi có thể tải lên bất kỳ ảnh nào không?",
+        "a": "Về kỹ thuật AI hoạt động với hầu hết ảnh rõ nét của người. Về pháp lý và đạo đức chỉ được tải ảnh của bạn hoặc người có đồng ý rõ ràng. Nội dung liên quan đến trẻ vị thành niên bị cấm tuyệt đối. Nền tảng chỉ dành cho người lớn 18+."
+      },
+      {
+        "q": "Tại sao AI lột đồ của chúng tôi tốt hơn ClothOff hoặc Undress.cc?",
+        "a": "Chúng tôi ưu tiên độ chính xác giải phẫu, ánh sáng tự nhiên và ít artifact hơn trên tư thế khó. Ngoài ra còn có công cụ bổ sung trong cùng một nơi. Tín dụng miễn phí và mã khuyến mãi xuất hiện thường xuyên trên trang chủ và bot Telegram, giúp dễ thử nghiệm mà không cần trả tiền."
+      },
+      {
+        "q": "Tôi có cần cài đặt gì hoặc đăng ký bắt buộc không?",
+        "a": "Không cần cài đặt — mọi thứ chạy trên trình duyệt. Tài khoản miễn phí cho nhiều hạn mức hơn, nhưng dùng thử hạn chế thường có sẵn mà không cần đăng ký đầy đủ. Tín dụng miễn phí cũng có thể nhận qua bot Telegram."
+      },
+      {
+        "q": "Loại ảnh nào cho kết quả tốt nhất?",
+        "a": "Ảnh rõ nét, ánh sáng tốt, cơ thể hiện rõ toàn bộ hoặc gần như toàn bộ cho kết quả tốt nhất. Góc chính diện và ba phần tư ổn định hơn. Đường viền quần áo và cơ thể càng rõ thì chất lượng càng cao."
+      },
+      {
+        "q": "Tại sao đôi khi xuất hiện artifact?",
+        "a": "Artifact thường xuất hiện hơn ở tư thế rất phức tạp, khi cơ thể bị che nhiều, ánh sáng yếu hoặc độ phân giải thấp. Hãy thử ảnh khác hoặc góc tốt hơn — kết quả thường cải thiện rõ rệt."
+      },
+      {
+        "q": "Tôi có thể dùng kết quả cho mục đích thương mại không?",
+        "a": "Phụ thuộc vào quyền bạn có đối với ảnh gốc và điều khoản sử dụng dịch vụ. Dù kết quả tốt vẫn phải tôn trọng sự đồng ý của người trong ảnh và bản quyền."
+      },
+      {
+        "q": "Có hoạt động với ảnh nam và các kiểu cơ thể khác nhau không?",
+        "a": "Các mô hình hiện tại xử lý được nhiều kiểu cơ thể. Chất lượng có thể thay đổi tùy góc và chất lượng ảnh gốc. Cách tốt nhất để thử là tải ảnh lên bằng tín dụng miễn phí từ bot Telegram."
+      },
+      {
+        "q": "Sự khác biệt giữa lột đồ và tạo từ đầu là gì?",
+        "a": "Lột đồ dựa trên ảnh cụ thể của bạn: tư thế, khuôn mặt, góc và ánh sáng được giữ phần lớn, chủ yếu thay đổi quần áo. Tạo từ đầu tạo ảnh từ văn bản và không bắt buộc giữ nguyên vẻ ngoài gốc."
+      },
+      {
+        "q": "Làm sao để thanh toán tín dụng và có những phương thức nào?",
+        "a": "Thanh toán qua hệ thống an toàn trực tiếp trên trang web. Thẻ và các phương thức phổ biến khác có sẵn (danh sách đầy đủ hiện trên trang mua). Sau khi thanh toán tín dụng được cộng tự động. Tín dụng miễn phí và mã khuyến mãi cập nhật có thể nhận trong bot Telegram và trang chủ."
+      },
+      {
+        "q": "Có thể hoàn trả tín dụng hoặc yêu cầu hoàn tiền không?",
+        "a": "Tín dụng trả phí chưa dùng thường không hết hạn và vẫn còn trong tài khoản. Hoàn tiền có thể thực hiện trong các trường hợp quy định (lỗi kỹ thuật, trừ trùng, v.v.). Liên hệ hỗ trợ để yêu cầu. Tín dụng miễn phí và mã khuyến mãi từ bot Telegram không được hoàn — chúng thuộc chương trình khuyến mãi."
+      },
+      {
+        "q": "Có bot Telegram không và có thể nhận gì từ đó?",
+        "a": "Có, chúng tôi có bot Telegram. Tín dụng miễn phí, mã khuyến mãi và tin tức xuất hiện thường xuyên. Kiểm tra ưu đãi hiện tại trên trang chủ và trong chính bot — mã hợp lệ và bonus cho người dùng mới và cũ được đăng ở đó. Tham gia qua liên kết ở header hoặc footer."
+      },
+      {
+        "q": "Làm sao để xóa tài khoản?",
+        "a": "Bạn có thể xóa tài khoản trong cài đặt hồ sơ hoặc liên hệ hỗ trợ. Sau khi xác nhận, tài khoản và dữ liệu liên quan sẽ bị xóa theo chính sách quyền riêng tư. Tín dụng trả phí chưa dùng thường mất khi xóa. Tín dụng miễn phí từ bot Telegram cũng không được giữ lại."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} — trang chủ",
+    "description": "Công cụ AI lột đồ tiên tiến. Kết quả chân thực, xử lý nhanh và ưu tiên quyền riêng tư. Tín dụng miễn phí và mã khuyến mãi trên trang chủ và bot Telegram. Chỉ dành cho người lớn 18+. Luôn xin sự đồng ý trước khi tải ảnh của người khác.",
+    "columns": [
+      {
+        "title": "Công cụ",
+        "links": [
+          "AI Lột Đồ",
+          "Đổi Mặt Lên Khỏa Thân",
+          "Tạo Ahegao",
+          "Tất cả công cụ AI"
+        ]
+      },
+      {
+        "title": "Hỗ trợ",
+        "links": [
+          "Cách hoạt động",
+          "Câu hỏi thường gặp",
+          "Bot Telegram (tín dụng và mã)",
+          "Liên hệ"
+        ]
+      },
+      {
+        "title": "Pháp lý",
+        "links": [
+          "Điều khoản sử dụng",
+          "Chính sách quyền riêng tư",
+          "Chính sách 18+ và đồng ý",
+          "Hoàn tiền"
+        ]
+      }
+    ],
+    "legal": [
+      "Điều khoản sử dụng",
+      "Chính sách quyền riêng tư",
+      "Chính sách nội dung và đồng ý"
+    ],
+    "copyright": "Bảo lưu mọi quyền. Chỉ dành cho người lớn 18+. Sử dụng có trách nhiệm và chỉ với sự đồng ý rõ ràng. Tín dụng miễn phí và mã khuyến mãi trên trang chủ và bot Telegram."
+  }
+}

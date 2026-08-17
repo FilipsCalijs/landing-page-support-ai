@@ -1,0 +1,483 @@
+{
+  "_about": "Versione italiana. Tutti i testi visibili sono qui. Le chiavi con _ non vengono visualizzate.",
+
+  "meta": {
+    "locale": "it",
+    "label": "Italiano",
+    "short": "IT",
+    "htmlLang": "it",
+    "ogLocale": "it_IT",
+    "siteTitle": "{brand} — Rimuovi Vestiti AI | Rimozione Vestiti da Foto Online",
+    "titleTemplate": "%s — {brand}",
+    "pageTitle": "Rimuovi Vestiti AI — Rimozione Vestiti da Foto con Intelligenza Artificiale",
+    "pageDescription": "Rimuovi vestiti AI in modo rapido e realistico. Il nostro strumento di rimozione vestiti da foto trasforma qualsiasi immagine in pochi secondi. Crediti gratuiti e codici promo sulla homepage e nel Telegram bot. Veloce, anonimo e solo +18.",
+    "ogImageAlt": "Rimuovi vestiti AI — prima e dopo realistico"
+  },
+
+  "gate": {
+    "rules": [
+      "Questo sito contiene contenuti per adulti, inclusa nudità e materiale sessualmente esplicito.",
+      "È severamente vietato caricare o utilizzare immagini di minori o di qualsiasi persona senza il suo consenso esplicito.",
+      "Ti assumi la piena responsabilità per tutte le immagini che crei su questa piattaforma.",
+      "Cliccando su «Accetto» confermi di avere raggiunto la maggiore età nella tua giurisdizione, accetti le condizioni sopra indicate e acconsenti alla visione di contenuti sessualmente espliciti."
+    ],
+    "accept": "Accetto",
+    "a11yLabel": "Conferma di età e consenso"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} — home",
+    "langLabel": "Cambia lingua",
+    "menuOpen": "Apri menu",
+    "menuClose": "Chiudi menu",
+    "links": [
+      "Rimuovi Vestiti AI",
+      "Come funziona",
+      "Vantaggi",
+      "FAQ"
+    ],
+    "social": [
+      "Telegram bot — crediti gratuiti, codici promo e novità"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [
+      "Intelligenza Artificiale",
+      "AI"
+    ],
+    "titleLines": [
+      "Rimuovi",
+      "Vestiti",
+      "AI"
+    ],
+    "subtitleStrong": "Rimuovi i vestiti da qualsiasi foto in pochi secondi.",
+    "subtitle": "La nostra AI per rimuovere vestiti offre risultati realistici e naturali. Basta caricare l’immagine. Crediti gratuiti e codici promo disponibili sulla homepage e nel nostro Telegram bot.",
+    "cta": "Carica foto e rimuovi vestiti",
+    "imageAlt": "Demo rimuovi vestiti AI — foto vestita diventa un nudo realistico"
+  },
+
+  "stats": {
+    "a11yLabel": "Cifre principali della piattaforma",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Nuovi utenti oggi"
+      },
+      {
+        "value": "97%",
+        "label": "Generazioni riuscite"
+      },
+      {
+        "value": "348.000",
+        "label": "Utenti registrati in totale"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "Strumenti AI per rimuovere vestiti e creare contenuti per adulti",
+    "badge": "Più usato",
+    "cta": "Prova ora",
+    "items": [
+      {
+        "title": "Rimuovi Vestiti AI / Rimozione Vestiti",
+        "body": "Il miglior strumento di rimozione vestiti con intelligenza artificiale. La nostra AI analizza la forma del corpo, le pieghe dei vestiti, la luce e le ombre per generare pelle realistica e proporzioni naturali. Il modo più veloce per rimuovere i vestiti da una foto. Crediti gratuiti e codici promo sulla homepage e nel Telegram bot.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "Rimuovi vestiti AI prima e dopo",
+        "badge": true
+      },
+      {
+        "title": "Scambio di Volto su Nudo",
+        "body": "Posiziona qualsiasi volto su un corpo nudo mantenendo illuminazione, tono della pelle e posa. Ideale dopo aver usato il rimuovi vestiti. I nuovi utenti trovano crediti gratuiti nel Telegram bot.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Risultato scambio di volto su nudo"
+      },
+      {
+        "title": "Generatore di Effetti sul Volto",
+        "body": "Aggiungi effetti realistici sul volto con un clic. Funziona sia sulle foto originali che su quelle già elaborate. Codici promo e crediti gratuiti sulla homepage e nel bot.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Anteprima effetti sul volto"
+      },
+      {
+        "title": "Corpo Incinta con AI",
+        "body": "Trasforma qualsiasi foto in un corpo incinta naturale mantenendo il volto e la posa. Strumento creativo oltre la semplice rimozione vestiti. Segui i crediti gratuiti nel Telegram bot.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Trasformazione corpo incinta"
+      },
+      {
+        "title": "Volto di Orgamo / Ahegao",
+        "body": "Crea espressioni di orgasmo e ahegao con controllo dell’intensità. Può essere combinato con il rimuovi vestiti. Crediti gratuiti e codici promo sulla homepage e nel Telegram bot.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Anteprima volto di orgasmo"
+      },
+      {
+        "title": "Generatore Ahegao AI",
+        "body": "Espressioni ahegao classiche con alto dettaglio. Funziona da solo o dopo la rimozione dei vestiti. Controlla i bonus attuali nel Telegram bot e sulla homepage.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "Risultato generatore Ahegao"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "Prova rimuovi vestiti AI gratis",
+    "ariaLabel": "Esempi prima e dopo di rimuovi vestiti AI",
+    "pagerLabel": "Scegli un esempio prima e dopo",
+    "slideLabel": "Mostra esempio {n}",
+    "slides": [
+      {
+        "title": "Rimuovi vestiti AI realistico su foto comuni",
+        "body": "L’AI identifica i vestiti, predice la forma del corpo sotto e ricostruisce pelle, texture e ombre in modo naturale. Il risultato sembra una foto reale, non un ritaglio grezzo. Crediti gratuiti e codici promo disponibili sulla homepage e nel Telegram bot.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Foto originale vestita",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Risultato realistico dopo rimozione vestiti",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Funziona bene su pose e sfondi complessi",
+        "body": "Anche con braccia incrociate, angoli laterali o sfondo mosso, l’AI mantiene l’anatomia e bordi puliti. È addestrata a separare il corpo dall’ambiente. Segui le promozioni di crediti gratuiti nel Telegram bot.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Posa complessa prima dell’elaborazione",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Risultato pulito su posa complessa",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Alto dettaglio della pelle e luce naturale",
+        "body": "I modelli generano pelle liscia, dettagli realistici e illuminazione che si accorda con la foto originale. Così si evita l’aspetto artificiale. Codici promo e crediti gratuiti sulla homepage e nel Telegram bot.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Foto studio prima della rimozione vestiti",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Risultato dettagliato con luce naturale",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "Come"
+      },
+      {
+        "text": "rimuovere i vestiti da qualsiasi foto",
+        "accent": true
+      },
+      {
+        "text": "in 3 semplici passaggi"
+      }
+    ],
+    "subline": "Senza prompt complicati. Senza installazioni. Crediti gratuiti e codici promo sulla homepage e nel Telegram bot.",
+    "steps": [
+      {
+        "title": "Carica la foto",
+        "body": "Scegli un’immagine nitida di una persona maggiorenne con consenso (JPG o PNG). Gli angoli frontali e di tre quarti con buona illuminazione danno i migliori risultati. Crediti gratuiti si trovano nel Telegram bot e sulla homepage."
+      },
+      {
+        "title": "L’AI elabora l’immagine",
+        "body": "Lo strumento di rimozione vestiti identifica i vestiti, costruisce il modello del corpo e genera pelle realistica rispettando posa, luce e ombre. Il processo richiede in media 5–12 secondi."
+      },
+      {
+        "title": "Scarica o perfeziona il risultato",
+        "body": "Vedi il risultato subito. Scaricalo in alta qualità o usa gli strumenti extra (scambio di volto, effetti, ahegao). Non dimenticare di controllare il Telegram bot: lì appaiono regolarmente crediti gratuiti e codici promo."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Perché scegliere il nostro"
+      },
+      {
+        "text": "rimuovi vestiti AI",
+        "accent": true
+      },
+      {
+        "text": "rispetto ad altri"
+      }
+    ],
+    "subline": "Confronto onesto con strumenti popolari. Crediti gratuiti e codici promo sulla homepage e nel Telegram bot.",
+    "caption": "Confronto di rimuovi vestiti AI con ClothOff, Undress.cc e altri",
+    "rowHeader": "Funzione",
+    "columns": [
+      "Il nostro Rimuovi Vestiti AI",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Sì",
+      "no": "No",
+      "partial": "Parziale"
+    },
+    "rows": [
+      {
+        "label": "Pelle e anatomia realistiche",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Prova gratuita senza registrazione",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Elaborazione in 5–12 secondi",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Funziona su pose complesse",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Non conserva le foto in modo permanente",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Strumenti extra (volto, effetti)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Buono su mobile",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Politica chiara +18 e consenso",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      },
+      {
+        "label": "Telegram bot con crediti gratuiti",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Codici promo sulla homepage",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Prova il nostro rimuovi vestiti AI",
+      "ClothOff",
+      "Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Perché il nostro"
+      },
+      {
+        "text": "rimuovi vestiti AI",
+        "accent": true
+      },
+      {
+        "text": "dà risultati migliori"
+      }
+    ],
+    "items": [
+      {
+        "title": "Vero fotorealismo, non solo cancellazione dei vestiti",
+        "body": "Molti strumenti cancellano solo il tessuto e lasciano macchie innaturali. La nostra AI ricostruisce il volume del corpo, la texture della pelle e le ombre morbide. Il risultato sembra una foto reale. Crediti gratuiti e codici promo sulla homepage e nel Telegram bot.",
+        "imageAlt": "Dettaglio di pelle realistica dopo la rimozione vestiti"
+      },
+      {
+        "title": "Veloce anche su foto difficili",
+        "body": "Sfondo mosso, braccia incrociate, angolo laterale o poca luce: il modello è addestrato per questi casi. Il tempo medio di generazione è di 5–12 secondi. Segui le promozioni di crediti gratuiti nel Telegram bot.",
+        "imageAlt": "Rimuovi vestiti AI su posa e sfondo complessi"
+      },
+      {
+        "title": "Privacy al primo posto",
+        "body": "Le foto vengono elaborate in sessioni temporanee e eliminate automaticamente. Non creiamo gallerie permanenti e non vendiamo dati. Rimani anonimo. I crediti gratuiti si possono ottenere tramite il Telegram bot con il minimo di dati.",
+        "imageAlt": "Elaborazione immagini sicura e privata"
+      },
+      {
+        "title": "Più della semplice rimozione vestiti",
+        "body": "Dopo aver rimosso i vestiti puoi applicare scambio di volto, regolazioni del corpo, ahegao e altri effetti. Una sola piattaforma sostituisce diversi servizi. Codici promo e crediti gratuiti sulla homepage e nel Telegram bot.",
+        "imageAlt": "Strumenti AI extra dopo la rimozione vestiti"
+      },
+      {
+        "title": "Crediti gratuiti e codici promo su Telegram",
+        "body": "Distribuiamo regolarmente crediti gratuiti e codici promo validi. Le offerte attuali appaiono sulla homepage del sito e nel Telegram bot. Unisciti al bot per non perdere bonus e aggiornamenti.",
+        "imageAlt": "Telegram bot con crediti gratuiti e codici promo"
+      },
+      {
+        "title": "Processo semplice, senza impostazioni complicate",
+        "body": "Non serve scrivere prompt lunghi. Carichi la foto — ottieni il risultato. Per la maggior parte degli utenti questo è sufficiente. Crediti gratuiti per iniziare si trovano sulla homepage e nel Telegram bot.",
+        "imageAlt": "Processo semplice di caricamento e risultato"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Domande frequenti",
+    "title": "Domande su rimuovi vestiti AI e rimozione vestiti da foto",
+    "subtitle": "Tutto ciò che serve sapere prima di caricare la prima foto. Crediti gratuiti e codici promo sulla homepage e nel Telegram bot.",
+    "items": [
+      {
+        "q": "Cos’è un rimuovi vestiti AI / strumento di rimozione vestiti?",
+        "a": "Un rimuovi vestiti AI (anche chiamato rimozione vestiti o undress AI) è un’intelligenza artificiale che analizza una foto vestita, predice il corpo sotto i vestiti e genera una versione nuda realistica. I modelli moderni si concentrano su pelle naturale, anatomia corretta e illuminazione coerente. Il servizio è riservato ai maggiorenni (+18) e deve essere usato solo con consenso. Crediti gratuiti e codici promo si trovano sulla homepage e nel Telegram bot."
+      },
+      {
+        "q": "Posso provarlo gratis?",
+        "a": "Sì. I nuovi utenti ricevono di solito crediti gratuiti. Dopo il periodo di prova è possibile acquistare altri crediti. Spesso non serve la carta per iniziare. I crediti gratuiti e codici promo attuali vengono pubblicati sulla homepage e nel nostro Telegram bot — controlla regolarmente."
+      },
+      {
+        "q": "Quanto tempo richiede l’elaborazione?",
+        "a": "La maggior parte delle foto viene elaborata in 5–12 secondi a seconda della risoluzione, della complessità della posa e del carico dei server. File molto grandi o angoli difficili possono richiedere un po’ più di tempo."
+      },
+      {
+        "q": "È sicuro e privato?",
+        "a": "Le immagini caricate vengono elaborate in sessioni temporanee e eliminate automaticamente. Non conserviamo copie permanenti e non condividiamo le foto con terzi. Usa solo immagini tue o di persone che hanno dato consenso esplicito. Il servizio è strettamente +18."
+      },
+      {
+        "q": "Posso caricare qualsiasi foto?",
+        "a": "Tecnicamente l’AI funziona con la maggior parte delle foto nitide di persone. Legalmente ed eticamente devi caricare solo immagini tue o di persone con consenso chiaro. Il contenuto con minori è severamente proibito. La piattaforma è esclusivamente per adulti +18."
+      },
+      {
+        "q": "Perché il nostro rimuovi vestiti AI è migliore di ClothOff o Undress.cc?",
+        "a": "Diamo priorità alla precisione anatomica, alla luce naturale e a meno artefatti sulle pose difficili. Inoltre abbiamo strumenti extra nello stesso posto. Crediti gratuiti e codici promo appaiono regolarmente sulla homepage e nel Telegram bot, facilitando le prove senza pagare."
+      },
+      {
+        "q": "Devo installare qualcosa o registrarmi obbligatoriamente?",
+        "a": "Non serve installare nulla — tutto funziona nel browser. Un account gratuito dà più limiti, ma una prova limitata è spesso disponibile senza registrazione completa. I crediti gratuiti si possono ottenere anche tramite il Telegram bot."
+      },
+      {
+        "q": "Che tipo di foto danno i migliori risultati?",
+        "a": "Foto nitide con buona illuminazione, in cui il corpo appare intero o quasi, funzionano meglio. Gli angoli frontali e di tre quarti sono più stabili. Più chiari sono i contorni dei vestiti e del corpo, migliore è la qualità."
+      },
+      {
+        "q": "Perché a volte compaiono artefatti?",
+        "a": "Gli artefatti sono più frequenti su pose molto complesse, quando il corpo è fortemente coperto, con poca luce o bassa risoluzione. Prova un’altra foto o un angolo migliore: spesso il risultato migliora sensibilmente."
+      },
+      {
+        "q": "Posso usare il risultato a scopi commerciali?",
+        "a": "Dipende dai diritti che hai sull’immagine originale e dalle condizioni d’uso del servizio. Anche con un buon risultato, devi rispettare il consenso delle persone e i diritti d’autore."
+      },
+      {
+        "q": "Funziona su foto di uomini e diversi tipi di corpo?",
+        "a": "I modelli attuali gestiscono diversi tipi di corpo. La qualità può variare in base all’angolo e alla qualità della foto originale. Il modo migliore per provarlo è caricare un’immagine usando crediti gratuiti dal Telegram bot."
+      },
+      {
+        "q": "Qual è la differenza tra rimuovere i vestiti e un generatore da zero?",
+        "a": "La rimozione vestiti parte dalla tua foto concreta: posa, volto, angolo e illuminazione vengono in gran parte conservati, si cambiano soprattutto i vestiti. Un generatore da zero crea l’immagine da testo e non è obbligato a mantenere l’aspetto originale."
+      },
+      {
+        "q": "Come pago i crediti e quali metodi di pagamento ci sono?",
+        "a": "Il pagamento avviene tramite sistemi sicuri direttamente sul sito. Carte e altri metodi popolari sono disponibili (l’elenco completo appare nella pagina di acquisto). Dopo il pagamento i crediti vengono accreditati automaticamente. Crediti gratuiti e codici promo aggiornati si possono ottenere nel Telegram bot e sulla homepage."
+      },
+      {
+        "q": "Si possono restituire crediti o chiedere un rimborso?",
+        "a": "I crediti a pagamento non utilizzati di solito non scadono e restano sull’account. Il rimborso in denaro è possibile nei casi previsti dalle regole (errore tecnico, doppia addebito, ecc.). Per richiederlo contatta il supporto. I crediti gratuiti e i codici promo del Telegram bot non sono rimborsabili: fanno parte di promozioni."
+      },
+      {
+        "q": "Esiste un Telegram bot e cosa si può ottenere?",
+        "a": "Sì, abbiamo un Telegram bot. Lì appaiono regolarmente crediti gratuiti, codici promo e novità. Controlla le offerte attuali sulla homepage del sito e nel bot stesso: lì vengono pubblicati codici validi e bonus per utenti nuovi e già registrati. Entra tramite il link nell’header o nel footer."
+      },
+      {
+        "q": "Come elimino l’account?",
+        "a": "Puoi eliminare l’account dalle impostazioni del profilo o contattando il supporto. Dopo la conferma, l’account e i dati associati vengono eliminati secondo la politica sulla privacy. I crediti a pagamento non utilizzati di solito si perdono con l’eliminazione. Anche i crediti gratuiti del Telegram bot non vengono conservati."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} — home",
+    "description": "Strumento avanzato di rimozione vestiti AI. Risultati realistici, elaborazione veloce e privacy prioritaria. Crediti gratuiti e codici promo sulla homepage e nel Telegram bot. Solo per adulti +18. Ottieni sempre il consenso prima di caricare foto di altre persone.",
+    "columns": [
+      {
+        "title": "Strumenti",
+        "links": [
+          "Rimuovi Vestiti AI",
+          "Scambio di Volto su Nudo",
+          "Generatore Ahegao",
+          "Tutti gli strumenti AI"
+        ]
+      },
+      {
+        "title": "Supporto",
+        "links": [
+          "Come funziona",
+          "Domande frequenti",
+          "Telegram bot (crediti e codici)",
+          "Contatti"
+        ]
+      },
+      {
+        "title": "Legale",
+        "links": [
+          "Termini di utilizzo",
+          "Informativa sulla privacy",
+          "Politica +18 e consenso",
+          "Rimborsi"
+        ]
+      }
+    ],
+    "legal": [
+      "Termini di utilizzo",
+      "Informativa sulla privacy",
+      "Politica sui contenuti e sul consenso"
+    ],
+    "copyright": "Tutti i diritti riservati. Solo per adulti +18. Usalo in modo responsabile e solo con consenso esplicito. Crediti gratuiti e codici promo sulla homepage e nel Telegram bot."
+  }
+}

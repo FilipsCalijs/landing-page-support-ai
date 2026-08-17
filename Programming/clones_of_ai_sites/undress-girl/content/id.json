@@ -1,0 +1,483 @@
+{
+  "_about": "Versi Bahasa Indonesia. Semua teks yang terlihat ada di sini. Kunci yang diawali _ tidak ditampilkan.",
+
+  "meta": {
+    "locale": "id",
+    "label": "Bahasa Indonesia",
+    "short": "ID",
+    "htmlLang": "id",
+    "ogLocale": "id_ID",
+    "siteTitle": "{brand} — Undress AI | Penghapus Pakaian AI Online Gratis",
+    "titleTemplate": "%s — {brand}",
+    "pageTitle": "Undress AI Online — Penghapus Pakaian AI Gratis",
+    "pageDescription": "Buka baju di foto apa pun dalam hitungan detik dengan AI canggih. Hasil realistis, uji coba gratis tanpa pendaftaran. Kredit gratis dan kode promo di beranda serta bot Telegram. Cepat, privat, khusus 18+.",
+    "ogImageAlt": "Pratinjau sebelum dan sesudah AI penghapus pakaian"
+  },
+
+  "gate": {
+    "rules": [
+      "Situs ini memuat konten dewasa, termasuk ketelanjangan dan materi seksual eksplisit.",
+      "Mengunggah atau menggunakan gambar anak di bawah umur, atau gambar siapa pun tanpa persetujuan tegas mereka, sangat dilarang.",
+      "Anda menanggung tanggung jawab penuh atas setiap gambar yang Anda buat di platform ini.",
+      "Dengan mengklik “Setuju” Anda menyatakan bahwa Anda telah mencapai usia dewasa di wilayah hukum Anda, menyetujui ketentuan di atas, dan bersedia melihat konten seksual eksplisit."
+    ],
+    "accept": "Setuju",
+    "a11yLabel": "Konfirmasi usia dan persetujuan"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} — beranda",
+    "langLabel": "Ubah bahasa",
+    "menuOpen": "Buka menu",
+    "menuClose": "Tutup menu",
+    "links": [
+      "Undress AI",
+      "Cara kerja",
+      "Keunggulan",
+      "FAQ"
+    ],
+    "social": [
+      "Bot Telegram — kredit gratis, kode promo, dan berita"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [
+      "Kecerdasan Buatan",
+      "AI"
+    ],
+    "titleLines": [
+      "Undress",
+      "AI",
+      "Online"
+    ],
+    "subtitleStrong": "Buka baju di foto apa pun dalam hitungan detik.",
+    "subtitle": "Penghapus pakaian AI kami menghasilkan hasil realistis dan alami. Cukup unggah foto. Kredit gratis dan kode promo tersedia di beranda serta bot Telegram.",
+    "cta": "Unggah foto dan buka baju",
+    "imageAlt": "Demo Undress AI — foto berpakaian menjadi telanjang realistis"
+  },
+
+  "stats": {
+    "a11yLabel": "Angka utama platform",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Pengguna baru hari ini"
+      },
+      {
+        "value": "97%",
+        "label": "Generasi berhasil"
+      },
+      {
+        "value": "348.000",
+        "label": "Total pengguna terdaftar"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "Alat AI untuk melepas pakaian dan membuat konten dewasa",
+    "badge": "Paling sering digunakan",
+    "cta": "Coba sekarang",
+    "items": [
+      {
+        "title": "Undress AI / Penghapus Pakaian AI",
+        "body": "Penghapus pakaian AI terbaik. AI kami menganalisis bentuk tubuh, lipatan pakaian, cahaya, dan bayangan untuk menghasilkan kulit realistis dan proporsi alami. Cara tercepat membuka baju di foto. Kredit gratis dan kode promo tersedia di beranda serta bot Telegram.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "Undress AI sebelum dan sesudah",
+        "badge": true
+      },
+      {
+        "title": "Tukar Wajah ke Telanjang",
+        "body": "Tempatkan wajah apa pun ke tubuh telanjang sambil mempertahankan pencahayaan, warna kulit, dan pose. Ideal setelah menggunakan penghapus pakaian. Pengguna baru menemukan kredit gratis di bot Telegram.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Hasil tukar wajah ke telanjang"
+      },
+      {
+        "title": "Generator Efek Wajah",
+        "body": "Tambahkan efek realistis ke wajah dengan satu klik. Bekerja pada foto asli maupun yang sudah diproses. Kode promo dan kredit gratis di beranda serta bot.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Pratinjau efek wajah"
+      },
+      {
+        "title": "Tubuh Hamil AI",
+        "body": "Ubah foto apa pun menjadi tubuh hamil alami sambil mempertahankan wajah dan pose. Alat kreatif di luar sekadar melepas pakaian. Pantau kredit gratis di bot Telegram.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Transformasi tubuh hamil"
+      },
+      {
+        "title": "Wajah Orgasm / Ahegao",
+        "body": "Buat ekspresi orgasm dan ahegao dengan kontrol intensitas. Bisa digabung dengan penghapus pakaian. Kredit gratis dan kode promo di beranda serta bot Telegram.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Pratinjau wajah orgasm"
+      },
+      {
+        "title": "Generator Ahegao AI",
+        "body": "Ekspresi ahegao klasik dengan detail tinggi. Bisa digunakan sendiri atau setelah melepas pakaian. Cek bonus terkini di bot Telegram dan beranda.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "Hasil generator Ahegao AI"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "Coba Undress AI gratis",
+    "ariaLabel": "Contoh sebelum dan sesudah Undress AI",
+    "pagerLabel": "Pilih contoh sebelum dan sesudah",
+    "slideLabel": "Tampilkan contoh {n}",
+    "slides": [
+      {
+        "title": "Undress AI realistis pada foto biasa",
+        "body": "AI mengenali pakaian, memprediksi bentuk tubuh di baliknya, dan merekonstruksi kulit, tekstur, serta bayangan secara alami. Hasilnya terlihat seperti foto asli, bukan potongan kasar. Kredit gratis dan kode promo tersedia di beranda serta bot Telegram.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Foto asli berpakaian",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Hasil realistis setelah melepas pakaian",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Bekerja baik pada pose dan latar kompleks",
+        "body": "Meski lengan silang, sudut samping, atau latar ramai, AI tetap menjaga anatomi dan tepi bersih. Dilatih memisahkan tubuh dari lingkungan. Ikuti promosi kredit gratis di bot Telegram.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Pose kompleks sebelum diproses",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Hasil bersih pada pose kompleks",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Detail kulit tinggi dan cahaya alami",
+        "body": "Model menghasilkan kulit halus, detail realistis, dan pencahayaan yang sesuai foto asli. Menghindari tampilan buatan. Kode promo dan kredit gratis di beranda serta bot Telegram.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Foto studio sebelum melepas pakaian",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Hasil detail dengan cahaya alami",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "Cara"
+      },
+      {
+        "text": "membuka baju di foto apa pun",
+        "accent": true
+      },
+      {
+        "text": "hanya dalam 3 langkah"
+      }
+    ],
+    "subline": "Tanpa prompt rumit. Tanpa instalasi. Kredit gratis dan kode promo di beranda serta bot Telegram.",
+    "steps": [
+      {
+        "title": "Unggah foto",
+        "body": "Pilih foto tajam orang berusia 18+ yang telah memberi izin (JPG atau PNG). Sudut depan dan tiga perempat dengan pencahayaan baik memberi hasil terbaik. Kredit gratis tersedia di bot Telegram dan beranda."
+      },
+      {
+        "title": "AI memproses gambar",
+        "body": "Penghapus pakaian mengenali pakaian, membangun model tubuh, dan menghasilkan kulit realistis dengan mempertimbangkan pose, cahaya, serta bayangan. Proses rata-rata memakan waktu 5–12 detik."
+      },
+      {
+        "title": "Unduh hasil atau sempurnakan",
+        "body": "Lihat hasil segera. Unduh dengan kualitas tinggi atau gunakan alat tambahan (tukar wajah, efek, ahegao). Jangan lupa cek bot Telegram — kredit gratis dan kode promo muncul secara rutin."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Mengapa memilih"
+      },
+      {
+        "text": "Undress AI",
+        "accent": true
+      },
+      {
+        "text": "kami"
+      }
+    ],
+    "subline": "Perbandingan jujur dengan alat populer. Kredit gratis dan kode promo di beranda serta bot Telegram.",
+    "caption": "Perbandingan Undress AI dengan ClothOff, Undress.cc, dan lainnya",
+    "rowHeader": "Fitur",
+    "columns": [
+      "Undress AI kami",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Ya",
+      "no": "Tidak",
+      "partial": "Sebagian"
+    },
+    "rows": [
+      {
+        "label": "Kulit dan anatomi realistis",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Uji coba gratis tanpa pendaftaran",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Proses dalam 5–12 detik",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Bekerja pada pose kompleks",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Tidak menyimpan foto permanen",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Alat tambahan (wajah, efek)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Baik di ponsel",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Kebijakan 18+ dan izin yang jelas",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      },
+      {
+        "label": "Bot Telegram dengan kredit gratis",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Kode promo di beranda",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Coba Undress AI kami",
+      "ClothOff",
+      "Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Mengapa"
+      },
+      {
+        "text": "Undress AI",
+        "accent": true
+      },
+      {
+        "text": "kami memberi hasil lebih baik"
+      }
+    ],
+    "items": [
+      {
+        "title": "Fotorealisme sejati, bukan sekadar menghapus pakaian",
+        "body": "Banyak alat hanya menghapus kain dan meninggalkan noda tidak alami. AI kami merekonstruksi volume tubuh, tekstur kulit, dan bayangan lembut. Hasilnya terlihat seperti foto asli. Kredit gratis dan kode promo di beranda serta bot Telegram.",
+        "imageAlt": "Detail kulit realistis setelah melepas pakaian"
+      },
+      {
+        "title": "Cepat bahkan pada foto sulit",
+        "body": "Latar ramai, lengan silang, sudut samping, atau cahaya lemah — model dilatih untuk itu. Waktu generasi rata-rata 5–12 detik. Ikuti promosi kredit gratis di bot Telegram.",
+        "imageAlt": "Undress AI pada pose dan latar kompleks"
+      },
+      {
+        "title": "Privasi diutamakan",
+        "body": "Foto diproses dalam sesi sementara dan dihapus otomatis. Kami tidak membuat galeri permanen dan tidak menjual data. Anda tetap anonim. Kredit gratis bisa didapat lewat bot Telegram dengan data minimal.",
+        "imageAlt": "Pemrosesan gambar aman dan privat"
+      },
+      {
+        "title": "Lebih dari sekadar melepas pakaian",
+        "body": "Setelah melepas pakaian Anda bisa menerapkan tukar wajah, penyesuaian tubuh, ahegao, dan efek lain. Satu platform menggantikan banyak layanan. Kode promo dan kredit gratis di beranda serta bot Telegram.",
+        "imageAlt": "Alat AI tambahan setelah melepas pakaian"
+      },
+      {
+        "title": "Kredit gratis dan kode promo lewat Telegram",
+        "body": "Kami rutin membagikan kredit gratis dan kode promo valid. Penawaran terkini muncul di beranda dan bot Telegram. Bergabung dengan bot agar tidak ketinggalan bonus dan pembaruan.",
+        "imageAlt": "Bot Telegram dengan kredit gratis dan kode promo"
+      },
+      {
+        "title": "Proses sederhana, tanpa pengaturan rumit",
+        "body": "Tidak perlu prompt panjang. Unggah foto — dapatkan hasil. Bagi sebagian besar pengguna ini sudah cukup. Kredit gratis untuk memulai tersedia di beranda serta bot Telegram.",
+        "imageAlt": "Proses unggah dan hasil yang sederhana"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Pertanyaan yang sering diajukan",
+    "title": "Pertanyaan tentang Undress AI dan penghapus pakaian AI",
+    "subtitle": "Semua yang perlu Anda ketahui sebelum mengunggah foto pertama. Kredit gratis dan kode promo di beranda serta bot Telegram.",
+    "items": [
+      {
+        "q": "Apa itu Undress AI / penghapus pakaian AI?",
+        "a": "Undress AI (juga disebut DeepNude AI atau penghapus pakaian AI) adalah kecerdasan buatan yang menganalisis foto berpakaian, memprediksi tubuh di baliknya, dan menghasilkan versi telanjang realistis. Model modern fokus pada kulit alami, anatomi benar, dan pencahayaan konsisten. Layanan khusus 18+ dan hanya boleh digunakan dengan izin. Kredit gratis dan kode promo tersedia di beranda serta bot Telegram."
+      },
+      {
+        "q": "Bisakah saya mencoba gratis?",
+        "a": "Ya. Pengguna baru biasanya mendapat kredit gratis. Setelah masa uji coba bisa membeli lebih banyak. Sering kali tidak perlu kartu untuk memulai. Kredit gratis dan kode promo terkini dipublikasikan di beranda dan bot Telegram kami — periksa secara rutin."
+      },
+      {
+        "q": "Berapa lama prosesnya?",
+        "a": "Sebagian besar foto diproses dalam 5–12 detik tergantung resolusi, kompleksitas pose, dan beban server. File sangat besar atau sudut sulit bisa sedikit lebih lama."
+      },
+      {
+        "q": "Apakah aman dan privat?",
+        "a": "Gambar yang diunggah diproses dalam sesi sementara dan dihapus otomatis. Kami tidak menyimpan salinan permanen dan tidak membagikan foto ke pihak ketiga. Hanya gunakan foto diri sendiri atau orang yang memberi izin eksplisit. Layanan ketat 18+."
+      },
+      {
+        "q": "Bisakah saya mengunggah foto apa saja?",
+        "a": "Secara teknis AI bekerja dengan sebagian besar foto orang yang tajam. Secara hukum dan etika hanya boleh mengunggah foto diri sendiri atau orang dengan izin jelas. Konten yang melibatkan anak di bawah umur dilarang keras. Platform khusus dewasa 18+."
+      },
+      {
+        "q": "Mengapa Undress AI kami lebih baik daripada ClothOff atau Undress.cc?",
+        "a": "Kami menekankan akurasi anatomi, cahaya alami, dan lebih sedikit artefak pada pose sulit. Ditambah alat tambahan di satu tempat. Kredit gratis dan kode promo muncul rutin di beranda serta bot Telegram, sehingga mudah mencoba tanpa bayar."
+      },
+      {
+        "q": "Apakah perlu menginstal sesuatu atau wajib daftar?",
+        "a": "Tidak perlu instalasi — semua berjalan di browser. Akun gratis memberi batas lebih tinggi, tetapi uji coba terbatas sering tersedia tanpa pendaftaran penuh. Kredit gratis juga bisa didapat lewat bot Telegram."
+      },
+      {
+        "q": "Foto seperti apa yang memberi hasil terbaik?",
+        "a": "Foto tajam dengan pencahayaan baik di mana tubuh terlihat utuh atau hampir utuh bekerja paling baik. Sudut depan dan tiga perempat lebih stabil. Semakin jelas kontur pakaian dan tubuh, semakin baik kualitasnya."
+      },
+      {
+        "q": "Mengapa kadang muncul artefak?",
+        "a": "Artefak lebih sering muncul pada pose sangat kompleks, saat tubuh tertutup banyak, cahaya lemah, atau resolusi rendah. Coba foto lain atau sudut lebih baik — hasil biasanya meningkat signifikan."
+      },
+      {
+        "q": "Bisakah hasil digunakan secara komersial?",
+        "a": "Tergantung hak Anda atas gambar asli dan syarat penggunaan layanan. Bahkan dengan hasil bagus Anda tetap harus menghormati izin orang dan hak cipta."
+      },
+      {
+        "q": "Apakah bekerja pada foto pria dan berbagai tipe tubuh?",
+        "a": "Model saat ini menangani berbagai tipe tubuh. Kualitas bisa berbeda tergantung sudut dan kualitas foto asli. Cara terbaik mencoba adalah mengunggah gambar dengan kredit gratis dari bot Telegram."
+      },
+      {
+        "q": "Apa perbedaan melepas pakaian dengan menghasilkan dari nol?",
+        "a": "Melepas pakaian dimulai dari foto konkret Anda: pose, wajah, sudut, dan pencahayaan sebagian besar dipertahankan, yang berubah terutama pakaian. Menghasilkan dari nol membuat gambar dari teks dan tidak wajib mempertahankan penampilan asli."
+      },
+      {
+        "q": "Bagaimana cara membayar kredit dan metode pembayaran apa saja yang tersedia?",
+        "a": "Pembayaran dilakukan melalui sistem aman langsung di situs. Kartu dan metode populer lainnya tersedia (daftar lengkap muncul di halaman pembelian). Setelah pembayaran kredit ditambahkan otomatis. Kredit gratis dan kode promo terbaru bisa didapat di bot Telegram dan beranda."
+      },
+      {
+        "q": "Bisakah kredit dikembalikan atau meminta refund?",
+        "a": "Kredit berbayar yang belum digunakan biasanya tidak kedaluwarsa dan tetap di akun. Refund uang dimungkinkan dalam kasus yang ditentukan aturan (kesalahan teknis, penagihan ganda, dll.). Hubungi dukungan untuk mengajukan. Kredit gratis dan kode promo dari bot Telegram tidak dapat dikembalikan — itu bagian dari promosi."
+      },
+      {
+        "q": "Ada bot Telegram? Apa yang bisa didapat dari sana?",
+        "a": "Ya, kami punya bot Telegram. Kredit gratis, kode promo, dan berita muncul secara rutin. Cek penawaran terkini di beranda dan di bot itu sendiri — kode valid serta bonus untuk pengguna baru dan lama dipublikasikan di sana. Bergabung lewat tautan di header atau footer."
+      },
+      {
+        "q": "Bagaimana cara menghapus akun?",
+        "a": "Anda bisa menghapus akun di pengaturan profil atau menghubungi dukungan. Setelah konfirmasi, akun dan data terkait dihapus sesuai kebijakan privasi. Kredit berbayar yang belum digunakan biasanya hilang saat penghapusan. Kredit gratis dari bot Telegram juga tidak disimpan."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} — beranda",
+    "description": "Penghapus pakaian AI canggih. Hasil realistis, proses cepat, dan privasi diutamakan. Kredit gratis dan kode promo di beranda serta bot Telegram. Khusus dewasa 18+. Selalu dapatkan izin sebelum mengunggah foto orang lain.",
+    "columns": [
+      {
+        "title": "Alat",
+        "links": [
+          "Undress AI",
+          "Tukar Wajah ke Telanjang",
+          "Generator Ahegao",
+          "Semua alat AI"
+        ]
+      },
+      {
+        "title": "Dukungan",
+        "links": [
+          "Cara kerja",
+          "Pertanyaan yang sering diajukan",
+          "Bot Telegram (kredit dan kode)",
+          "Kontak"
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          "Syarat penggunaan",
+          "Kebijakan privasi",
+          "Kebijakan 18+ dan izin",
+          "Pengembalian dana"
+        ]
+      }
+    ],
+    "legal": [
+      "Syarat penggunaan",
+      "Kebijakan privasi",
+      "Kebijakan konten dan izin"
+    ],
+    "copyright": "Hak cipta dilindungi. Khusus dewasa 18+. Gunakan secara bertanggung jawab dan hanya dengan izin eksplisit. Kredit gratis dan kode promo tersedia di beranda serta bot Telegram."
+  }
+}

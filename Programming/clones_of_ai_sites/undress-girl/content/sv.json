@@ -1,0 +1,483 @@
+{
+  "_about": "Svensk version. Alla synliga texter finns här. Nycklar med _ renderas inte.",
+
+  "meta": {
+    "locale": "sv",
+    "label": "Svenska",
+    "short": "SV",
+    "htmlLang": "sv",
+    "ogLocale": "sv_SE",
+    "siteTitle": "{brand} — AI Klädborttagare | Ta bort kläder från foto online",
+    "titleTemplate": "%s — {brand}",
+    "pageTitle": "AI Klädborttagare — Ta bort kläder från foto med AI",
+    "pageDescription": "AI klädborttagare för snabba och realistiska resultat. Vårt verktyg tar bort kläder från vilket foto som helst på några sekunder. Gratis krediter och kampanjkoder på startsidan och i Telegram-boten. Snabbt, anonymt och endast 18+.",
+    "ogImageAlt": "AI klädborttagare — före och efter realistiskt"
+  },
+
+  "gate": {
+    "rules": [
+      "Den här webbplatsen innehåller vuxeninnehåll, inklusive nakenhet och sexuellt explicit material.",
+      "Det är strängt förbjudet att ladda upp eller använda bilder av minderåriga, eller av någon person utan dennes uttryckliga samtycke.",
+      "Du bär fullt ansvar för alla bilder du skapar på den här plattformen.",
+      "Genom att klicka på ”Godkänn” bekräftar du att du har uppnått myndighetsåldern i din jurisdiktion, godkänner villkoren ovan och samtycker till att se sexuellt explicit innehåll."
+    ],
+    "accept": "Godkänn",
+    "a11yLabel": "Bekräftelse av ålder och samtycke"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} — startsida",
+    "langLabel": "Byt språk",
+    "menuOpen": "Öppna meny",
+    "menuClose": "Stäng meny",
+    "links": [
+      "AI Klädborttagare",
+      "Hur det fungerar",
+      "Fördelar",
+      "FAQ"
+    ],
+    "social": [
+      "Telegram-bot — gratis krediter, kampanjkoder och nyheter"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [
+      "Artificiell Intelligens",
+      "AI"
+    ],
+    "titleLines": [
+      "AI",
+      "Kläd",
+      "Borttagare"
+    ],
+    "subtitleStrong": "Ta bort kläder från vilket foto som helst på några sekunder.",
+    "subtitle": "Vår AI klädborttagare ger realistiska och naturliga resultat. Ladda bara upp bilden. Gratis krediter och kampanjkoder finns på startsidan och i vår Telegram-bot.",
+    "cta": "Ladda upp foto och ta bort kläder",
+    "imageAlt": "Demo AI klädborttagare — påklädd foto blir realistiskt naken"
+  },
+
+  "stats": {
+    "a11yLabel": "Viktiga plattformssiffror",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Nya användare idag"
+      },
+      {
+        "value": "97%",
+        "label": "Lyckade genereringar"
+      },
+      {
+        "value": "348.000",
+        "label": "Registrerade användare totalt"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "AI-verktyg för att ta bort kläder och skapa vuxeninnehåll",
+    "badge": "Mest använd",
+    "cta": "Prova nu",
+    "items": [
+      {
+        "title": "AI Klädborttagare / Ta bort kläder",
+        "body": "Den bästa AI klädborttagaren. Vår AI analyserar kroppsform, klädveck, ljus och skuggor för att generera realistisk hud och naturliga proportioner. Det snabbaste sättet att ta bort kläder från ett foto. Gratis krediter och kampanjkoder på startsidan och i Telegram-boten.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "AI klädborttagare före och efter",
+        "badge": true
+      },
+      {
+        "title": "Ansiktsbyte på Naken",
+        "body": "Placera vilket ansikte som helst på en naken kropp med bevarad belysning, hudton och pose. Idealisk efter att ha använt klädborttagaren. Nya användare hittar gratis krediter i Telegram-boten.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Resultat av ansiktsbyte på naken"
+      },
+      {
+        "title": "Generator för Ansiktseffekter",
+        "body": "Lägg till realistiska effekter på ansiktet med ett klick. Fungerar både på originalfoton och redan bearbetade bilder. Kampanjkoder och gratis krediter på startsidan och i boten.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Förhandsvisning av ansiktseffekter"
+      },
+      {
+        "title": "Gravid Kropp med AI",
+        "body": "Förvandla vilket foto som helst till en naturlig gravid kropp med bevarat ansikte och pose. Kreativt verktyg utöver ren klädborttagning. Följ gratis krediter i Telegram-boten.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Transformation till gravid kropp"
+      },
+      {
+        "title": "Orgasmansikte / Ahegao",
+        "body": "Skapa orgasm- och ahegao-uttryck med intensitetskontroll. Kan kombineras med klädborttagaren. Gratis krediter och kampanjkoder på startsidan och i Telegram-boten.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Förhandsvisning av orgasmansikte"
+      },
+      {
+        "title": "AI Ahegao Generator",
+        "body": "Klassiska ahegao-uttryck med hög detaljnivå. Fungerar ensamt eller efter att kläderna tagits bort. Kolla aktuella bonusar i Telegram-boten och på startsidan.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "Resultat AI Ahegao"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "Prova AI klädborttagare gratis",
+    "ariaLabel": "Före-och-efter-exempel på AI klädborttagare",
+    "pagerLabel": "Välj ett före-och-efter-exempel",
+    "slideLabel": "Visa exempel {n}",
+    "slides": [
+      {
+        "title": "Realistisk AI klädborttagare på vanliga foton",
+        "body": "AI:n identifierar kläderna, förutspår kroppsformen under och rekonstruerar hud, textur och skuggor på ett naturligt sätt. Resultatet ser ut som ett riktigt foto, inte en grov utklippning. Gratis krediter och kampanjkoder finns på startsidan och i Telegram-boten.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Originalfoto med kläder",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Realistiskt resultat efter klädborttagning",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Fungerar bra på komplexa poser och bakgrunder",
+        "body": "Även med korsade armar, sidovinklar eller rörig bakgrund behåller AI:n anatomi och rena kanter. Den är tränad att skilja kroppen från omgivningen. Följ gratis kredit-kampanjer i Telegram-boten.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Komplex pose före bearbetning",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Rent resultat på komplex pose",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Hög huddetalj och naturligt ljus",
+        "body": "Modellerna genererar slät hud, realistiska detaljer och belysning som passar originalfotot. Så undviks ett konstgjort utseende. Kampanjkoder och gratis krediter på startsidan och i Telegram-boten.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Studiofoto före klädborttagning",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Detaljerat resultat med naturligt ljus",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "Hur man"
+      },
+      {
+        "text": "tar bort kläder från vilket foto som helst",
+        "accent": true
+      },
+      {
+        "text": "i 3 enkla steg"
+      }
+    ],
+    "subline": "Utan komplicerade prompts. Utan installation. Gratis krediter och kampanjkoder på startsidan och i Telegram-boten.",
+    "steps": [
+      {
+        "title": "Ladda upp fotot",
+        "body": "Välj en skarp bild av en myndig person med samtycke (JPG eller PNG). Frontala och trekvarts-vinklar med bra belysning ger bäst resultat. Gratis krediter finns i Telegram-boten och på startsidan."
+      },
+      {
+        "title": "AI:n bearbetar bilden",
+        "body": "Klädborttagaren identifierar kläderna, bygger kroppsmodellen och genererar realistisk hud med hänsyn till pose, ljus och skuggor. Processen tar i genomsnitt 5–12 sekunder."
+      },
+      {
+        "title": "Ladda ner eller förfina resultatet",
+        "body": "Se resultatet direkt. Ladda ner det i hög kvalitet eller använd extra verktyg (ansiktsbyte, effekter, ahegao). Glöm inte att kolla Telegram-boten — där dyker gratis krediter och kampanjkoder upp regelbundet."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Varför välja vår"
+      },
+      {
+        "text": "AI klädborttagare",
+        "accent": true
+      },
+      {
+        "text": "istället för andra"
+      }
+    ],
+    "subline": "Ärlig jämförelse med populära verktyg. Gratis krediter och kampanjkoder på startsidan och i Telegram-boten.",
+    "caption": "Jämförelse av AI klädborttagare med ClothOff, Undress.cc och andra",
+    "rowHeader": "Funktion",
+    "columns": [
+      "Vår AI Klädborttagare",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Ja",
+      "no": "Nej",
+      "partial": "Delvis"
+    },
+    "rows": [
+      {
+        "label": "Realistisk hud och anatomi",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Gratis prov utan registrering",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Bearbetning på 5–12 sekunder",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Fungerar på komplexa poser",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Sparar inte foton permanent",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Extra verktyg (ansikte, effekter)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Bra på mobil",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Tydlig 18+ och samtyckespolicy",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      },
+      {
+        "label": "Telegram-bot med gratis krediter",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Kampanjkoder på startsidan",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Prova vår AI klädborttagare",
+      "ClothOff",
+      "Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Varför vår"
+      },
+      {
+        "text": "AI klädborttagare",
+        "accent": true
+      },
+      {
+        "text": "ger bättre resultat"
+      }
+    ],
+    "items": [
+      {
+        "title": "Äkta fotorealism, inte bara borttagning av tyg",
+        "body": "Många verktyg tar bara bort tyget och lämnar onaturliga fläckar. Vår AI rekonstruerar kroppsvolym, hudtextur och mjuka skuggor. Resultatet ser ut som ett riktigt foto. Gratis krediter och kampanjkoder på startsidan och i Telegram-boten.",
+        "imageAlt": "Detalj av realistisk hud efter klädborttagning"
+      },
+      {
+        "title": "Snabbt även på svåra foton",
+        "body": "Rörig bakgrund, korsade armar, sidovinkel eller svagt ljus — modellen är tränad för dessa fall. Genomsnittlig genereringstid är 5–12 sekunder. Följ gratis kredit-kampanjer i Telegram-boten.",
+        "imageAlt": "AI klädborttagare på komplex pose och bakgrund"
+      },
+      {
+        "title": "Integritet först",
+        "body": "Foton bearbetas i tillfälliga sessioner och raderas automatiskt. Vi skapar inga permanenta gallerier och säljer ingen data. Du förblir anonym. Gratis krediter kan fås via Telegram-boten med minimala uppgifter.",
+        "imageAlt": "Säker och privat bildbehandling"
+      },
+      {
+        "title": "Mer än bara ta bort kläder",
+        "body": "Efter att ha tagit bort kläderna kan du tillämpa ansiktsbyte, kroppsjusteringar, ahegao och andra effekter. En plattform ersätter flera tjänster. Kampanjkoder och gratis krediter på startsidan och i Telegram-boten.",
+        "imageAlt": "Extra AI-verktyg efter klädborttagning"
+      },
+      {
+        "title": "Gratis krediter och kampanjkoder via Telegram",
+        "body": "Vi delar regelbundet ut gratis krediter och giltiga kampanjkoder. Aktuella erbjudanden syns på startsidan och i Telegram-boten. Gå med i boten för att inte missa bonusar och uppdateringar.",
+        "imageAlt": "Telegram-bot med gratis krediter och kampanjkoder"
+      },
+      {
+        "title": "Enkelt process, utan komplicerade inställningar",
+        "body": "Inga långa prompts behövs. Ladda upp fotot — få resultatet. För de flesta användare räcker det. Gratis krediter för att börja finns på startsidan och i Telegram-boten.",
+        "imageAlt": "Enkel uppladdnings- och resultatprocess"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Vanliga frågor",
+    "title": "Frågor om AI klädborttagare och ta bort kläder från foto",
+    "subtitle": "Allt du behöver veta innan du laddar upp det första fotot. Gratis krediter och kampanjkoder på startsidan och i Telegram-boten.",
+    "items": [
+      {
+        "q": "Vad är en AI klädborttagare?",
+        "a": "En AI klädborttagare (även kallad undress AI eller ta bort kläder från foto) är en artificiell intelligens som analyserar ett påklätt foto, förutspår kroppen under kläderna och genererar en realistisk nakenversion. Moderna modeller fokuserar på naturlig hud, korrekt anatomi och konsekvent belysning. Tjänsten är endast för 18+ och får bara användas med samtycke. Gratis krediter och kampanjkoder finns på startsidan och i Telegram-boten."
+      },
+      {
+        "q": "Kan jag prova gratis?",
+        "a": "Ja. Nya användare får vanligtvis gratis krediter. Efter provperioden kan man köpa fler. Ofta behövs ingen kort för att börja. Aktuella gratis krediter och kampanjkoder publiceras på startsidan och i vår Telegram-bot — kolla regelbundet."
+      },
+      {
+        "q": "Hur lång tid tar bearbetningen?",
+        "a": "De flesta foton bearbetas på 5–12 sekunder beroende på upplösning, posens komplexitet och serverbelastning. Mycket stora filer eller svåra vinklar kan ta något längre tid."
+      },
+      {
+        "q": "Är det säkert och privat?",
+        "a": "Uppladdade bilder bearbetas i tillfälliga sessioner och raderas automatiskt. Vi sparar inga permanenta kopior och delar inte foton med tredje part. Använd bara bilder på dig själv eller personer som gett uttryckligt samtycke. Tjänsten är strikt 18+."
+      },
+      {
+        "q": "Får jag ladda upp vilket foto som helst?",
+        "a": "Tekniskt fungerar AI:n med de flesta skarpa foton på personer. Juridiskt och etiskt får du bara ladda upp egna bilder eller bilder på personer med tydligt samtycke. Innehåll med minderåriga är strängt förbjudet. Plattformen är endast för vuxna 18+."
+      },
+      {
+        "q": "Varför är vår AI klädborttagare bättre än ClothOff eller Undress.cc?",
+        "a": "Vi prioriterar anatomisk precision, naturligt ljus och färre artefakter på svåra poser. Dessutom har vi extra verktyg på samma ställe. Gratis krediter och kampanjkoder dyker upp regelbundet på startsidan och i Telegram-boten, vilket gör det lättare att testa utan att betala."
+      },
+      {
+        "q": "Måste jag installera något eller registrera mig obligatoriskt?",
+        "a": "Inget att installera — allt fungerar i webbläsaren. Ett gratis konto ger fler gränser, men en begränsad provperiod är ofta tillgänglig utan full registrering. Gratis krediter kan också fås via Telegram-boten."
+      },
+      {
+        "q": "Vilka foton ger bäst resultat?",
+        "a": "Skarpa foton med bra belysning, där kroppen syns helt eller nästan helt, fungerar bäst. Frontala och trekvarts-vinklar är stabilare. Ju tydligare konturerna av kläder och kropp är, desto bättre kvalitet."
+      },
+      {
+        "q": "Varför uppstår ibland artefakter?",
+        "a": "Artefakter är vanligare vid mycket komplexa poser, när kroppen är kraftigt täckt, vid svagt ljus eller låg upplösning. Prova ett annat foto eller en bättre vinkel — ofta förbättras resultatet betydligt."
+      },
+      {
+        "q": "Får jag använda resultatet kommersiellt?",
+        "a": "Det beror på vilka rättigheter du har till originalbilden och tjänstens användarvillkor. Även med ett bra resultat måste du respektera personernas samtycke och upphovsrätt."
+      },
+      {
+        "q": "Fungerar det på foton av män och olika kroppstyper?",
+        "a": "Nuvarande modeller hanterar olika kroppstyper. Kvaliteten kan variera beroende på vinkel och originalfotots kvalitet. Bästa sättet att testa är att ladda upp en bild med gratis krediter från Telegram-boten."
+      },
+      {
+        "q": "Vad är skillnaden mellan att ta bort kläder och generera från noll?",
+        "a": "Att ta bort kläder utgår från ditt konkreta foto: pose, ansikte, vinkel och belysning behålls till stor del, främst kläderna ändras. Att generera från noll skapar bilden från text och behöver inte behålla det ursprungliga utseendet."
+      },
+      {
+        "q": "Hur betalar jag krediter och vilka betalningsmetoder finns?",
+        "a": "Betalning sker via säkra system direkt på webbplatsen. Kort och andra populära metoder finns tillgängliga (hela listan visas på köpsidan). Efter betalning krediteras krediterna automatiskt. Gratis krediter och aktuella kampanjkoder kan fås i Telegram-boten och på startsidan."
+      },
+      {
+        "q": "Kan man lämna tillbaka krediter eller begära återbetalning?",
+        "a": "Oanvända betalda krediter går vanligtvis inte ut och stannar på kontot. Återbetalning i pengar är möjlig i de fall som anges i reglerna (tekniskt fel, dubbel debitering etc.). Kontakta support för att begära det. Gratis krediter och kampanjkoder från Telegram-boten är inte återbetalningsbara — de ingår i kampanjer."
+      },
+      {
+        "q": "Finns det en Telegram-bot och vad kan man få där?",
+        "a": "Ja, vi har en Telegram-bot. Där dyker gratis krediter, kampanjkoder och nyheter upp regelbundet. Kolla aktuella erbjudanden på startsidan och i boten själv — där publiceras giltiga koder och bonusar för nya och befintliga användare. Gå med via länken i headern eller footern."
+      },
+      {
+        "q": "Hur tar jag bort mitt konto?",
+        "a": "Du kan ta bort kontot via profilinställningarna eller genom att kontakta support. Efter bekräftelse raderas kontot och tillhörande data enligt integritetspolicyn. Oanvända betalda krediter går vanligtvis förlorade vid borttagning. Även gratis krediter från Telegram-boten sparas inte."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} — startsida",
+    "description": "Avancerad AI klädborttagare. Realistiska resultat, snabb bearbetning och integritet i fokus. Gratis krediter och kampanjkoder på startsidan och i Telegram-boten. Endast för vuxna 18+. Inhämta alltid samtycke innan du laddar upp foton på andra personer.",
+    "columns": [
+      {
+        "title": "Verktyg",
+        "links": [
+          "AI Klädborttagare",
+          "Ansiktsbyte på Naken",
+          "Ahegao Generator",
+          "Alla AI-verktyg"
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          "Hur det fungerar",
+          "Vanliga frågor",
+          "Telegram-bot (krediter och koder)",
+          "Kontakt"
+        ]
+      },
+      {
+        "title": "Juridiskt",
+        "links": [
+          "Användarvillkor",
+          "Integritetspolicy",
+          "18+ och samtyckespolicy",
+          "Återbetalningar"
+        ]
+      }
+    ],
+    "legal": [
+      "Användarvillkor",
+      "Integritetspolicy",
+      "Innehålls- och samtyckespolicy"
+    ],
+    "copyright": "Alla rättigheter förbehållna. Endast för vuxna 18+. Använd ansvarsfullt och endast med uttryckligt samtycke. Gratis krediter och kampanjkoder på startsidan och i Telegram-boten."
+  }
+}

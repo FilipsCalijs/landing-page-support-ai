@@ -1,0 +1,483 @@
+{
+  "_about": "Nederlandse versie. Alle zichtbare teksten staan hier. Sleutels met _ worden niet weergegeven.",
+
+  "meta": {
+    "locale": "nl",
+    "label": "Nederlands",
+    "short": "NL",
+    "htmlLang": "nl",
+    "ogLocale": "nl_NL",
+    "siteTitle": "{brand} — AI Kledingverwijderaar | Kleding Verwijderen van Foto Online",
+    "titleTemplate": "%s — {brand}",
+    "pageTitle": "AI Kledingverwijderaar — Kleding Verwijderen van Foto met AI",
+    "pageDescription": "AI kledingverwijderaar voor snelle en realistische resultaten. Onze tool verwijdert kleding van elke foto in seconden. Gratis credits en promocodes op de homepage en in de Telegram-bot. Snel, anoniem en alleen 18+.",
+    "ogImageAlt": "AI kledingverwijderaar — voor en na realistisch"
+  },
+
+  "gate": {
+    "rules": [
+      "Deze website bevat inhoud voor volwassenen, waaronder naaktheid en seksueel expliciet materiaal.",
+      "Het uploaden of gebruiken van afbeeldingen van minderjarigen, of van personen zonder hun uitdrukkelijke toestemming, is strikt verboden.",
+      "U bent volledig verantwoordelijk voor alle afbeeldingen die u op dit platform maakt.",
+      "Door op “Accepteren” te klikken verklaart u dat u meerderjarig bent in uw rechtsgebied, akkoord gaat met de bovenstaande voorwaarden en instemt met het bekijken van seksueel expliciete inhoud."
+    ],
+    "accept": "Accepteren",
+    "a11yLabel": "Bevestiging van leeftijd en toestemming"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} — home",
+    "langLabel": "Taal wijzigen",
+    "menuOpen": "Menu openen",
+    "menuClose": "Menu sluiten",
+    "links": [
+      "AI Kledingverwijderaar",
+      "Hoe het werkt",
+      "Voordelen",
+      "FAQ"
+    ],
+    "social": [
+      "Telegram-bot — gratis credits, promocodes en nieuws"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [
+      "Kunstmatige Intelligentie",
+      "AI"
+    ],
+    "titleLines": [
+      "AI",
+      "Kleding",
+      "Verwijderaar"
+    ],
+    "subtitleStrong": "Verwijder kleding van elke foto in seconden.",
+    "subtitle": "Onze AI kledingverwijderaar levert realistische en natuurlijke resultaten. Upload gewoon de afbeelding. Gratis credits en promocodes vind je op de homepage en in onze Telegram-bot.",
+    "cta": "Upload foto en verwijder kleding",
+    "imageAlt": "Demo AI kledingverwijderaar — geklede foto wordt realistisch naakt"
+  },
+
+  "stats": {
+    "a11yLabel": "Belangrijkste cijfers van het platform",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Nieuwe gebruikers vandaag"
+      },
+      {
+        "value": "97%",
+        "label": "Geslaagde generaties"
+      },
+      {
+        "value": "348.000",
+        "label": "Geregistreerde gebruikers in totaal"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "AI-tools voor kleding verwijderen en adult content",
+    "badge": "Meest gebruikt",
+    "cta": "Nu proberen",
+    "items": [
+      {
+        "title": "AI Kledingverwijderaar / Kleding Verwijderen",
+        "body": "De beste AI kledingverwijderaar. Onze AI analyseert de lichaamsvorm, kledingplooien, licht en schaduwen om realistische huid en natuurlijke verhoudingen te genereren. De snelste manier om kleding van een foto te verwijderen. Gratis credits en promocodes op de homepage en in de Telegram-bot.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "AI kledingverwijderaar voor en na",
+        "badge": true
+      },
+      {
+        "title": "Gezichtswissel op Naakt",
+        "body": "Plaats elk gezicht op een naakt lichaam met behoud van belichting, huidtint en pose. Ideaal na het gebruik van de kledingverwijderaar. Nieuwe gebruikers vinden gratis credits in de Telegram-bot.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Resultaat gezichtswissel op naakt"
+      },
+      {
+        "title": "Generator voor Gezichtseffecten",
+        "body": "Voeg realistische effecten toe aan het gezicht met één klik. Werkt zowel op originele foto’s als op al bewerkte afbeeldingen. Promocodes en gratis credits op de homepage en in de bot.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Voorbeeld van gezichtseffecten"
+      },
+      {
+        "title": "Zwangere Lichaam met AI",
+        "body": "Verander elke foto in een natuurlijk zwanger lichaam met behoud van gezicht en pose. Creatieve tool naast pure kledingverwijdering. Volg gratis credits in de Telegram-bot.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Transformatie zwangere lichaam"
+      },
+      {
+        "title": "Orgasmegezicht / Ahegao",
+        "body": "Maak orgasme- en ahegao-uitdrukkingen met intensiteitscontrole. Kan worden gecombineerd met de kledingverwijderaar. Gratis credits en promocodes op de homepage en in de Telegram-bot.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Voorbeeld orgasmegezicht"
+      },
+      {
+        "title": "AI Ahegao Generator",
+        "body": "Klassieke ahegao-uitdrukkingen met hoog detailniveau. Werkt alleen of na het verwijderen van kleding. Check de actuele bonussen in de Telegram-bot en op de homepage.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "Resultaat AI Ahegao"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "Probeer AI kledingverwijderaar gratis",
+    "ariaLabel": "Voor-en-na voorbeelden van AI kledingverwijderaar",
+    "pagerLabel": "Kies een voor-en-na voorbeeld",
+    "slideLabel": "Toon voorbeeld {n}",
+    "slides": [
+      {
+        "title": "Realistische AI kledingverwijderaar op gewone foto’s",
+        "body": "De AI herkent de kleding, voorspelt de lichaamsvorm eronder en reconstrueert huid, textuur en schaduwen op natuurlijke wijze. Het resultaat lijkt op een echte foto, geen ruwe knip. Gratis credits en promocodes beschikbaar op de homepage en in de Telegram-bot.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Originele foto met kleding",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Realistisch resultaat na kledingverwijdering",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Werkt goed bij complexe poses en achtergronden",
+        "body": "Zelfs met gekruiste armen, zijaanzichten of een drukke achtergrond behoudt de AI de anatomie en schone randen. Hij is getraind om het lichaam van de omgeving te scheiden. Volg gratis-creditacties in de Telegram-bot.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Complexe pose voor verwerking",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Schoon resultaat bij complexe pose",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Hoog huiddetail en natuurlijk licht",
+        "body": "De modellen genereren gladde huid, realistische details en belichting die past bij de originele foto. Zo wordt een kunstmatig uiterlijk voorkomen. Promocodes en gratis credits op de homepage en in de Telegram-bot.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Studiofoto voor kledingverwijdering",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Gedetailleerd resultaat met natuurlijk licht",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "Hoe"
+      },
+      {
+        "text": "kleding van elke foto verwijderen",
+        "accent": true
+      },
+      {
+        "text": "in 3 eenvoudige stappen"
+      }
+    ],
+    "subline": "Zonder ingewikkelde prompts. Zonder installatie. Gratis credits en promocodes op de homepage en in de Telegram-bot.",
+    "steps": [
+      {
+        "title": "Upload de foto",
+        "body": "Kies een scherpe afbeelding van een meerderjarige persoon met toestemming (JPG of PNG). Frontale en driekwart-hoeken met goed licht geven de beste resultaten. Gratis credits vind je in de Telegram-bot en op de homepage."
+      },
+      {
+        "title": "De AI verwerkt de afbeelding",
+        "body": "De kledingverwijderaar herkent de kleding, bouwt het lichaamsmodel op en genereert realistische huid met respect voor pose, licht en schaduwen. Het proces duurt gemiddeld 5–12 seconden."
+      },
+      {
+        "title": "Download of verfijn het resultaat",
+        "body": "Bekijk het resultaat direct. Download het in hoge kwaliteit of gebruik extra tools (gezichtswissel, effecten, ahegao). Vergeet niet de Telegram-bot te checken: daar verschijnen regelmatig gratis credits en promocodes."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Waarom kiezen voor onze"
+      },
+      {
+        "text": "AI kledingverwijderaar",
+        "accent": true
+      },
+      {
+        "text": "in plaats van anderen"
+      }
+    ],
+    "subline": "Eerlijke vergelijking met populaire tools. Gratis credits en promocodes op de homepage en in de Telegram-bot.",
+    "caption": "Vergelijking van AI kledingverwijderaar met ClothOff, Undress.cc en anderen",
+    "rowHeader": "Functie",
+    "columns": [
+      "Onze AI Kledingverwijderaar",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Ja",
+      "no": "Nee",
+      "partial": "Gedeeltelijk"
+    },
+    "rows": [
+      {
+        "label": "Realistische huid en anatomie",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Gratis proberen zonder registratie",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Verwerking in 5–12 seconden",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Werkt bij complexe poses",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Slaat foto’s niet permanent op",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Extra tools (gezicht, effecten)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Goed op mobiel",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Duidelijke 18+ en toestemmingspolicy",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      },
+      {
+        "label": "Telegram-bot met gratis credits",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Promocodes op de homepage",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Probeer onze AI kledingverwijderaar",
+      "ClothOff",
+      "Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Waarom onze"
+      },
+      {
+        "text": "AI kledingverwijderaar",
+        "accent": true
+      },
+      {
+        "text": "betere resultaten geeft"
+      }
+    ],
+    "items": [
+      {
+        "title": "Echt fotorealisme, niet alleen kleding wissen",
+        "body": "Veel tools wissen alleen de stof en laten onnatuurlijke vlekken achter. Onze AI reconstrueert het lichaamsvolume, de huidtextuur en zachte schaduwen. Het resultaat lijkt op een echte foto. Gratis credits en promocodes op de homepage en in de Telegram-bot.",
+        "imageAlt": "Detail van realistische huid na kledingverwijdering"
+      },
+      {
+        "title": "Snel, ook bij moeilijke foto’s",
+        "body": "Drukke achtergrond, gekruiste armen, zijaanzicht of weinig licht: het model is hierop getraind. De gemiddelde generatietijd is 5–12 seconden. Volg gratis-creditacties in de Telegram-bot.",
+        "imageAlt": "AI kledingverwijderaar bij complexe pose en achtergrond"
+      },
+      {
+        "title": "Privacy eerst",
+        "body": "Foto’s worden verwerkt in tijdelijke sessies en automatisch verwijderd. We maken geen permanente galerijen en verkopen geen data. Je blijft anoniem. Gratis credits kun je via de Telegram-bot krijgen met minimale gegevens.",
+        "imageAlt": "Veilige en private beeldverwerking"
+      },
+      {
+        "title": "Meer dan alleen kleding verwijderen",
+        "body": "Na het verwijderen van kleding kun je gezichtswissel, lichaamsaanpassingen, ahegao en andere effecten toepassen. Eén platform vervangt meerdere diensten. Promocodes en gratis credits op de homepage en in de Telegram-bot.",
+        "imageAlt": "Extra AI-tools na kledingverwijdering"
+      },
+      {
+        "title": "Gratis credits en promocodes via Telegram",
+        "body": "We delen regelmatig gratis credits en geldige promocodes. Actuele aanbiedingen verschijnen op de homepage en in de Telegram-bot. Word lid van de bot om geen bonussen en updates te missen.",
+        "imageAlt": "Telegram-bot met gratis credits en promocodes"
+      },
+      {
+        "title": "Eenvoudig proces, zonder ingewikkelde instellingen",
+        "body": "Geen lange prompts nodig. Upload de foto — krijg het resultaat. Voor de meeste gebruikers is dit voldoende. Gratis credits om te beginnen vind je op de homepage en in de Telegram-bot.",
+        "imageAlt": "Eenvoudig upload- en resultaatproces"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Veelgestelde vragen",
+    "title": "Vragen over AI kledingverwijderaar en kleding verwijderen van foto",
+    "subtitle": "Alles wat je moet weten voordat je de eerste foto uploadt. Gratis credits en promocodes op de homepage en in de Telegram-bot.",
+    "items": [
+      {
+        "q": "Wat is een AI kledingverwijderaar?",
+        "a": "Een AI kledingverwijderaar (ook wel undress AI of kleding verwijderen van foto) is een kunstmatige intelligentie die een geklede foto analyseert, het lichaam onder de kleding voorspelt en een realistische naaktversie genereert. Moderne modellen richten zich op natuurlijke huid, correcte anatomie en consistente belichting. De dienst is alleen voor 18+ en mag alleen met toestemming worden gebruikt. Gratis credits en promocodes vind je op de homepage en in de Telegram-bot."
+      },
+      {
+        "q": "Kan ik het gratis proberen?",
+        "a": "Ja. Nieuwe gebruikers krijgen meestal gratis credits. Na de proefperiode kun je meer credits kopen. Vaak is geen kaart nodig om te starten. Actuele gratis credits en promocodes worden gepubliceerd op de homepage en in onze Telegram-bot — check regelmatig."
+      },
+      {
+        "q": "Hoe lang duurt de verwerking?",
+        "a": "De meeste foto’s worden in 5–12 seconden verwerkt, afhankelijk van resolutie, complexiteit van de pose en serverbelasting. Zeer grote bestanden of lastige hoeken kunnen iets langer duren."
+      },
+      {
+        "q": "Is het veilig en privé?",
+        "a": "Geüploade afbeeldingen worden verwerkt in tijdelijke sessies en automatisch verwijderd. We bewaren geen permanente kopieën en delen foto’s niet met derden. Gebruik alleen afbeeldingen van jezelf of van personen die uitdrukkelijke toestemming hebben gegeven. De dienst is strikt 18+."
+      },
+      {
+        "q": "Mag ik elke foto uploaden?",
+        "a": "Technisch werkt de AI met de meeste scherpe foto’s van personen. Juridisch en ethisch mag je alleen eigen afbeeldingen of afbeeldingen van personen met duidelijke toestemming uploaden. Content met minderjarigen is strikt verboden. Het platform is uitsluitend voor volwassenen 18+."
+      },
+      {
+        "q": "Waarom is onze AI kledingverwijderaar beter dan ClothOff of Undress.cc?",
+        "a": "We leggen de nadruk op anatomische precisie, natuurlijk licht en minder artefacten bij lastige poses. Daarnaast hebben we extra tools op één plek. Gratis credits en promocodes verschijnen regelmatig op de homepage en in de Telegram-bot, wat testen zonder betaling makkelijker maakt."
+      },
+      {
+        "q": "Moet ik iets installeren of me verplicht registreren?",
+        "a": "Niets installeren — alles werkt in de browser. Een gratis account geeft meer limieten, maar een beperkte proef is vaak beschikbaar zonder volledige registratie. Gratis credits kun je ook via de Telegram-bot krijgen."
+      },
+      {
+        "q": "Welke foto’s geven de beste resultaten?",
+        "a": "Scherpe foto’s met goed licht, waarbij het lichaam geheel of grotendeels zichtbaar is, werken het best. Frontale en driekwart-hoeken zijn stabieler. Hoe duidelijker de contouren van kleding en lichaam, hoe beter de kwaliteit."
+      },
+      {
+        "q": "Waarom ontstaan er soms artefacten?",
+        "a": "Artefacten komen vaker voor bij zeer complexe poses, wanneer het lichaam sterk bedekt is, bij weinig licht of lage resolutie. Probeer een andere foto of een betere hoek — vaak verbetert het resultaat duidelijk."
+      },
+      {
+        "q": "Mag ik het resultaat commercieel gebruiken?",
+        "a": "Dat hangt af van de rechten die je hebt op de originele afbeelding en de gebruiksvoorwaarden van de dienst. Zelfs bij een goed resultaat moet je de toestemming van de personen en auteursrechten respecteren."
+      },
+      {
+        "q": "Werkt het op foto’s van mannen en verschillende lichaamstypes?",
+        "a": "Huidige modellen gaan om met verschillende lichaamstypes. De kwaliteit kan variëren afhankelijk van de hoek en de kwaliteit van de originele foto. De beste manier om te testen is een afbeelding uploaden met gratis credits uit de Telegram-bot."
+      },
+      {
+        "q": "Wat is het verschil tussen kleding verwijderen en genereren vanaf nul?",
+        "a": "Kleding verwijderen vertrekt van jouw concrete foto: pose, gezicht, hoek en belichting blijven grotendeels behouden, vooral de kleding verandert. Genereren vanaf nul maakt de afbeelding uit tekst en hoeft de originele verschijning niet te behouden."
+      },
+      {
+        "q": "Hoe betaal ik credits en welke betaalmethoden zijn er?",
+        "a": "Betaling gebeurt via veilige systemen direct op de site. Kaarten en andere populaire methoden zijn beschikbaar (de volledige lijst staat op de aankooppagina). Na betaling worden de credits automatisch bijgeschreven. Gratis credits en actuele promocodes kun je krijgen in de Telegram-bot en op de homepage."
+      },
+      {
+        "q": "Kan ik credits teruggeven of een terugbetaling vragen?",
+        "a": "Ongebruikte betaalde credits verlopen meestal niet en blijven op de account. Geldterugbetaling is mogelijk in de gevallen die in de regels staan (technische fout, dubbele afschrijving, enz.). Neem contact op met support om dit aan te vragen. Gratis credits en promocodes uit de Telegram-bot zijn niet terugbetaalbaar — ze maken deel uit van acties."
+      },
+      {
+        "q": "Is er een Telegram-bot en wat kan ik daar krijgen?",
+        "a": "Ja, we hebben een Telegram-bot. Daar verschijnen regelmatig gratis credits, promocodes en nieuws. Check de actuele aanbiedingen op de homepage en in de bot zelf — daar worden geldige codes en bonussen voor nieuwe en bestaande gebruikers gepubliceerd. Word lid via de link in de header of footer."
+      },
+      {
+        "q": "Hoe verwijder ik mijn account?",
+        "a": "Je kunt het account verwijderen via de profielinstellingen of door contact op te nemen met support. Na bevestiging worden het account en de bijbehorende gegevens verwijderd volgens het privacybeleid. Ongebruikte betaalde credits gaan meestal verloren bij verwijdering. Ook gratis credits uit de Telegram-bot worden niet bewaard."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} — home",
+    "description": "Geavanceerde AI kledingverwijderaar. Realistische resultaten, snelle verwerking en privacy voorop. Gratis credits en promocodes op de homepage en in de Telegram-bot. Alleen voor volwassenen 18+. Vraag altijd toestemming voordat je foto’s van anderen uploadt.",
+    "columns": [
+      {
+        "title": "Tools",
+        "links": [
+          "AI Kledingverwijderaar",
+          "Gezichtswissel op Naakt",
+          "Ahegao Generator",
+          "Alle AI-tools"
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          "Hoe het werkt",
+          "Veelgestelde vragen",
+          "Telegram-bot (credits en codes)",
+          "Contact"
+        ]
+      },
+      {
+        "title": "Juridisch",
+        "links": [
+          "Gebruiksvoorwaarden",
+          "Privacybeleid",
+          "18+ en toestemmingspolicy",
+          "Terugbetalingen"
+        ]
+      }
+    ],
+    "legal": [
+      "Gebruiksvoorwaarden",
+      "Privacybeleid",
+      "Content- en toestemmingspolicy"
+    ],
+    "copyright": "Alle rechten voorbehouden. Alleen voor volwassenen 18+. Gebruik verantwoordelijk en alleen met uitdrukkelijke toestemming. Gratis credits en promocodes op de homepage en in de Telegram-bot."
+  }
+}

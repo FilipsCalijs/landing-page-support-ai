@@ -1,0 +1,483 @@
+{
+  "_about": "Suomenkielinen versio. Kaikki näkyvät tekstit ovat täällä. Avaimet, joissa on _, eivät näy.",
+
+  "meta": {
+    "locale": "fi",
+    "label": "Suomi",
+    "short": "FI",
+    "htmlLang": "fi",
+    "ogLocale": "fi_FI",
+    "siteTitle": "{brand} — AI-vaatteenpoistoaine | Tekoäly Vaatteiden Poisto Online",
+    "titleTemplate": "%s — {brand}",
+    "pageTitle": "AI-vaatteenpoistoaine — Poista vaatteet valokuvasta tekoälyllä",
+    "pageDescription": "AI-vaatteenpoistoaine poistaa vaatteet valokuvasta realistisesti sekunneissa. Nopea, anonyymi ja 18+. Ilmaiset krediitit ja promo-koodit etusivulla sekä Telegram-botissa.",
+    "ogImageAlt": "AI-vaatteenpoistoaine — ennen ja jälkeen realistinen tulos"
+  },
+
+  "gate": {
+    "rules": [
+      "Tämä sivusto sisältää aikuisviihdettä, mukaan lukien alastomuutta ja seksuaalisesti avointa materiaalia.",
+      "Alaikäisten tai kenen tahansa henkilön kuvien lataaminen ja käyttö ilman heidän nimenomaista suostumustaan on ehdottomasti kiellettyä.",
+      "Kannat täyden vastuun kaikista kuvista, jotka luot tällä palvelussa.",
+      "Napsauttamalla ”Hyväksyn” vahvistat, että olet täysi-ikäinen omalla lainkäyttöalueellasi, hyväksyt yllä olevat ehdot ja suostut katsomaan seksuaalisesti avointa sisältöä."
+    ],
+    "accept": "Hyväksyn",
+    "a11yLabel": "Iän ja suostumuksen vahvistus"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} — etusivu",
+    "langLabel": "Vaihda kieltä",
+    "menuOpen": "Avaa valikko",
+    "menuClose": "Sulje valikko",
+    "links": [
+      "AI-vaatteenpoistoaine",
+      "Miten se toimii",
+      "Edut",
+      "UKK"
+    ],
+    "social": [
+      "Telegram-botti — ilmaiset krediitit, promo-koodit ja uutiset"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [
+      "Tekoäly",
+      "AI"
+    ],
+    "titleLines": [
+      "AI",
+      "Vaatteen",
+      "Poistoaine"
+    ],
+    "subtitleStrong": "Poista vaatteet mistä tahansa valokuvasta sekunneissa.",
+    "subtitle": "Tekoälymme poistaa vaatteet realistisesti ja luonnollisesti. Lataa vain kuva. Ilmaiset krediitit ja promo-koodit löytyvät etusivulta sekä Telegram-botistamme.",
+    "cta": "Lataa kuva ja poista vaatteet",
+    "imageAlt": "Demo AI-vaatteenpoistoaine — puettu kuva muuttuu realistiseksi alastonkuvaksi"
+  },
+
+  "stats": {
+    "a11yLabel": "Alustan tärkeimmät luvut",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Uusia käyttäjiä tänään"
+      },
+      {
+        "value": "97%",
+        "label": "Onnistuneita generointeja"
+      },
+      {
+        "value": "348.000",
+        "label": "Rekisteröityneitä käyttäjiä yhteensä"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "Tekoälytyökalut vaatteiden poistoon ja aikuissisällön luomiseen",
+    "badge": "Suosituin",
+    "cta": "Kokeile nyt",
+    "items": [
+      {
+        "title": "AI-vaatteenpoistoaine / Tekoäly Vaatteiden Poisto",
+        "body": "Paras AI-vaatteenpoistoaine. Tekoäly analysoi vartalon muodon, vaatteiden laskokset, valon ja varjot ja luo realistisen ihon sekä luonnolliset mittasuhteet. Nopein tapa poistaa vaatteet valokuvasta. Ilmaiset krediitit ja promo-koodit etusivulla sekä Telegram-botissa.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "AI-vaatteenpoistoaine ennen ja jälkeen",
+        "badge": true
+      },
+      {
+        "title": "Kasvojenvaihto alastonkuvaan",
+        "body": "Aseta mikä tahansa kasvot alastonkehoon säilyttäen valaistus, ihon sävy ja asento. Ihanteellinen vaatteiden poiston jälkeen. Uudet käyttäjät löytävät ilmaisia krediittejä Telegram-botista.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Kasvojenvaihdon tulos alastonkuvassa"
+      },
+      {
+        "title": "Kasvoefektien generaattori",
+        "body": "Lisää realistisia efektejä kasvoihin yhdellä napsautuksella. Toimii sekä alkuperäisissä kuvissa että jo käsitellyissä. Promo-koodit ja ilmaiset krediitit etusivulla sekä botissa.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Kasvoefektien esikatselu"
+      },
+      {
+        "title": "Raskaana oleva vartalo tekoälyllä",
+        "body": "Muuta mikä tahansa kuva luonnolliseksi raskaana olevaksi vartaloksi säilyttäen kasvot ja asennon. Luova työkalu pelkän vaatteiden poiston lisäksi. Seuraa ilmaisia krediittejä Telegram-botista.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Raskaana olevan vartalon muunnos"
+      },
+      {
+        "title": "Orgasmikasvot / Ahegao",
+        "body": "Luo ilmeikkäitä orgasmikasvoja ja ahegao-ilmeitä säädettävällä intensiteetillä. Voidaan yhdistää vaatteenpoistoaineeseen. Ilmaiset krediitit ja promo-koodit etusivulla sekä Telegram-botissa.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Orgasmikasvojen esikatselu"
+      },
+      {
+        "title": "AI Ahegao Generator",
+        "body": "Klassiset ahegao-ilmeet korkealla yksityiskohdalla. Toimii itsenäisesti tai vaatteiden poiston jälkeen. Tarkista ajankohtaiset bonukset Telegram-botista ja etusivulta.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "AI Ahegao -tulos"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "Kokeile AI-vaatteenpoistoainetta ilmaiseksi",
+    "ariaLabel": "Ennen ja jälkeen -esimerkit AI-vaatteenpoistoaineesta",
+    "pagerLabel": "Valitse ennen ja jälkeen -esimerkki",
+    "slideLabel": "Näytä esimerkki {n}",
+    "slides": [
+      {
+        "title": "Realistinen AI-vaatteenpoistoaine tavallisissa kuvissa",
+        "body": "Tekoäly tunnistaa vaatteet, ennustaa vartalon muodon niiden alla ja rakentaa ihon, tekstuurin ja varjot luonnollisesti. Tulos näyttää oikealta valokuvalta, ei karkealta leikkaukselta. Ilmaiset krediitit ja promo-koodit etusivulla sekä Telegram-botissa.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Alkuperäinen kuva vaatteissa",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Realistinen tulos vaatteiden poiston jälkeen",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Toimii hyvin monimutkaisissa asennoissa ja taustoissa",
+        "body": "Vaikka kädet olisivat ristissä, kulma sivuttain tai tausta vilkas, tekoäly säilyttää anatomian ja siistit reunat. Se on koulutettu erottamaan keho ympäristöstä. Seuraa ilmaisia krediittejä Telegram-botista.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Monimutkainen asento ennen käsittelyä",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Siisti tulos monimutkaisessa asennossa",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Korkea ihon yksityiskohta ja luonnollinen valo",
+        "body": "Mallit tuottavat sileän ihon, realistiset yksityiskohdat ja valaistuksen, joka sopii alkuperäiseen kuvaan. Näin vältetään keinotekoinen ulkonäkö. Promo-koodit ja ilmaiset krediitit etusivulla sekä Telegram-botissa.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Studiokuva ennen vaatteiden poistoa",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Yksityiskohtainen tulos luonnollisella valolla",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "Kuinka"
+      },
+      {
+        "text": "poistaa vaatteet mistä tahansa valokuvasta",
+        "accent": true
+      },
+      {
+        "text": "kolmessa yksinkertaisessa vaiheessa"
+      }
+    ],
+    "subline": "Ei monimutkaisia kehotteita. Ei asennuksia. Ilmaiset krediitit ja promo-koodit etusivulla sekä Telegram-botissa.",
+    "steps": [
+      {
+        "title": "Lataa kuva",
+        "body": "Valitse selkeä kuva täysi-ikäisestä henkilöstä, jolla on suostumus (JPG tai PNG). Etukuvat ja kolme neljäsosaa -kulmat hyvällä valaistuksella antavat parhaat tulokset. Ilmaisia krediittejä löytyy Telegram-botista ja etusivulta."
+      },
+      {
+        "title": "Tekoäly käsittelee kuvan",
+        "body": "AI-vaatteenpoistoaine tunnistaa vaatteet, rakentaa vartalomallin ja luo realistisen ihon huomioiden asennon, valon ja varjot. Prosessi kestää keskimäärin 5–12 sekuntia."
+      },
+      {
+        "title": "Lataa tulos tai muokkaa sitä edelleen",
+        "body": "Näet tuloksen heti. Lataa se korkealaatuisena tai käytä lisätyökaluja (kasvojenvaihto, efektit, ahegao). Muista tarkistaa Telegram-botti — sieltä tulee säännöllisesti ilmaisia krediittejä ja promo-koodeja."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Miksi valita meidän"
+      },
+      {
+        "text": "AI-vaatteenpoistoaine",
+        "accent": true
+      },
+      {
+        "text": "muiden sijaan"
+      }
+    ],
+    "subline": "Rehellinen vertailu suosittuihin työkaluihin. Ilmaiset krediitit ja promo-koodit etusivulla sekä Telegram-botissa.",
+    "caption": "AI-vaatteenpoistoaineen vertailu ClothOffiin, Undress.cc:hen ja muihin",
+    "rowHeader": "Ominaisuus",
+    "columns": [
+      "Meidän AI-vaatteenpoistoaine",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Kyllä",
+      "no": "Ei",
+      "partial": "Osittain"
+    },
+    "rows": [
+      {
+        "label": "Realistinen iho ja anatomia",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Ilmainen kokeilu ilman rekisteröitymistä",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Käsittely 5–12 sekunnissa",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Toimii monimutkaisissa asennoissa",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Ei tallenna kuvia pysyvästi",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Lisätyökalut (kasvot, efektit)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Hyvä mobiilissa",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Selkeä 18+ ja suostumuskäytäntö",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      },
+      {
+        "label": "Telegram-botti ilmaisilla krediiteillä",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Promo-koodit etusivulla",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Kokeile meidän AI-vaatteenpoistoainetta",
+      "ClothOff",
+      "Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Miksi meidän"
+      },
+      {
+        "text": "AI-vaatteenpoistoaine",
+        "accent": true
+      },
+      {
+        "text": "antaa parempia tuloksia"
+      }
+    ],
+    "items": [
+      {
+        "title": "Aito fotorealismi, ei vain vaatteiden pyyhintää",
+        "body": "Monet työkalut vain poistavat kankaan ja jättävät epäluonnollisia läikkiä. Meidän tekoäly rakentaa vartalon tilavuuden, ihon tekstuurin ja pehmeät varjot uudelleen. Tulos näyttää oikealta valokuvalta. Ilmaiset krediitit ja promo-koodit etusivulla sekä Telegram-botissa.",
+        "imageAlt": "Realistisen ihon yksityiskohta vaatteiden poiston jälkeen"
+      },
+      {
+        "title": "Nopea jopa vaikeissa kuvissa",
+        "body": "Vilkas tausta, ristissä olevat kädet, sivukulma tai heikko valo — malli on koulutettu näihin tilanteisiin. Keskimääräinen generointiaika on 5–12 sekuntia. Seuraa ilmaisia krediittejä Telegram-botista.",
+        "imageAlt": "AI-vaatteenpoistoaine monimutkaisessa asennossa ja taustassa"
+      },
+      {
+        "title": "Yksityisyys etusijalla",
+        "body": "Kuvat käsitellään väliaikaisissa istunnoissa ja poistetaan automaattisesti. Emme luo pysyviä gallerioita emmekä myy tietoja. Pysyt anonyyminä. Ilmaisia krediittejä voi saada Telegram-botista vähillä tiedoilla.",
+        "imageAlt": "Turvallinen ja yksityinen kuvankäsittely"
+      },
+      {
+        "title": "Enemmän kuin vain vaatteiden poisto",
+        "body": "Vaatteiden poiston jälkeen voit käyttää kasvojenvaihtoa, vartalon säätöjä, ahegaota ja muita efektejä. Yksi alusta korvaa useita palveluita. Promo-koodit ja ilmaiset krediitit etusivulla sekä Telegram-botissa.",
+        "imageAlt": "Lisätyökalut vaatteiden poiston jälkeen"
+      },
+      {
+        "title": "Ilmaiset krediitit ja promo-koodit Telegramissa",
+        "body": "Jaamme säännöllisesti ilmaisia krediittejä ja toimivia promo-koodeja. Ajankohtaiset tarjoukset näkyvät etusivulla ja Telegram-botissa. Liity bottiin, jotta et missaa bonuksia ja päivityksiä.",
+        "imageAlt": "Telegram-botti ilmaisilla krediiteillä ja promo-koodeilla"
+      },
+      {
+        "title": "Yksinkertainen prosessi ilman monimutkaisia asetuksia",
+        "body": "Ei pitkiä kehotteita tarvita. Lataa kuva — saat tuloksen. Useimmille käyttäjille tämä riittää. Ilmaiset krediitit aloitukseen löytyvät etusivulta sekä Telegram-botista.",
+        "imageAlt": "Yksinkertainen lataus- ja tulostusprosessi"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Usein kysytyt kysymykset",
+    "title": "Kysymyksiä AI-vaatteenpoistoaineesta ja tekoälyn vaatteiden poistosta",
+    "subtitle": "Kaikki tärkeä ennen ensimmäisen kuvan lataamista. Ilmaiset krediitit ja promo-koodit etusivulla sekä Telegram-botissa.",
+    "items": [
+      {
+        "q": "Mikä on AI-vaatteenpoistoaine / tekoäly vaatteiden poisto?",
+        "a": "AI-vaatteenpoistoaine (myös tekoäly vaatteiden poisto tai undress AI) on tekoäly, joka analysoi puetun valokuvan, ennustaa vartalon vaatteiden alla ja luo realistisen alastonversion. Nykyaikaiset mallit keskittyvät luonnolliseen ihoon, oikeaan anatomiaan ja johdonmukaiseen valaistukseen. Palvelu on vain 18+ käyttäjille ja sitä saa käyttää vain suostumuksella. Ilmaiset krediitit ja promo-koodit löytyvät etusivulta sekä Telegram-botista."
+      },
+      {
+        "q": "Voinko kokeilla ilmaiseksi?",
+        "a": "Kyllä. Uudet käyttäjät saavat yleensä ilmaisia krediittejä. Kokeilujakson jälkeen voi ostaa lisää. Usein korttia ei tarvita aloitukseen. Ajankohtaiset ilmaiset krediitit ja promo-koodit julkaistaan etusivulla sekä Telegram-botissamme — tarkista säännöllisesti."
+      },
+      {
+        "q": "Kuinka kauan käsittely kestää?",
+        "a": "Useimmat kuvat käsitellään 5–12 sekunnissa riippuen resoluutiosta, asennon monimutkaisuudesta ja palvelimien kuormituksesta. Erittäin suuret tiedostot tai vaikeat kulmat voivat kestää hieman pidempään."
+      },
+      {
+        "q": "Onko se turvallista ja yksityistä?",
+        "a": "Ladatut kuvat käsitellään väliaikaisissa istunnoissa ja poistetaan automaattisesti. Emme säilytä pysyviä kopioita emmekä jaa kuvia kolmansille osapuolille. Käytä vain omia kuvia tai kuvia henkilöistä, joilla on nimenomainen suostumus. Palvelu on tiukasti 18+."
+      },
+      {
+        "q": "Voinko ladata minkä tahansa kuvan?",
+        "a": "Teknisesti tekoäly toimii useimmilla selkeillä henkilöiden kuvilla. Laillisesti ja eettisesti saa ladata vain omia kuvia tai kuvia henkilöistä, joilla on selkeä suostumus. Alaikäisten sisältö on ehdottomasti kielletty. Alusta on vain aikuisille 18+."
+      },
+      {
+        "q": "Miksi meidän AI-vaatteenpoistoaine on parempi kuin ClothOff tai Undress.cc?",
+        "a": "Painotamme anatomista tarkkuutta, luonnollista valoa ja vähemmän artefakteja vaikeissa asennoissa. Lisäksi meillä on lisätyökaluja samassa paikassa. Ilmaiset krediitit ja promo-koodit ilmestyvät säännöllisesti etusivulle sekä Telegram-bottiin, mikä helpottaa testausta ilman maksua."
+      },
+      {
+        "q": "Pitääkö jotain asentaa tai rekisteröityä pakosti?",
+        "a": "Ei tarvitse asentaa mitään — kaikki toimii selaimessa. Ilmainen tili antaa enemmän rajoja, mutta rajoitettu kokeilu on usein saatavilla ilman täyttä rekisteröitymistä. Ilmaisia krediittejä voi saada myös Telegram-botin kautta."
+      },
+      {
+        "q": "Millaiset kuvat antavat parhaan tuloksen?",
+        "a": "Selkeät kuvat hyvällä valaistuksella, joissa vartalo näkyy kokonaan tai lähes kokonaan, toimivat parhaiten. Etukuvat ja kolme neljäsosaa -kulmat ovat vakaampia. Mitä selkeämmät vaatteiden ja vartalon ääriviivat, sitä parempi laatu."
+      },
+      {
+        "q": "Miksi joskus syntyy artefakteja?",
+        "a": "Artefakteja tulee useammin hyvin monimutkaisissa asennoissa, kun vartalo on voimakkaasti peitetty, huonossa valossa tai matalalla resoluutiolla. Kokeile toista kuvaa tai parempaa kulmaa — usein tulos paranee huomattavasti."
+      },
+      {
+        "q": "Voinko käyttää tulosta kaupallisesti?",
+        "a": "Se riippuu oikeuksistasi alkuperäiseen kuvaan ja palvelun käyttöehdoista. Vaikka tulos olisi hyvä, sinun on kunnioitettava henkilöiden suostumusta ja tekijänoikeuksia."
+      },
+      {
+        "q": "Toimiiko se miesten kuvissa ja eri vartalotyypeillä?",
+        "a": "Nykyiset mallit käsittelevät erilaisia vartalotyyppejä. Laatu voi vaihdella kulman ja alkuperäisen kuvan laadun mukaan. Paras tapa testata on ladata kuva ilmaisilla krediiteillä Telegram-botista."
+      },
+      {
+        "q": "Mikä ero on vaatteiden poistolla ja generoinnilla tyhjästä?",
+        "a": "Vaatteiden poisto perustuu sinun konkreettiseen kuvaan: asento, kasvot, kulma ja valaistus säilyvät pääosin, muutetaan lähinnä vaatteita. Tyhjästä generointi luo kuvan tekstistä eikä ole velvollinen säilyttämään alkuperäistä ulkonäköä."
+      },
+      {
+        "q": "Miten maksan krediittejä ja mitä maksutapoja on?",
+        "a": "Maksu tapahtuu turvallisten järjestelmien kautta suoraan sivustolla. Kortit ja muut yleiset tavat ovat saatavilla (tarkka lista näkyy osto sivulla). Maksun jälkeen krediitit hyvitetään automaattisesti. Ilmaiset krediitit ja ajankohtaiset promo-koodit saa Telegram-botista sekä etusivulta."
+      },
+      {
+        "q": "Voiko krediittejä palauttaa tai saada hyvitystä?",
+        "a": "Käyttämättömät maksetut krediitit eivät yleensä vanhene ja säilyvät tilillä. Rahahyvitys on mahdollista säännöissä määritellyissä tapauksissa (tekninen virhe, kaksinkertainen veloitus jne.). Pyyntöä varten ota yhteyttä tukeen. Telegram-botin ilmaiset krediitit ja promo-koodit eivät ole palautettavissa — ne ovat osa kampanjoita."
+      },
+      {
+        "q": "Onko Telegram-botti ja mitä sieltä saa?",
+        "a": "Kyllä, meillä on Telegram-botti. Siellä ilmestyy säännöllisesti ilmaisia krediittejä, promo-koodeja ja uutisia. Katso ajankohtaiset tarjoukset etusivulta ja botista itsestään — siellä julkaistaan voimassa olevia koodeja ja bonuksia uusille ja vanhoille käyttäjille. Liity headerin tai footerin linkistä."
+      },
+      {
+        "q": "Miten poistan tilini?",
+        "a": "Voit poistaa tilin profiiliasetuksista tai ottamalla yhteyttä tukeen. Vahvistuksen jälkeen tili ja siihen liittyvät tiedot poistetaan tietosuojakäytännön mukaisesti. Käyttämättömät maksetut krediitit yleensä menetetään poiston yhteydessä. Telegram-botin ilmaiset krediitit eivät myöskään säily."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} — etusivu",
+    "description": "Edistynyt AI-vaatteenpoistoaine. Realistiset tulokset, nopea käsittely ja yksityisyys etusijalla. Ilmaiset krediitit ja promo-koodit etusivulla sekä Telegram-botissa. Vain aikuisille 18+. Hanki aina suostumus ennen kuin lataat muiden henkilöiden kuvia.",
+    "columns": [
+      {
+        "title": "Työkalut",
+        "links": [
+          "AI-vaatteenpoistoaine",
+          "Kasvojenvaihto alastonkuvaan",
+          "Ahegao Generator",
+          "Kaikki tekoälytyökalut"
+        ]
+      },
+      {
+        "title": "Tuki",
+        "links": [
+          "Miten se toimii",
+          "Usein kysytyt kysymykset",
+          "Telegram-botti (krediitit ja koodit)",
+          "Yhteystiedot"
+        ]
+      },
+      {
+        "title": "Juridinen",
+        "links": [
+          "Käyttöehdot",
+          "Tietosuojaseloste",
+          "18+ ja suostumuskäytäntö",
+          "Hyvitykset"
+        ]
+      }
+    ],
+    "legal": [
+      "Käyttöehdot",
+      "Tietosuojaseloste",
+      "Sisältö- ja suostumuskäytäntö"
+    ],
+    "copyright": "Kaikki oikeudet pidätetään. Vain aikuisille 18+. Käytä vastuullisesti ja vain nimenomaisella suostumuksella. Ilmaiset krediitit ja promo-koodit etusivulla sekä Telegram-botissa."
+  }
+}

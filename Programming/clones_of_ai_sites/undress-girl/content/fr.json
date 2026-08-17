@@ -1,0 +1,483 @@
+{
+  "_about": "Version française. Tous les textes visibles sont ici. Les clés avec _ ne sont pas affichées.",
+
+  "meta": {
+    "locale": "fr",
+    "label": "Français",
+    "short": "FR",
+    "htmlLang": "fr",
+    "ogLocale": "fr_FR",
+    "siteTitle": "{brand} — IA qui déshabille | Suppression de vêtements photo en ligne",
+    "titleTemplate": "%s — {brand}",
+    "pageTitle": "IA qui déshabille — Suppression de vêtements d’une photo en ligne",
+    "pageDescription": "IA qui déshabille rapidement et de façon réaliste. Notre outil de suppression de vêtements photo transforme n’importe quelle image en quelques secondes. Crédits gratuits et codes promo sur la page d’accueil et dans le Telegram bot. Rapide, anonyme et réservé aux +18.",
+    "ogImageAlt": "IA qui déshabille — avant et après réaliste"
+  },
+
+  "gate": {
+    "rules": [
+      "Ce site contient du contenu pour adultes, y compris de la nudité et du matériel sexuellement explicite.",
+      "Il est strictement interdit de téléverser ou d’utiliser des images de mineurs ou de toute personne sans son consentement explicite.",
+      "Vous assumez l’entière responsabilité des images que vous créez sur cette plateforme.",
+      "En cliquant sur « Accepter », vous confirmez avoir atteint l’âge de la majorité dans votre juridiction, vous acceptez les conditions ci-dessus et vous consentez à voir du contenu sexuellement explicite."
+    ],
+    "accept": "Accepter",
+    "a11yLabel": "Confirmation de l’âge et du consentement"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} — accueil",
+    "langLabel": "Changer de langue",
+    "menuOpen": "Ouvrir le menu",
+    "menuClose": "Fermer le menu",
+    "links": [
+      "IA qui déshabille",
+      "Comment ça marche",
+      "Avantages",
+      "FAQ"
+    ],
+    "social": [
+      "Telegram bot — crédits gratuits, codes promo et actualités"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [
+      "Intelligence Artificielle",
+      "IA"
+    ],
+    "titleLines": [
+      "IA qui",
+      "déshabille",
+      "en ligne"
+    ],
+    "subtitleStrong": "Déshabillez n’importe quelle photo en quelques secondes.",
+    "subtitle": "Notre IA de suppression de vêtements offre des résultats réalistes et naturels. Il suffit d’envoyer l’image. Crédits gratuits et codes promo disponibles sur la page d’accueil et dans notre Telegram bot.",
+    "cta": "Envoyer une photo et déshabiller",
+    "imageAlt": "Démo IA qui déshabille — photo habillée devient un nu réaliste"
+  },
+
+  "stats": {
+    "a11yLabel": "Chiffres clés de la plateforme",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Nouveaux utilisateurs aujourd’hui"
+      },
+      {
+        "value": "97%",
+        "label": "Générations réussies"
+      },
+      {
+        "value": "348.000",
+        "label": "Utilisateurs enregistrés au total"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "Outils d’IA pour déshabiller et créer du contenu adulte",
+    "badge": "Le plus utilisé",
+    "cta": "Essayer maintenant",
+    "items": [
+      {
+        "title": "IA qui déshabille / Suppression de vêtements",
+        "body": "Le meilleur outil de suppression de vêtements par IA. Notre intelligence artificielle analyse la forme du corps, les plis des vêtements, la lumière et les ombres pour générer une peau réaliste et des proportions naturelles. La façon la plus rapide de déshabiller une photo. Crédits gratuits et codes promo sur la page d’accueil et dans le Telegram bot.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "IA qui déshabille avant et après",
+        "badge": true
+      },
+      {
+        "title": "Échange de visage sur nu",
+        "body": "Placez n’importe quel visage sur un corps nu tout en conservant l’éclairage, le teint et la pose. Idéal après avoir utilisé le déshabilleur. Les nouveaux utilisateurs trouvent des crédits gratuits dans le Telegram bot.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Résultat d’échange de visage sur nu"
+      },
+      {
+        "title": "Générateur d’effets sur le visage",
+        "body": "Ajoutez des effets réalistes sur le visage en un clic. Fonctionne aussi bien sur les photos originales que sur celles déjà traitées. Codes promo et crédits gratuits sur la page d’accueil et dans le bot.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Aperçu des effets sur le visage"
+      },
+      {
+        "title": "Corps enceinte avec IA",
+        "body": "Transformez n’importe quelle photo en corps enceinte naturel tout en gardant le visage et la pose. Outil créatif au-delà du simple déshabillage. Suivez les crédits gratuits dans le Telegram bot.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Transformation corps enceinte"
+      },
+      {
+        "title": "Visage d’orgasme / Ahegao",
+        "body": "Créez des expressions d’orgasme et ahegao avec contrôle de l’intensité. Peut être combiné avec le déshabilleur. Crédits gratuits et codes promo sur la page d’accueil et dans le Telegram bot.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Aperçu visage d’orgasme"
+      },
+      {
+        "title": "Générateur Ahegao IA",
+        "body": "Expressions ahegao classiques avec un haut niveau de détail. Fonctionne seul ou après le déshabillage. Vérifiez les bonus actuels dans le Telegram bot et sur la page d’accueil.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "Résultat générateur Ahegao"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "Essayer l’IA qui déshabille gratuitement",
+    "ariaLabel": "Exemples avant et après de l’IA qui déshabille",
+    "pagerLabel": "Choisir un exemple avant et après",
+    "slideLabel": "Afficher l’exemple {n}",
+    "slides": [
+      {
+        "title": "IA qui déshabille réaliste sur des photos ordinaires",
+        "body": "L’IA identifie les vêtements, prédit la forme du corps en dessous et reconstruit la peau, la texture et les ombres de façon naturelle. Le résultat ressemble à une vraie photo, pas à un découpage grossier. Crédits gratuits et codes promo disponibles sur la page d’accueil et dans le Telegram bot.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Photo originale habillée",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Résultat réaliste après suppression des vêtements",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Fonctionne bien sur les poses et arrière-plans complexes",
+        "body": "Même avec les bras croisés, des angles de côté ou un arrière-plan chargé, l’IA conserve l’anatomie et des bords propres. Elle a été entraînée à séparer le corps de l’environnement. Suivez les promotions de crédits gratuits dans le Telegram bot.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Pose complexe avant traitement",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Résultat propre sur pose complexe",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Haut niveau de détail de la peau et lumière naturelle",
+        "body": "Les modèles génèrent une peau lisse, des détails réalistes et un éclairage qui s’accorde avec la photo d’origine. Cela évite l’aspect artificiel. Codes promo et crédits gratuits sur la page d’accueil et dans le Telegram bot.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Photo studio avant suppression des vêtements",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Résultat détaillé avec lumière naturelle",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "Comment"
+      },
+      {
+        "text": "déshabiller n’importe quelle photo",
+        "accent": true
+      },
+      {
+        "text": "en 3 étapes simples"
+      }
+    ],
+    "subline": "Sans prompts compliqués. Sans installation. Crédits gratuits et codes promo sur la page d’accueil et dans le Telegram bot.",
+    "steps": [
+      {
+        "title": "Envoyez la photo",
+        "body": "Choisissez une image nette d’une personne majeure avec consentement (JPG ou PNG). Les angles de face et de trois-quarts avec un bon éclairage donnent les meilleurs résultats. Des crédits gratuits sont disponibles dans le Telegram bot et sur la page d’accueil."
+      },
+      {
+        "title": "L’IA traite l’image",
+        "body": "L’outil de suppression de vêtements identifie les vêtements, construit le modèle du corps et génère une peau réaliste en respectant la pose, la lumière et les ombres. Le processus prend en moyenne 5 à 12 secondes."
+      },
+      {
+        "title": "Téléchargez ou affinez le résultat",
+        "body": "Voyez le résultat immédiatement. Téléchargez-le en haute qualité ou utilisez les outils supplémentaires (échange de visage, effets, ahegao). N’oubliez pas de vérifier le Telegram bot : des crédits gratuits et codes promo y apparaissent régulièrement."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Pourquoi choisir notre"
+      },
+      {
+        "text": "IA qui déshabille",
+        "accent": true
+      },
+      {
+        "text": "plutôt que d’autres"
+      }
+    ],
+    "subline": "Comparaison honnête avec des outils populaires. Crédits gratuits et codes promo sur la page d’accueil et dans le Telegram bot.",
+    "caption": "Comparaison de l’IA qui déshabille avec ClothOff, Undress.cc et d’autres",
+    "rowHeader": "Fonctionnalité",
+    "columns": [
+      "Notre IA qui déshabille",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Oui",
+      "no": "Non",
+      "partial": "Partiel"
+    },
+    "rows": [
+      {
+        "label": "Peau et anatomie réalistes",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Essai gratuit sans inscription",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Traitement en 5–12 secondes",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Fonctionne sur les poses complexes",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Ne stocke pas les photos de façon permanente",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Outils supplémentaires (visage, effets)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Bon sur mobile",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Politique claire +18 et consentement",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      },
+      {
+        "label": "Telegram bot avec crédits gratuits",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Codes promo sur la page d’accueil",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Essayer notre IA qui déshabille",
+      "ClothOff",
+      "Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Pourquoi notre"
+      },
+      {
+        "text": "IA qui déshabille",
+        "accent": true
+      },
+      {
+        "text": "donne de meilleurs résultats"
+      }
+    ],
+    "items": [
+      {
+        "title": "Vrai photoréalisme, pas seulement un effacement",
+        "body": "Beaucoup d’outils se contentent d’effacer le tissu et laissent des taches anormales. Notre IA reconstruit le volume du corps, la texture de la peau et les ombres douces. Le résultat ressemble à une vraie photo. Crédits gratuits et codes promo sur la page d’accueil et dans le Telegram bot.",
+        "imageAlt": "Détail de peau réaliste après suppression des vêtements"
+      },
+      {
+        "title": "Rapide même sur les photos difficiles",
+        "body": "Arrière-plan chargé, bras croisés, angle de côté ou faible lumière : le modèle a été entraîné pour ces cas. Le temps moyen de génération est de 5 à 12 secondes. Suivez les promotions de crédits gratuits dans le Telegram bot.",
+        "imageAlt": "IA qui déshabille sur pose et arrière-plan complexes"
+      },
+      {
+        "title": "La confidentialité d’abord",
+        "body": "Les photos sont traitées en sessions temporaires et supprimées automatiquement. Nous ne créons pas de galeries permanentes et ne vendons pas de données. Vous restez anonyme. Des crédits gratuits peuvent être obtenus via le Telegram bot avec un minimum de données.",
+        "imageAlt": "Traitement d’images sécurisé et privé"
+      },
+      {
+        "title": "Plus que le simple déshabillage",
+        "body": "Après avoir retiré les vêtements, vous pouvez appliquer un échange de visage, des ajustements corporels, de l’ahegao et d’autres effets. Une seule plateforme remplace plusieurs services. Codes promo et crédits gratuits sur la page d’accueil et dans le Telegram bot.",
+        "imageAlt": "Outils IA supplémentaires après le déshabillage"
+      },
+      {
+        "title": "Crédits gratuits et codes promo sur Telegram",
+        "body": "Nous distribuons régulièrement des crédits gratuits et des codes promo valides. Les offres actuelles apparaissent sur la page d’accueil du site et dans le Telegram bot. Rejoignez le bot pour ne manquer aucun bonus ni mise à jour.",
+        "imageAlt": "Telegram bot avec crédits gratuits et codes promo"
+      },
+      {
+        "title": "Processus simple, sans réglages compliqués",
+        "body": "Pas besoin d’écrire de longs prompts. Vous envoyez la photo — vous obtenez le résultat. Pour la plupart des utilisateurs, cela suffit. Des crédits gratuits pour commencer sont disponibles sur la page d’accueil et dans le Telegram bot.",
+        "imageAlt": "Processus simple d’envoi et de résultat"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Questions sur l’IA qui déshabille et la suppression de vêtements",
+    "subtitle": "Tout ce qu’il faut savoir avant d’envoyer la première photo. Crédits gratuits et codes promo sur la page d’accueil et dans le Telegram bot.",
+    "items": [
+      {
+        "q": "Qu’est-ce qu’une IA qui déshabille / outil de suppression de vêtements ?",
+        "a": "Une IA qui déshabille (aussi appelée undress AI ou suppression de vêtements photo) est une intelligence artificielle qui analyse une photo habillée, prédit le corps sous les vêtements et génère une version nue réaliste. Les modèles modernes se concentrent sur une peau naturelle, une anatomie correcte et un éclairage cohérent. Le service est réservé aux personnes de 18 ans et plus et doit être utilisé uniquement avec consentement. Crédits gratuits et codes promo se trouvent sur la page d’accueil et dans le Telegram bot."
+      },
+      {
+        "q": "Puis-je l’essayer gratuitement ?",
+        "a": "Oui. Les nouveaux utilisateurs reçoivent généralement des crédits gratuits. Après la période d’essai, il est possible d’acheter d’autres crédits. Souvent, aucune carte n’est nécessaire pour commencer. Les crédits gratuits et codes promo actuels sont publiés sur la page d’accueil et dans notre Telegram bot — vérifiez régulièrement."
+      },
+      {
+        "q": "Combien de temps prend le traitement ?",
+        "a": "La plupart des photos sont traitées en 5 à 12 secondes selon la résolution, la complexité de la pose et la charge des serveurs. Les fichiers très volumineux ou les angles difficiles peuvent prendre un peu plus de temps."
+      },
+      {
+        "q": "Est-ce sûr et privé ?",
+        "a": "Les images envoyées sont traitées en sessions temporaires et supprimées automatiquement. Nous ne conservons pas de copies permanentes et ne partageons pas les photos avec des tiers. Utilisez uniquement des images de vous-même ou de personnes ayant donné un consentement explicite. Le service est strictement +18."
+      },
+      {
+        "q": "Puis-je envoyer n’importe quelle photo ?",
+        "a": "Techniquement, l’IA fonctionne avec la plupart des photos nettes de personnes. Légalement et éthiquement, vous ne devez envoyer que vos propres images ou celles de personnes avec un consentement clair. Le contenu avec des mineurs est strictement interdit. La plateforme est exclusivement réservée aux adultes +18."
+      },
+      {
+        "q": "Pourquoi notre IA qui déshabille est-elle meilleure que ClothOff ou Undress.cc ?",
+        "a": "Nous privilégions la précision anatomique, la lumière naturelle et moins d’artefacts sur les poses difficiles. De plus, nous proposons des outils supplémentaires au même endroit. Des crédits gratuits et codes promo apparaissent régulièrement sur la page d’accueil et dans le Telegram bot, ce qui facilite les tests sans payer."
+      },
+      {
+        "q": "Dois-je installer quelque chose ou m’inscrire obligatoirement ?",
+        "a": "Rien à installer — tout fonctionne dans le navigateur. Un compte gratuit donne plus de limites, mais un essai limité est souvent disponible sans inscription complète. Des crédits gratuits peuvent aussi être obtenus via le Telegram bot."
+      },
+      {
+        "q": "Quel type de photos donne les meilleurs résultats ?",
+        "a": "Les photos nettes avec un bon éclairage, où le corps apparaît en entier ou presque, fonctionnent le mieux. Les angles de face et de trois-quarts sont plus stables. Plus les contours des vêtements et du corps sont clairs, meilleure est la qualité."
+      },
+      {
+        "q": "Pourquoi des artefacts apparaissent-ils parfois ?",
+        "a": "Les artefacts sont plus fréquents sur des poses très complexes, lorsque le corps est fortement couvert, avec peu de lumière ou une faible résolution. Essayez une autre photo ou un meilleur angle — souvent le résultat s’améliore nettement."
+      },
+      {
+        "q": "Puis-je utiliser le résultat à des fins commerciales ?",
+        "a": "Cela dépend des droits que vous avez sur l’image originale et des conditions d’utilisation du service. Même avec un bon résultat, vous devez respecter le consentement des personnes et les droits d’auteur."
+      },
+      {
+        "q": "Cela fonctionne-t-il sur les photos d’hommes et différents types de corps ?",
+        "a": "Les modèles actuels gèrent différents types de corps. La qualité peut varier selon l’angle et la qualité de la photo originale. La meilleure façon de tester est d’envoyer une image en utilisant des crédits gratuits du Telegram bot."
+      },
+      {
+        "q": "Quelle est la différence entre déshabiller et un générateur à partir de zéro ?",
+        "a": "Le déshabillage part de votre photo concrète : la pose, le visage, l’angle et l’éclairage sont largement conservés, on change surtout les vêtements. Un générateur à partir de zéro crée l’image à partir de texte et n’est pas obligé de conserver l’apparence d’origine."
+      },
+      {
+        "q": "Comment payer des crédits et quels moyens de paiement existent ?",
+        "a": "Le paiement se fait via des systèmes sécurisés directement sur le site. Cartes et autres méthodes populaires sont disponibles (la liste complète apparaît sur la page d’achat). Après le paiement, les crédits sont crédités automatiquement. Crédits gratuits et codes promo à jour peuvent être obtenus dans le Telegram bot et sur la page d’accueil."
+      },
+      {
+        "q": "Peut-on rendre des crédits ou demander un remboursement ?",
+        "a": "Les crédits payants non utilisés n’expirent généralement pas et restent sur le compte. Un remboursement en argent est possible dans les cas prévus par les règles (erreur technique, double facturation, etc.). Pour en faire la demande, contactez le support. Les crédits gratuits et codes promo du Telegram bot ne sont pas remboursables — ils font partie de promotions."
+      },
+      {
+        "q": "Y a-t-il un Telegram bot et que peut-on y obtenir ?",
+        "a": "Oui, nous avons un Telegram bot. Des crédits gratuits, des codes promo et des actualités y apparaissent régulièrement. Consultez les offres actuelles sur la page d’accueil du site et dans le bot lui-même — des codes valides et des bonus pour les nouveaux et anciens utilisateurs y sont publiés. Rejoignez-le via le lien du header ou du footer."
+      },
+      {
+        "q": "Comment supprimer mon compte ?",
+        "a": "Vous pouvez supprimer le compte dans les paramètres du profil ou en contactant le support. Après confirmation, le compte et les données associées sont supprimés conformément à la politique de confidentialité. Les crédits payants non utilisés sont généralement perdus lors de la suppression. Les crédits gratuits du Telegram bot ne sont pas non plus conservés."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} — accueil",
+    "description": "Outil avancé d’IA qui déshabille. Résultats réalistes, traitement rapide et confidentialité prioritaire. Crédits gratuits et codes promo sur la page d’accueil et dans le Telegram bot. Réservé aux adultes +18. Obtenez toujours le consentement avant d’envoyer des photos d’autres personnes.",
+    "columns": [
+      {
+        "title": "Outils",
+        "links": [
+          "IA qui déshabille",
+          "Échange de visage sur nu",
+          "Générateur Ahegao",
+          "Tous les outils IA"
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          "Comment ça marche",
+          "Questions fréquentes",
+          "Telegram bot (crédits et codes)",
+          "Contact"
+        ]
+      },
+      {
+        "title": "Légal",
+        "links": [
+          "Conditions d’utilisation",
+          "Politique de confidentialité",
+          "Politique +18 et consentement",
+          "Remboursements"
+        ]
+      }
+    ],
+    "legal": [
+      "Conditions d’utilisation",
+      "Politique de confidentialité",
+      "Politique de contenu et de consentement"
+    ],
+    "copyright": "Tous droits réservés. Réservé aux adultes +18. Utilisez de manière responsable et uniquement avec un consentement explicite. Crédits gratuits et codes promo sur la page d’accueil et dans le Telegram bot."
+  }
+}

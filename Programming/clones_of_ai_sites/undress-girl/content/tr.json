@@ -1,0 +1,483 @@
+{
+  "_about": "Türkçe sürüm. Tüm görünen metinler burada. _ ile başlayan anahtarlar render edilmez.",
+
+  "meta": {
+    "locale": "tr",
+    "label": "Türkçe",
+    "short": "TR",
+    "htmlLang": "tr",
+    "ogLocale": "tr_TR",
+    "siteTitle": "{brand} — AI Elbise Çıkarıcı | Fotoğraftan Kıyafet Çıkarma Online",
+    "titleTemplate": "%s — {brand}",
+    "pageTitle": "AI Elbise Çıkarıcı — Fotoğraftan Kıyafet Çıkarma AI Aracı",
+    "pageDescription": "AI elbise çıkarıcı ile fotoğraftan kıyafetleri hızlı ve gerçekçi şekilde çıkarın. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda. Hızlı, anonim ve yalnızca 18+.",
+    "ogImageAlt": "AI elbise çıkarıcı — önce ve sonra gerçekçi sonuç"
+  },
+
+  "gate": {
+    "rules": [
+      "Bu web sitesi çıplaklık ve cinsel içerikli materyaller dahil olmak üzere yetişkin içeriği barındırır.",
+      "Reşit olmayan kişilerin veya açık rızası olmayan herhangi bir kişinin görüntülerini yüklemek ya da kullanmak kesinlikle yasaktır.",
+      "Bu platformda oluşturduğunuz tüm görüntülerin sorumluluğu tamamen size aittir.",
+      "“Kabul ediyorum” düğmesine tıklayarak bulunduğunuz ülkede reşit olduğunuzu, yukarıdaki koşulları kabul ettiğinizi ve cinsel içerikli materyalleri görüntülemeye rıza gösterdiğinizi onaylarsınız."
+    ],
+    "accept": "Kabul ediyorum",
+    "a11yLabel": "Yaş ve onay doğrulaması"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} — ana sayfa",
+    "langLabel": "Dili değiştir",
+    "menuOpen": "Menüyü aç",
+    "menuClose": "Menüyü kapat",
+    "links": [
+      "AI Elbise Çıkarıcı",
+      "Nasıl çalışır",
+      "Avantajlar",
+      "SSS"
+    ],
+    "social": [
+      "Telegram bot — ücretsiz kredi, promosyon kodları ve haberler"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [
+      "Yapay Zeka",
+      "AI"
+    ],
+    "titleLines": [
+      "AI",
+      "Elbise",
+      "Çıkarıcı"
+    ],
+    "subtitleStrong": "Herhangi bir fotoğraftan kıyafetleri saniyeler içinde çıkarın.",
+    "subtitle": "AI elbise çıkarıcımız gerçekçi ve doğal sonuçlar üretir. Sadece fotoğrafı yükleyin. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botumuzda mevcuttur.",
+    "cta": "Fotoğraf yükle ve kıyafetleri çıkar",
+    "imageAlt": "AI elbise çıkarıcı demosu — giyinik fotoğraf gerçekçi çıplağa dönüşür"
+  },
+
+  "stats": {
+    "a11yLabel": "Platformun ana rakamları",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Bugün yeni kullanıcı"
+      },
+      {
+        "value": "97%",
+        "label": "Başarılı üretim"
+      },
+      {
+        "value": "348.000",
+        "label": "Toplam kayıtlı kullanıcı"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "Kıyafet çıkarma ve yetişkin içerik için AI araçları",
+    "badge": "En çok kullanılan",
+    "cta": "Şimdi dene",
+    "items": [
+      {
+        "title": "AI Elbise Çıkarıcı / Giysi Çıkarma",
+        "body": "En iyi AI elbise çıkarıcı. Yapay zekamız vücut şeklini, kıyafet kıvrımlarını, ışık ve gölgeleri analiz ederek gerçekçi cilt ve doğal oranlar üretir. Fotoğraftan kıyafet çıkarmanın en hızlı yolu. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "AI elbise çıkarıcı önce ve sonra",
+        "badge": true
+      },
+      {
+        "title": "Çıplak Üzerine Yüz Değiştirme",
+        "body": "Herhangi bir yüzü çıplak vücuda yerleştirin; aydınlatma, ten rengi ve poz korunur. Elbise çıkarıcıdan sonra idealdir. Yeni kullanıcılar Telegram botunda ücretsiz kredi bulur.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Çıplak üzerine yüz değiştirme sonucu"
+      },
+      {
+        "title": "Yüz Efekti Oluşturucu",
+        "body": "Tek tıkla gerçekçi yüz efektleri ekleyin. Hem orijinal hem işlenmiş fotoğraflarda çalışır. Promosyon kodları ve ücretsiz krediler ana sayfada ve botta.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Yüz efekti önizlemesi"
+      },
+      {
+        "title": "Hamile Vücut AI",
+        "body": "Herhangi bir fotoğrafı doğal hamile vücuda dönüştürün; yüz ve poz korunur. Sadece kıyafet çıkarmanın ötesinde yaratıcı bir araç. Telegram botunda ücretsiz kredileri takip edin.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Hamile vücuda dönüşüm"
+      },
+      {
+        "title": "Orgazm Yüzü / Ahegao",
+        "body": "Yoğunluk kontrolüyle orgazm ve ahegao ifadeleri oluşturun. Elbise çıkarıcıyla birleştirilebilir. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Orgazm yüzü önizlemesi"
+      },
+      {
+        "title": "AI Ahegao Oluşturucu",
+        "body": "Klasik ahegao ifadeleri yüksek detayla. Tek başına veya kıyafet çıkardıktan sonra kullanılabilir. Güncel bonusları Telegram botu ve ana sayfada kontrol edin.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "AI Ahegao sonucu"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "AI elbise çıkarıcıyı ücretsiz dene",
+    "ariaLabel": "AI elbise çıkarıcı önce ve sonra örnekleri",
+    "pagerLabel": "Önce ve sonra örneği seç",
+    "slideLabel": "Örnek {n} göster",
+    "slides": [
+      {
+        "title": "Sıradan fotoğraflarda gerçekçi AI elbise çıkarıcı",
+        "body": "AI kıyafetleri tanır, altındaki vücut şeklini tahmin eder ve cildi, dokuyu ve gölgeleri doğal şekilde yeniden oluşturur. Sonuç ham bir kesim değil, gerçek bir fotoğraf gibi görünür. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda mevcuttur.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Kıyafetli orijinal fotoğraf",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Kıyafet çıkarıldıktan sonra gerçekçi sonuç",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Karmaşık pozlar ve arka planlarda da iyi çalışır",
+        "body": "Kollar çapraz, yan açı veya kalabalık arka plan olsa bile AI anatomiyi ve temiz kenarları korur. Vücudu çevreden ayırmak için eğitilmiştir. Telegram botundaki ücretsiz kredi kampanyalarını takip edin.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "İşlemden önce karmaşık poz",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Karmaşık pozda temiz sonuç",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Yüksek cilt detayı ve doğal ışık",
+        "body": "Modeller pürüzsüz cilt, gerçekçi detaylar ve orijinal fotoğrafa uyan aydınlatma üretir. Yapay görünüm önlenir. Promosyon kodları ve ücretsiz krediler ana sayfada ve Telegram botunda.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Kıyafet çıkarmadan önce stüdyo fotoğrafı",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Doğal ışıkla detaylı sonuç",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "Herhangi bir fotoğraftan"
+      },
+      {
+        "text": "kıyafetleri nasıl çıkarırsınız",
+        "accent": true
+      },
+      {
+        "text": "sadece 3 adımda"
+      }
+    ],
+    "subline": "Karmaşık prompt gerekmez. Kurulum gerekmez. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda.",
+    "steps": [
+      {
+        "title": "Fotoğrafı yükleyin",
+        "body": "18 yaş üstü ve onayı olan bir kişinin net fotoğrafını seçin (JPG veya PNG). İyi ışıkta ön ve üç çeyrek açılar en iyi sonucu verir. Ücretsiz krediler Telegram botu ve ana sayfada bulunabilir."
+      },
+      {
+        "title": "AI görüntüyü işler",
+        "body": "Elbise çıkarıcı kıyafetleri tanır, vücut modelini oluşturur ve poz, ışık ve gölgeleri dikkate alarak gerçekçi cilt üretir. İşlem ortalama 5–12 saniye sürer."
+      },
+      {
+        "title": "Sonucu indirin veya daha da geliştirin",
+        "body": "Sonucu hemen görün. Yüksek kalitede indirin veya ek araçları (yüz değiştirme, efektler, ahegao) kullanın. Telegram botunu kontrol etmeyi unutmayın — orada düzenli olarak ücretsiz kredi ve promosyon kodları çıkar."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Neden bizim"
+      },
+      {
+        "text": "AI elbise çıkarıcımızı",
+        "accent": true
+      },
+      {
+        "text": "seçmelisiniz"
+      }
+    ],
+    "subline": "Popüler araçlarla dürüst karşılaştırma. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda.",
+    "caption": "AI elbise çıkarıcının ClothOff, Undress.cc ve diğerleriyle karşılaştırması",
+    "rowHeader": "Özellik",
+    "columns": [
+      "Bizim AI Elbise Çıkarıcımız",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Evet",
+      "no": "Hayır",
+      "partial": "Kısmen"
+    },
+    "rows": [
+      {
+        "label": "Gerçekçi cilt ve anatomi",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Kayıt olmadan ücretsiz deneme",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "5–12 saniyede işlem",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Karmaşık pozlarda çalışır",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Fotoğrafları kalıcı saklamaz",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Ek araçlar (yüz, efektler)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Mobilde iyi",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Net 18+ ve onay politikası",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      },
+      {
+        "label": "Ücretsiz kredili Telegram bot",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Ana sayfada promosyon kodları",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Bizim AI elbise çıkarıcımızı dene",
+      "ClothOff",
+      "Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Bizim"
+      },
+      {
+        "text": "AI elbise çıkarıcımız",
+        "accent": true
+      },
+      {
+        "text": "neden daha iyi sonuç verir"
+      }
+    ],
+    "items": [
+      {
+        "title": "Gerçek fotogerçekçilik, sadece silmek değil",
+        "body": "Birçok araç sadece kumaşı siler ve doğal olmayan lekeler bırakır. Bizim AI’mız vücut hacmini, cilt dokusunu ve yumuşak gölgeleri yeniden oluşturur. Sonuç gerçek bir fotoğraf gibi görünür. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda.",
+        "imageAlt": "Kıyafet çıkarıldıktan sonra gerçekçi cilt detayı"
+      },
+      {
+        "title": "Zor fotoğraflarda bile hızlı",
+        "body": "Kalabalık arka plan, çapraz kollar, yan açı veya zayıf ışık — model bunlar için eğitilmiştir. Ortalama üretim süresi 5–12 saniyedir. Telegram botundaki ücretsiz kredi kampanyalarını takip edin.",
+        "imageAlt": "Karmaşık poz ve arka planda AI elbise çıkarıcı"
+      },
+      {
+        "title": "Gizlilik öncelikli",
+        "body": "Fotoğraflar geçici oturumlarda işlenir ve otomatik silinir. Kalıcı galeri oluşturmayız ve veri satmayız. Anonim kalırsınız. Ücretsiz krediler Telegram botundan minimal bilgiyle alınabilir.",
+        "imageAlt": "Güvenli ve özel görüntü işleme"
+      },
+      {
+        "title": "Sadece kıyafet çıkarmaktan fazlası",
+        "body": "Kıyafet çıkardıktan sonra yüz değiştirme, vücut ayarları, ahegao ve diğer efektleri uygulayabilirsiniz. Tek platform birden fazla hizmetin yerini alır. Promosyon kodları ve ücretsiz krediler ana sayfada ve Telegram botunda.",
+        "imageAlt": "Kıyafet çıkardıktan sonra ek AI araçları"
+      },
+      {
+        "title": "Telegram’da ücretsiz kredi ve promosyon kodları",
+        "body": "Düzenli olarak ücretsiz kredi ve geçerli promosyon kodları dağıtıyoruz. Güncel teklifler ana sayfada ve Telegram botunda görünür. Bonus ve güncellemeleri kaçırmamak için bota katılın.",
+        "imageAlt": "Ücretsiz kredi ve promosyon kodlu Telegram bot"
+      },
+      {
+        "title": "Basit süreç, karmaşık ayar yok",
+        "body": "Uzun prompt gerekmez. Fotoğrafı yükleyin — sonucu alın. Çoğu kullanıcı için bu yeterlidir. Başlamak için ücretsiz krediler ana sayfada ve Telegram botunda mevcuttur.",
+        "imageAlt": "Basit yükleme ve sonuç süreci"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Sıkça sorulan sorular",
+    "title": "AI elbise çıkarıcı ve fotoğraftan kıyafet çıkarma hakkında sorular",
+    "subtitle": "İlk fotoğrafı yüklemeden önce bilmeniz gerekenler. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda.",
+    "items": [
+      {
+        "q": "AI elbise çıkarıcı nedir?",
+        "a": "AI elbise çıkarıcı (undress AI veya fotoğraftan kıyafet çıkarma aracı olarak da bilinir), giyinik bir fotoğrafı analiz eden, kıyafetlerin altındaki vücudu tahmin eden ve gerçekçi bir çıplak versiyon üreten yapay zekadır. Modern modeller doğal cilt, doğru anatomi ve tutarlı aydınlatmaya odaklanır. Hizmet yalnızca 18+ içindir ve sadece onayla kullanılmalıdır. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda mevcuttur."
+      },
+      {
+        "q": "Ücretsiz deneyebilir miyim?",
+        "a": "Evet. Yeni kullanıcılar genellikle ücretsiz kredi alır. Deneme süresinden sonra daha fazla kredi satın alınabilir. Başlamak için çoğu zaman kart gerekmez. Güncel ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botumuzda yayınlanır — düzenli kontrol edin."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Çoğu fotoğraf çözünürlük, poz karmaşıklığı ve sunucu yüküne bağlı olarak 5–12 saniyede işlenir. Çok büyük dosyalar veya zor açılar biraz daha uzun sürebilir."
+      },
+      {
+        "q": "Güvenli ve gizli mi?",
+        "a": "Yüklenen görüntüler geçici oturumlarda işlenir ve otomatik silinir. Kalıcı kopya saklamayız ve fotoğrafları üçüncü taraflarla paylaşmayız. Yalnızca kendi fotoğraflarınızı veya açık onay vermiş kişilerin fotoğraflarını kullanın. Hizmet katı şekilde 18+’tır."
+      },
+      {
+        "q": "Herhangi bir fotoğrafı yükleyebilir miyim?",
+        "a": "Teknik olarak AI çoğu net kişi fotoğrafında çalışır. Yasal ve etik olarak yalnızca kendi fotoğraflarınızı veya açık onaylı kişilerin fotoğraflarını yüklemelisiniz. Reşit olmayan içeriği kesinlikle yasaktır. Platform yalnızca yetişkinler 18+ içindir."
+      },
+      {
+        "q": "Bizim AI elbise çıkarıcımız neden ClothOff veya Undress.cc’den daha iyi?",
+        "a": "Anatomik doğruluk, doğal ışık ve zor pozlarda daha az artefakt önceliğimizdir. Ayrıca aynı yerde ek araçlar bulunur. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda düzenli çıkar; bu da ödemeden denemeyi kolaylaştırır."
+      },
+      {
+        "q": "Bir şey yüklemem veya zorunlu kayıt olmam gerekir mi?",
+        "a": "Yükleme gerekmez — her şey tarayıcıda çalışır. Ücretsiz hesap daha fazla limit verir, ancak sınırlı deneme genellikle tam kayıt olmadan da mevcuttur. Ücretsiz krediler Telegram botundan da alınabilir."
+      },
+      {
+        "q": "Hangi fotoğraflar en iyi sonucu verir?",
+        "a": "İyi aydınlatmalı, vücudun tamamı veya büyük kısmı görünen net fotoğraflar en iyi sonucu verir. Ön ve üç çeyrek açılar daha stabildir. Kıyafet ve vücut konturları ne kadar netse kalite o kadar iyidir."
+      },
+      {
+        "q": "Bazen artefakt neden oluşur?",
+        "a": "Artefaktlar çok karmaşık pozlarda, vücut yoğun örtülü olduğunda, zayıf ışıkta veya düşük çözünürlükte daha sık görülür. Başka bir fotoğraf veya daha iyi açı deneyin — çoğu zaman sonuç belirgin şekilde iyileşir."
+      },
+      {
+        "q": "Sonucu ticari amaçla kullanabilir miyim?",
+        "a": "Orijinal görüntü üzerindeki haklarınıza ve hizmet kullanım koşullarına bağlıdır. İyi sonuç olsa bile kişilerin onayına ve telif haklarına saygı gösterin."
+      },
+      {
+        "q": "Erkek fotoğrafları ve farklı vücut tiplerinde çalışır mı?",
+        "a": "Mevcut modeller farklı vücut tiplerini yönetir. Kalite açıya ve orijinal fotoğraf kalitesine göre değişebilir. Denemenin en iyi yolu Telegram botundaki ücretsiz kredilerle bir görüntü yüklemektir."
+      },
+      {
+        "q": "Kıyafet çıkarma ile sıfırdan üretme arasındaki fark nedir?",
+        "a": "Kıyafet çıkarma sizin somut fotoğrafınızdan başlar: poz, yüz, açı ve aydınlatma büyük ölçüde korunur, esas olarak kıyafetler değişir. Sıfırdan üretim metinden görüntü oluşturur ve orijinal görünümü korumak zorunda değildir."
+      },
+      {
+        "q": "Kredi nasıl ödenir ve hangi ödeme yöntemleri var?",
+        "a": "Ödeme sitede güvenli sistemlerle yapılır. Kart ve diğer popüler yöntemler mevcuttur (tam liste satın alma sayfasında görünür). Ödeme sonrası krediler otomatik yüklenir. Ücretsiz kredi ve güncel promosyon kodları Telegram botu ve ana sayfada alınabilir."
+      },
+      {
+        "q": "Kredi iade edilebilir veya para iadesi istenebilir mi?",
+        "a": "Kullanılmayan ücretli krediler genellikle süresi dolmaz ve hesapta kalır. Para iadesi kurallarda belirtilen durumlarda mümkündür (teknik hata, çift çekim vb.). Talep için destekle iletişime geçin. Telegram botundaki ücretsiz kredi ve promosyon kodları iade edilemez — kampanya parçasıdır."
+      },
+      {
+        "q": "Telegram bot var mı ve oradan ne alınabilir?",
+        "a": "Evet, Telegram botumuz var. Düzenli olarak ücretsiz kredi, promosyon kodları ve haberler çıkar. Güncel teklifleri ana sayfada ve botun kendisinde kontrol edin — yeni ve mevcut kullanıcılar için geçerli kodlar ve bonuslar yayınlanır. Header veya footer linkinden katılın."
+      },
+      {
+        "q": "Hesabımı nasıl silerim?",
+        "a": "Hesabı profil ayarlarından silebilir veya destekle iletişime geçebilirsiniz. Onay sonrası hesap ve ilgili veriler gizlilik politikasına göre silinir. Kullanılmayan ücretli krediler genellikle silme ile kaybolur. Telegram botundaki ücretsiz krediler de saklanmaz."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} — ana sayfa",
+    "description": "Gelişmiş AI elbise çıkarıcı. Gerçekçi sonuçlar, hızlı işlem ve gizlilik öncelikli. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda. Yalnızca yetişkinler 18+. Başkalarının fotoğraflarını yüklemeden önce her zaman onay alın.",
+    "columns": [
+      {
+        "title": "Araçlar",
+        "links": [
+          "AI Elbise Çıkarıcı",
+          "Çıplak Üzerine Yüz Değiştirme",
+          "Ahegao Oluşturucu",
+          "Tüm AI araçları"
+        ]
+      },
+      {
+        "title": "Destek",
+        "links": [
+          "Nasıl çalışır",
+          "Sıkça sorulan sorular",
+          "Telegram bot (kredi ve kodlar)",
+          "İletişim"
+        ]
+      },
+      {
+        "title": "Yasal",
+        "links": [
+          "Kullanım şartları",
+          "Gizlilik politikası",
+          "18+ ve onay politikası",
+          "İadeler"
+        ]
+      }
+    ],
+    "legal": [
+      "Kullanım şartları",
+      "Gizlilik politikası",
+      "İçerik ve onay politikası"
+    ],
+    "copyright": "Tüm hakları saklıdır. Yalnızca yetişkinler 18+. Sorumlu kullanın ve yalnızca açık onayla. Ücretsiz kredi ve promosyon kodları ana sayfada ve Telegram botunda."
+  }
+}

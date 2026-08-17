@@ -1,0 +1,483 @@
+{
+  "_about": "Versión en Español. Todos los textos visibles están aquí. Las claves con _ no se renderizan.",
+
+  "meta": {
+    "locale": "es",
+    "label": "Español",
+    "short": "ES",
+    "htmlLang": "es",
+    "ogLocale": "es_ES",
+    "siteTitle": "{brand} — Quitar Ropa IA | Removedor de Ropa con Inteligencia Artificial",
+    "titleTemplate": "%s — {brand}",
+    "pageTitle": "Quitar Ropa IA — Removedor de Ropa de Fotos Online",
+    "pageDescription": "Quitar ropa IA de forma rápida y realista. Nuestra inteligencia artificial quita la ropa de cualquier foto en segundos. Créditos gratis y códigos promocionales en la página principal y en el Telegram bot. Rápido, anónimo y solo +18.",
+    "ogImageAlt": "Quitar ropa IA — antes y después realista"
+  },
+
+  "gate": {
+    "rules": [
+      "Este sitio web contiene contenido para adultos, incluidos desnudos y material sexualmente explícito.",
+      "Está estrictamente prohibido subir o usar imágenes de menores o de cualquier persona sin su consentimiento explícito.",
+      "Usted asume toda la responsabilidad por las imágenes que cree en esta plataforma.",
+      "Al hacer clic en «Aceptar» confirma que ha alcanzado la mayoría de edad en su jurisdicción, acepta las condiciones anteriores y consiente ver contenido sexualmente explícito."
+    ],
+    "accept": "Aceptar",
+    "a11yLabel": "Confirmación de edad y consentimiento"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} — inicio",
+    "langLabel": "Cambiar idioma",
+    "menuOpen": "Abrir menú",
+    "menuClose": "Cerrar menú",
+    "links": [
+      "Quitar Ropa IA",
+      "Cómo funciona",
+      "Ventajas",
+      "Preguntas"
+    ],
+    "social": [
+      "Telegram bot — créditos gratis, códigos promocionales y novedades"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [
+      "Inteligencia Artificial",
+      "IA"
+    ],
+    "titleLines": [
+      "Quitar",
+      "Ropa",
+      "IA"
+    ],
+    "subtitleStrong": "Quita la ropa de cualquier foto en segundos.",
+    "subtitle": "Nuestra IA para quitar ropa entrega resultados realistas y naturales. Solo sube la imagen. Créditos gratis y códigos promocionales disponibles en la página principal y en nuestro Telegram bot.",
+    "cta": "Subir foto y quitar ropa",
+    "imageAlt": "Demo quitar ropa IA — foto vestida se convierte en desnudo realista"
+  },
+
+  "stats": {
+    "a11yLabel": "Cifras principales de la plataforma",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Nuevos usuarios hoy"
+      },
+      {
+        "value": "97%",
+        "label": "Generaciones exitosas"
+      },
+      {
+        "value": "348.000",
+        "label": "Usuarios registrados en total"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "Herramientas de IA para quitar ropa y crear contenido adulto",
+    "badge": "Más usado",
+    "cta": "Probar ahora",
+    "items": [
+      {
+        "title": "Quitar Ropa IA / Removedor de Ropa",
+        "body": "El mejor removedor de ropa con inteligencia artificial. Nuestra IA analiza la forma del cuerpo, los pliegues de la ropa, la luz y las sombras para generar piel realista y proporciones naturales. La forma más rápida de quitar ropa de una foto. Créditos gratis y códigos promocionales en la página principal y en el Telegram bot.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "Quitar ropa IA antes y después",
+        "badge": true
+      },
+      {
+        "title": "Cambio de Rostro en Desnudo",
+        "body": "Coloca cualquier rostro en un cuerpo desnudo manteniendo la iluminación, el tono de piel y la pose. Ideal después de usar el removedor de ropa. Los nuevos usuarios encuentran créditos gratis en el Telegram bot.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Resultado de cambio de rostro en desnudo"
+      },
+      {
+        "title": "Generador de Efectos en el Rostro",
+        "body": "Añade efectos realistas en el rostro con un clic. Funciona tanto en fotos originales como en las ya procesadas. Códigos promocionales y créditos gratis en la página principal y en el bot.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Vista previa de efectos en el rostro"
+      },
+      {
+        "title": "Cuerpo Embarazado con IA",
+        "body": "Transforma cualquier foto en un cuerpo embarazado natural manteniendo el rostro y la pose. Herramienta creativa más allá del simple quitar ropa. Sigue los créditos gratis en el Telegram bot.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Transformación de cuerpo embarazado"
+      },
+      {
+        "title": "Rostro de Orgasmo / Ahegao",
+        "body": "Crea expresiones de orgasmo y ahegao con control de intensidad. Se puede combinar con el removedor de ropa. Créditos gratis y códigos promocionales en la página principal y en el Telegram bot.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Vista previa de rostro de orgasmo"
+      },
+      {
+        "title": "Generador de Ahegao IA",
+        "body": "Expresiones ahegao clásicas con alto detalle. Funciona solo o después de quitar la ropa. Revisa los bonos actuales en el Telegram bot y en la página principal.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "Resultado del generador de ahegao"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "Probar quitar ropa IA gratis",
+    "ariaLabel": "Ejemplos de antes y después de quitar ropa IA",
+    "pagerLabel": "Elige un ejemplo de antes y después",
+    "slideLabel": "Mostrar ejemplo {n}",
+    "slides": [
+      {
+        "title": "Quitar ropa IA realista en fotos comunes",
+        "body": "La IA identifica la ropa, predice la forma del cuerpo debajo y reconstruye piel, textura y sombras de forma natural. El resultado parece una foto real, no un recorte tosco. Créditos gratis y códigos promocionales disponibles en la página principal y en el Telegram bot.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Foto original con ropa",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Resultado realista después de quitar ropa IA",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Funciona bien en poses y fondos complicados",
+        "body": "Incluso con brazos cruzados, ángulos laterales o fondo movido, la IA mantiene la anatomía y bordes limpios. Está entrenada para separar el cuerpo del entorno. Sigue las promociones de créditos gratis en el Telegram bot.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Pose compleja antes del procesamiento",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Resultado limpio en pose compleja",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Alto detalle de piel y luz natural",
+        "body": "Los modelos generan piel suave, detalles realistas e iluminación que combina con la foto original. Así se evita el aspecto artificial. Códigos promocionales y créditos gratis en la página principal y en el Telegram bot.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Foto de estudio antes de quitar la ropa",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Resultado detallado con luz natural",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "Cómo"
+      },
+      {
+        "text": "quitar ropa de cualquier foto",
+        "accent": true
+      },
+      {
+        "text": "en 3 pasos simples"
+      }
+    ],
+    "subline": "Sin prompts complicados. Sin instalar nada. Créditos gratis y códigos promocionales en la página principal y en el Telegram bot.",
+    "steps": [
+      {
+        "title": "Sube la foto",
+        "body": "Elige una imagen nítida de una persona mayor de 18 años con consentimiento (JPG o PNG). Los ángulos frontales y de tres cuartos con buena iluminación dan los mejores resultados. Créditos gratis se pueden encontrar en el Telegram bot y en la página principal."
+      },
+      {
+        "title": "La IA procesa la imagen",
+        "body": "El removedor de ropa identifica la ropa, construye el modelo del cuerpo y genera piel realista respetando la pose, la luz y las sombras. El proceso tarda de media entre 5 y 12 segundos."
+      },
+      {
+        "title": "Descarga o refina el resultado",
+        "body": "Ve el resultado al instante. Descárgalo en alta calidad o usa las herramientas extra (cambio de rostro, efectos, ahegao). No olvides revisar el Telegram bot: allí aparecen créditos gratis y códigos promocionales con frecuencia."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Por qué elegir nuestro"
+      },
+      {
+        "text": "quitar ropa IA",
+        "accent": true
+      },
+      {
+        "text": "frente a otros"
+      }
+    ],
+    "subline": "Comparación honesta con herramientas populares. Créditos gratis y códigos promocionales en la página principal y en el Telegram bot.",
+    "caption": "Comparación de quitar ropa IA con ClothOff, Undress.cc y otros",
+    "rowHeader": "Función",
+    "columns": [
+      "Nuestro Quitar Ropa IA",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Sí",
+      "no": "No",
+      "partial": "Parcial"
+    },
+    "rows": [
+      {
+        "label": "Piel y anatomía realistas",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Prueba gratis sin registro",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Procesamiento en 5–12 segundos",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Funciona en poses complejas",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "No almacena fotos de forma permanente",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Herramientas extra (rostro, efectos)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Bueno en móvil",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Política clara de +18 y consentimiento",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      },
+      {
+        "label": "Telegram bot con créditos gratis",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Códigos promocionales en la página principal",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Probar nuestro quitar ropa IA",
+      "ClothOff",
+      "Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Por qué nuestro"
+      },
+      {
+        "text": "quitar ropa IA",
+        "accent": true
+      },
+      {
+        "text": "da mejores resultados"
+      }
+    ],
+    "items": [
+      {
+        "title": "Realismo de verdad, no solo borrar la ropa",
+        "body": "Muchas herramientas solo eliminan la tela y dejan manchas extrañas. Nuestra IA reconstruye el volumen del cuerpo, la textura de la piel y las sombras suaves. El resultado parece una foto real. Créditos gratis y códigos promocionales en la página principal y en el Telegram bot.",
+        "imageAlt": "Detalle de piel realista después de quitar la ropa"
+      },
+      {
+        "title": "Rápido incluso en fotos difíciles",
+        "body": "Fondo movido, brazos cruzados, ángulo lateral o poca luz: el modelo está entrenado para estos casos. El tiempo medio de generación es de 5 a 12 segundos. Sigue las promociones de créditos gratis en el Telegram bot.",
+        "imageAlt": "Quitar ropa IA en pose y fondo complejos"
+      },
+      {
+        "title": "Privacidad en primer lugar",
+        "body": "Las fotos se procesan en sesiones temporales y se eliminan automáticamente. No creamos galerías permanentes ni vendemos datos. Permaneces anónimo. Los créditos gratis se pueden obtener en el Telegram bot con el mínimo de datos.",
+        "imageAlt": "Procesamiento seguro y privado de imágenes"
+      },
+      {
+        "title": "Más que solo quitar la ropa",
+        "body": "Después de quitar la ropa puedes aplicar cambio de rostro, ajustes de cuerpo, ahegao y otros efectos. Una sola plataforma sustituye varios servicios. Códigos promocionales y créditos gratis en la página principal y en el Telegram bot.",
+        "imageAlt": "Herramientas extra de IA después de quitar la ropa"
+      },
+      {
+        "title": "Créditos gratis y códigos promocionales en Telegram",
+        "body": "Distribuimos créditos gratis y códigos promocionales con frecuencia. Las ofertas actuales aparecen en la página principal del sitio y en el Telegram bot. Únete al bot para no perderte bonos y actualizaciones.",
+        "imageAlt": "Telegram bot con créditos gratis y códigos promocionales"
+      },
+      {
+        "title": "Proceso simple, sin configuraciones complicadas",
+        "body": "No hace falta escribir prompts largos. Subiste la foto — recibiste el resultado. Para la mayoría de usuarios esto es suficiente. Créditos gratis para empezar están en la página principal y en el Telegram bot.",
+        "imageAlt": "Proceso simple de subida y resultado"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Preguntas sobre quitar ropa IA y removedor de ropa",
+    "subtitle": "Todo lo que necesitas saber antes de subir la primera foto. Créditos gratis y códigos promocionales en la página principal y en el Telegram bot.",
+    "items": [
+      {
+        "q": "¿Qué es un quitar ropa IA / removedor de ropa con inteligencia artificial?",
+        "a": "Un quitar ropa IA (también llamado removedor de ropa o undress AI) es una inteligencia artificial que analiza una foto vestida, predice el cuerpo debajo de la ropa y genera una versión desnuda realista. Los modelos modernos se centran en piel natural, anatomía correcta e iluminación coherente. El servicio es exclusivo para mayores de 18 años y debe usarse solo con consentimiento. Créditos gratis y códigos promocionales están en la página principal y en el Telegram bot."
+      },
+      {
+        "q": "¿Puedo probarlo gratis?",
+        "a": "Sí. Los nuevos usuarios suelen recibir créditos gratis. Después del período de prueba se pueden comprar más créditos. Muchas veces no se necesita tarjeta para empezar. Los créditos gratis y códigos promocionales actuales se publican en la página principal y en nuestro Telegram bot: revisa con frecuencia."
+      },
+      {
+        "q": "¿Cuánto tiempo tarda el procesamiento?",
+        "a": "La mayoría de las fotos se procesan entre 5 y 12 segundos, según la resolución, la complejidad de la pose y la carga de los servidores. Archivos muy grandes o ángulos difíciles pueden tardar un poco más."
+      },
+      {
+        "q": "¿Es seguro y privado?",
+        "a": "Las imágenes subidas se procesan en sesiones temporales y se eliminan automáticamente. No guardamos copias permanentes ni compartimos fotos con terceros. Usa solo imágenes tuyas o de personas que hayan dado consentimiento explícito. El servicio es estrictamente +18."
+      },
+      {
+        "q": "¿Puedo subir cualquier foto?",
+        "a": "Técnicamente la IA funciona con la mayoría de fotos nítidas de personas. Legal y éticamente solo debes subir imágenes tuyas o de personas con consentimiento claro. Está prohibido el contenido con menores. La plataforma es exclusiva para adultos +18."
+      },
+      {
+        "q": "¿Por qué nuestro quitar ropa IA es mejor que ClothOff o Undress.cc?",
+        "a": "Priorizamos la precisión anatómica, la luz natural y menos artefactos en poses difíciles. Además tenemos herramientas extra en el mismo sitio. Créditos gratis y códigos promocionales aparecen regularmente en la página principal y en el Telegram bot, facilitando la prueba sin pagar."
+      },
+      {
+        "q": "¿Necesito instalar algo o registrarme obligatoriamente?",
+        "a": "No hace falta instalar nada: todo funciona en el navegador. Una cuenta gratuita da más límites, pero la prueba limitada muchas veces está disponible sin registro completo. También se pueden obtener créditos gratis a través del Telegram bot."
+      },
+      {
+        "q": "¿Qué tipo de fotos dan el mejor resultado?",
+        "a": "Fotos nítidas con buena iluminación, donde el cuerpo se ve completo o casi completo, funcionan mejor. Los ángulos frontales y de tres cuartos son más estables. Cuanto más claros sean los contornos de la ropa y el cuerpo, mejor será la calidad."
+      },
+      {
+        "q": "¿Por qué a veces aparecen artefactos?",
+        "a": "Los artefactos son más comunes en poses muy complejas, cuando el cuerpo está muy cubierto, con poca luz o baja resolución. Prueba otra foto o un ángulo mejor: a menudo mejora bastante el resultado."
+      },
+      {
+        "q": "¿Puedo usar el resultado con fines comerciales?",
+        "a": "Depende de los derechos que tengas sobre la imagen original y de las condiciones de uso del servicio. Incluso con un buen resultado, debes respetar el consentimiento de las personas y los derechos de autor."
+      },
+      {
+        "q": "¿Funciona en fotos de hombres y diferentes tipos de cuerpo?",
+        "a": "Los modelos actuales manejan diferentes tipos de cuerpo. La calidad puede variar según el ángulo y la calidad de la foto original. La mejor forma de probarlo es subir una imagen usando créditos gratis del Telegram bot."
+      },
+      {
+        "q": "¿Cuál es la diferencia entre quitar ropa y un generador desde cero?",
+        "a": "El quitar ropa parte de tu foto concreta: mantiene la pose, el rostro, el ángulo y la iluminación, cambiando principalmente la ropa. Un generador desde cero crea la imagen a partir de texto y no tiene que conservar la apariencia original."
+      },
+      {
+        "q": "¿Cómo pago créditos y qué métodos de pago hay?",
+        "a": "El pago se realiza a través de sistemas seguros directamente en el sitio. Hay tarjetas y otros métodos populares (la lista completa aparece en la página de compra). Tras el pago los créditos se acreditan automáticamente. Créditos gratis y códigos promocionales actualizados se pueden obtener en el Telegram bot y en la página principal."
+      },
+      {
+        "q": "¿Se pueden devolver créditos o pedir reembolso?",
+        "a": "Los créditos de pago no utilizados normalmente no caducan y permanecen en la cuenta. El reembolso en dinero es posible en los casos previstos en las reglas (fallo técnico, cobro duplicado, etc.). Para solicitarlo contacta con soporte. Los créditos gratis y códigos promocionales del Telegram bot no son reembolsables: forman parte de promociones."
+      },
+      {
+        "q": "¿Existe Telegram bot y qué se puede conseguir en él?",
+        "a": "Sí, tenemos Telegram bot. En él aparecen regularmente créditos gratis, códigos promocionales y novedades. Busca las ofertas actuales en la página principal del sitio y en el propio bot: allí se publican códigos válidos y bonos para usuarios nuevos y antiguos. Entra por el enlace del encabezado o del pie de página."
+      },
+      {
+        "q": "¿Cómo elimino la cuenta?",
+        "a": "Puedes eliminar la cuenta desde la configuración del perfil o contactando con soporte. Tras la confirmación, la cuenta y los datos asociados se eliminan según la política de privacidad. Los créditos de pago no utilizados suelen perderse al eliminar la cuenta. Los créditos gratis del Telegram bot tampoco se conservan."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} — inicio",
+    "description": "Removedor de ropa avanzado con inteligencia artificial. Resultados realistas, procesamiento rápido y privacidad prioritaria. Créditos gratis y códigos promocionales en la página principal y en el Telegram bot. Solo para adultos +18. Obtén siempre el consentimiento antes de subir fotos de otras personas.",
+    "columns": [
+      {
+        "title": "Herramientas",
+        "links": [
+          "Quitar Ropa IA",
+          "Cambio de Rostro en Desnudo",
+          "Generador de Ahegao",
+          "Todas las herramientas de IA"
+        ]
+      },
+      {
+        "title": "Soporte",
+        "links": [
+          "Cómo funciona",
+          "Preguntas frecuentes",
+          "Telegram bot (créditos y códigos)",
+          "Contacto"
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          "Términos de uso",
+          "Política de privacidad",
+          "Política +18 y consentimiento",
+          "Reembolsos"
+        ]
+      }
+    ],
+    "legal": [
+      "Términos de uso",
+      "Política de privacidad",
+      "Política de contenido y consentimiento"
+    ],
+    "copyright": "Todos los derechos reservados. Solo para adultos +18. Úsalo de forma responsable y únicamente con consentimiento explícito. Créditos gratis y códigos promocionales en la página principal y en el Telegram bot."
+  }
+}

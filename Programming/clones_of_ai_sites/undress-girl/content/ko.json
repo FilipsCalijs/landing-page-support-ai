@@ -1,0 +1,27 @@
+{
+  "_about": "Meta only for now: this file carries the identity of the language plus the tab title and the meta description. Every other key falls back to en.json until this file is filled in - see en.json for the full structure.",
+
+  "meta": {
+    "locale": "ko",
+    "label": "한국어",
+    "short": "KO",
+    "htmlLang": "ko",
+    "ogLocale": "ko_KR",
+    "siteTitle": "{brand} – AI 옷 벗기기, 무료 온라인",
+    "titleTemplate": "%s – {brand}",
+    "pageTitle": "Undress AI 온라인 – 무료 AI 옷 제거 도구",
+    "pageDescription": "고급 AI로 어떤 사진이든 몇 초 만에 옷을 제거합니다. 사실적인 결과, 가입 없이 무료 체험. 빠르고 안전하며 만 18세 이상 전용입니다.",
+    "ogImageAlt": "AI 옷 제거 전후 미리보기"
+  },
+
+  "gate": {
+    "rules": [
+      "이 웹사이트에는 노출 및 성적으로 노골적인 자료를 포함한 성인 콘텐츠가 있습니다.",
+      "미성년자의 이미지, 또는 본인의 명확한 동의가 없는 사람의 이미지를 업로드하거나 사용하는 것은 엄격히 금지됩니다.",
+      "이 플랫폼에서 생성한 모든 이미지에 대한 책임은 전적으로 이용자에게 있습니다.",
+      "“동의합니다”를 클릭하면 거주 지역의 성년 연령에 도달했으며, 위 조건에 동의하고, 성적으로 노골적인 콘텐츠 열람에 동의하는 것으로 간주됩니다."
+    ],
+    "accept": "동의합니다",
+    "a11yLabel": "연령 및 동의 확인"
+  }
+}

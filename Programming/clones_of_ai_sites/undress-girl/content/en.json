@@ -1,0 +1,430 @@
+{
+  "_about": "English copy for the whole site. One file per language: the file name is the language code and it maps to the domain that serves that language (en -> the .com, ru -> the .ru, and so on). Every string a visitor can see or a screen reader can read lives in this file - nothing is written into the components. Keys starting with _ are notes for whoever edits this file; they are never rendered. Lists (faq.items, tools.items, comparison.rows, ...) are read at their own length in every file: if this file has 10 questions and ru.json has 4, the English page shows 10 and the Russian page shows 4. Keys that are missing here fall back to en.json, so a half-finished translation still renders.",
+
+  "meta": {
+    "_note": "Identity of this language plus the text that shows up outside the page body: browser tab, Google result, social preview, and the lang attribute of <html>. {brand} is replaced with the site name from the environment (NEXT_PUBLIC_SITE_NAME).",
+    "locale": "en",
+    "label": "English",
+    "short": "EN",
+    "htmlLang": "en",
+    "ogLocale": "en_US",
+    "siteTitle": "{brand} - Free Undress AI & AI Clothes Remover Online",
+    "titleTemplate": "%s - {brand}",
+    "pageTitle": "Undress AI Online – Free AI Clothes Remover & Undress Her Tool",
+    "pageDescription": "Undress any photo in seconds with our advanced undress AI. Free AI clothes remover, realistic results, no signup required for trial. Try the best undress her generator online – fast, private, 18+ only.",
+    "ogImageAlt": "Undress AI before and after preview – realistic clothes removal"
+  },
+
+  "gate": {
+    "_note": "Age and consent gate - the first thing a new visitor sees, over a blurred page. rules is a numbered list and is read at its own length, so a market that needs a fifth line just gets a fifth entry. accept is the button; a11yLabel names the dialog for screen readers and is never displayed.",
+    "rules": [
+      "This website contains adult content, including nudity and sexually explicit material.",
+      "Uploading or using images of minors, or of any person without their explicit consent, is strictly prohibited.",
+      "You bear full responsibility for any images you create on this platform.",
+      "By clicking “Accept” you confirm that you are at least the age of majority in your jurisdiction, agree to the terms above, and consent to viewing sexually explicit content."
+    ],
+    "accept": "Accept",
+    "a11yLabel": "Age and content confirmation"
+  },
+
+  "nav": {
+    "_note": "Sticky header: menu links, the wordmark's spoken label, the social buttons and the labels of the burger and the language button. There are no log-in / sign-up buttons - the header is links and socials only.",
+    "logoLabel": "{brand} - home",
+    "langLabel": "Change language",
+    "menuOpen": "Open navigation menu",
+    "menuClose": "Close navigation menu",
+    "links": [
+      "Undress AI",
+      "How it works",
+      "Features",
+      "FAQ"
+    ],
+    "social": [
+      "Telegram channel – updates and free credits"
+    ]
+  },
+
+  "hero": {
+    "_note": "First screen: the looping clip on the left, the pitch on the right. titleLines are the lines of the H1 - one entry per line, the first one is printed in the accent colour. eyebrow is the small line above it: [text, badge]. Leave it empty and the line is not rendered at all - the headline moves up to the top of the column.",
+    "eyebrow": [],
+    "titleLines": [
+      "Undress",
+      "Her",
+      "Online"
+    ],
+    "subtitleStrong": "You can undress anyone in a photo.",
+    "subtitle": "Just upload an image and get a realistic AI-generated result in seconds. Free trial available.",
+    "cta": "Upload photo & undress",
+    "imageAlt": "Undress AI demo – clothed photo turned into realistic nude"
+  },
+
+  "stats": {
+    "_note": "Three figures under the hero. a11yLabel names the block for screen readers. The figures are placeholders carried over from the reference layout - swap them for real, verifiable numbers before launch, invented metrics on a live page are a liability.",
+    "a11yLabel": "Key platform statistics",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "New users today"
+      },
+      {
+        "value": "97%",
+        "label": "Successful image generation"
+      },
+      {
+        "value": "348.000",
+        "label": "Total registered users"
+      }
+    ]
+  },
+
+  "tools": {
+    "_note": "Card grid. Add or remove an item and the grid follows - there is no fixed count of six anywhere in the code. badge: true puts the highlight pill (text below) on that card; image is a file in /public/photo-modes, all 800x500.",
+    "title": "Powerful AI tools for undressing and creative adult image generation",
+    "badge": "Hot",
+    "cta": "Try now",
+    "items": [
+      {
+        "title": "AI Clothes Remover",
+        "body": "One-click undress AI that removes clothing with photorealistic skin, natural lighting and accurate body proportions. Best free undress her tool available.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "AI clothes remover before and after",
+        "badge": true
+      },
+      {
+        "title": "Face Swap Nude",
+        "body": "Swap any face onto a nude body while keeping lighting, skin tone and pose consistent. Perfect for creative adult experiments.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Face swap nude AI result"
+      },
+      {
+        "title": "Cum Face Generator",
+        "body": "Add realistic facial effects in one click. Works on both original and undressed photos for extra intensity.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Cum face generator preview"
+      },
+      {
+        "title": "Pregnant AI Generator",
+        "body": "Transform any photo into a natural-looking pregnant body while preserving face and pose. Unique adult fantasy tool.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Pregnant AI body transformation"
+      },
+      {
+        "title": "Orgasm Face Generator",
+        "body": "Create expressive ahegao and orgasm faces with precise control over intensity and expression.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Orgasm face AI preview"
+      },
+      {
+        "title": "AI Ahegao Generator",
+        "body": "Generate classic ahegao expressions with high detail. Works standalone or after undressing a photo.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "AI ahegao generator result"
+      }
+    ]
+  },
+
+  "showcase": {
+    "_note": "Before/after band. The heading and the paragraph belong to the slide: they are inside each entry of slides[] and change at the same moment the photo does, once every three seconds or on a click on the pager. The button below them is shared by all slides. width/height are the real pixels of each file - they reserve the box before it loads, so they are not a wish and must match the file.",
+    "cta": "Try undress AI free",
+    "ariaLabel": "Before and after undress AI examples",
+    "pagerLabel": "Choose a before and after example",
+    "slideLabel": "Show example {n}",
+    "slides": [
+      {
+        "title": "Realistic undress AI on everyday photos",
+        "body": "Our neural network detects clothing, predicts body shape under fabric and reconstructs natural skin texture, shadows and proportions. Results look like real photography, not crude cut-outs.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Clothed source photo before undress AI",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Realistic undressed result after AI clothes remover",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Works on complex poses and backgrounds",
+        "body": "Even with crossed arms, side angles or busy backgrounds the undress AI keeps anatomy correct and edges clean. No broken limbs or floating fabric artifacts.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Complex pose photo before processing",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Clean undressed result on complex pose",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "High-detail skin and natural lighting",
+        "body": "Advanced models trained on diverse body types deliver smooth skin, realistic nipples, subtle shadows and consistent lighting that matches the original photo.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Studio-style photo before undress",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "High-detail nude result with natural lighting",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "_note": "Numbered steps. The circled number is drawn from the position in the list, so adding a fourth step numbers itself - do not write numbers into the text. heading is a list of segments; accent: true prints that segment in the accent colour, which is a flag rather than a word index so a translation can move the accented words anywhere in the sentence.",
+    "heading": [
+      {
+        "text": "How to undress"
+      },
+      {
+        "text": "any photo",
+        "accent": true
+      },
+      {
+        "text": "in 3 simple steps"
+      }
+    ],
+    "subline": "No complex prompts. No installation. Just upload and get results.",
+    "steps": [
+      {
+        "title": "Upload your photo",
+        "body": "Choose a clear image of a consenting adult (JPG or PNG). Front-facing or three-quarter views give the best undress AI results."
+      },
+      {
+        "title": "Let the neural network work",
+        "body": "Our AI clothes remover automatically detects clothing, maps body shape and generates realistic skin in under 10 seconds on average."
+      },
+      {
+        "title": "Download or refine the result",
+        "body": "View the undressed image instantly. Download in high quality or apply extra tools (face swap, body adjustments, effects) if you want more control."
+      }
+    ]
+  },
+
+  "comparison": {
+    "_note": "Comparison table. columns are the headers to the right of the first column; rowHeader is the header of the first column; caption is read by screen readers only. Each row's cells must line up with columns - three columns, three cells. A cell is either one of the legend keys (yes / no / partial), rendered as a tick, a cross or a dash, or free text, printed as it stands. cta is the closing row of links, one per column.",
+    "heading": [
+      {
+        "text": "Why users choose"
+      },
+      {
+        "text": "our undress AI",
+        "accent": true
+      },
+      {
+        "text": "over alternatives"
+      }
+    ],
+    "subline": "Honest comparison with the most popular tools in 2026:",
+    "caption": "Undress AI comparison table versus ClothOff, Undress.cc and Undress.app",
+    "rowHeader": "Feature",
+    "columns": [
+      "Our Undress AI",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Yes",
+      "no": "No",
+      "partial": "Partial"
+    },
+    "rows": [
+      {
+        "label": "Realistic skin & anatomy",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Free trial without signup",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Processing under 10 seconds",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Works on complex poses",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "No permanent image storage",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Extra creative tools (face swap, effects)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Mobile-friendly interface",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Clear 18+ & consent policy",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Try our undress AI",
+      "Visit ClothOff",
+      "Visit Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "_note": "Rows of text and a picture, the picture swapping sides every row. The side is worked out from the position in the list, so the alternation survives adding or removing a row. imageAlt describes the picture for anyone who cannot see it - the pictures themselves are still grey placeholders.",
+    "heading": [
+      {
+        "text": "Why our"
+      },
+      {
+        "text": "AI clothes remover",
+        "accent": true
+      },
+      {
+        "text": "delivers better results"
+      }
+    ],
+    "items": [
+      {
+        "title": "True photorealistic undress AI, not simple erasure",
+        "body": "Most tools just delete fabric and leave unnatural patches. Our neural network reconstructs body volume, skin texture, nipples and subtle shadows so the final image looks like a real photograph. Users consistently rate the anatomy and lighting higher than ClothOff or classic Undress.cc outputs.",
+        "imageAlt": "Photorealistic undress AI skin detail close-up"
+      },
+      {
+        "title": "Fast results even on difficult photos",
+        "body": "Busy backgrounds, crossed arms, side angles, low light or tight clothing — the model was trained to handle them. Average generation time stays under 8–10 seconds while keeping edges clean and proportions correct.",
+        "imageAlt": "Undress AI handling complex pose and background"
+      },
+      {
+        "title": "Privacy-first processing",
+        "body": "Images are processed in temporary sessions and automatically deleted. We do not build permanent galleries or sell user data. You stay anonymous and in control — exactly what adult users expect from a modern undress AI service.",
+        "imageAlt": "Private and secure AI image processing illustration"
+      },
+      {
+        "title": "More than just undressing",
+        "body": "After removing clothes you can instantly apply face swap, body type adjustments, ahegao, cum effects or other creative modes. One platform replaces several separate tools and keeps the same face and lighting consistent across all edits.",
+        "imageAlt": "Extra AI tools available after undressing"
+      }
+    ]
+  },
+
+  "faq": {
+    "_note": "Questions and answers. The list decides how many there are - this file has five, another language may have four or ten and each page shows its own count. q is the question, a is the answer. These same questions are what the page publishes as FAQ structured data to Google, so a question here should be one a visitor would really ask.",
+    "eyebrow": "FAQ",
+    "title": "Common questions about undress AI & AI clothes remover",
+    "subtitle": "Everything you need to know before uploading your first photo.",
+    "items": [
+      {
+        "q": "What is an undress AI / AI clothes remover?",
+        "a": "An undress AI (also called AI clothes remover or deepnude-style tool) uses neural networks to analyze a clothed photo, predict the body underneath and generate a realistic nude version. Modern versions focus on natural skin, correct anatomy and lighting instead of crude fabric deletion."
+      },
+      {
+        "q": "Is it free to try the undress AI?",
+        "a": "Yes. New users receive free credits that let you test the undress her tool without payment. After the free trial you can buy additional credits. No credit card is required to start."
+      },
+      {
+        "q": "How long does it take to undress a photo?",
+        "a": "Most images are processed in 5–12 seconds depending on resolution and current server load. Complex poses or high-resolution photos may take a few seconds longer."
+      },
+      {
+        "q": "Is it safe and private?",
+        "a": "Uploaded photos are processed in temporary sessions and automatically deleted. We do not store permanent copies or share images with third parties. Always use only photos of consenting adults 18+."
+      },
+      {
+        "q": "Can I use it on any photo?",
+        "a": "Technically the AI works on most clear photos of people. Legally and ethically you must only upload images of yourself or people who have given explicit consent. The platform is strictly 18+."
+      },
+      {
+        "q": "How does this undress AI compare to ClothOff or Undress.cc?",
+        "a": "Our model prioritizes anatomical accuracy and natural lighting. Many users report fewer artifacts on difficult poses compared with older Undress.cc versions and more consistent skin quality than some ClothOff outputs. We also bundle extra creative tools in the same interface."
+      },
+      {
+        "q": "Do I need to install anything or create an account?",
+        "a": "No installation is required — everything runs in the browser. A free account unlocks higher limits and history, but a limited trial is available without registration on most devices."
+      }
+    ]
+  },
+
+  "footer": {
+    "_note": "Page footer: the line under the wordmark, the link columns, the legal links and the line after the year. The year itself is printed by the site, not written here. Columns and links are read at their own length, so a language can carry a different set.",
+    "logoLabel": "{brand} - home",
+    "description": "Advanced undress AI and AI clothes remover. Realistic results, fast processing, privacy-focused. For adults 18+ only. Always obtain consent before uploading photos of other people.",
+    "columns": [
+      {
+        "title": "Tools",
+        "links": [
+          "AI Clothes Remover",
+          "Face Swap Nude",
+          "Ahegao Generator",
+          "All AI tools"
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          "How it works",
+          "FAQ",
+          "Telegram channel",
+          "Contact"
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          "Terms of Service",
+          "Privacy Policy",
+          "18+ Content Policy",
+          "Refund Policy"
+        ]
+      }
+    ],
+    "legal": [
+      "Terms of Service",
+      "Privacy Policy",
+      "Content & Consent Policy"
+    ],
+    "copyright": "All rights reserved. For adults 18+ only. Use responsibly and only with explicit consent."
+  }
+}

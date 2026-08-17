@@ -1,0 +1,483 @@
+{
+  "_about": "Wersja polska. Wszystkie widoczne teksty są tutaj. Klucze z _ nie są wyświetlane.",
+
+  "meta": {
+    "locale": "pl",
+    "label": "Polski",
+    "short": "PL",
+    "htmlLang": "pl",
+    "ogLocale": "pl_PL",
+    "siteTitle": "{brand} — AI Usuwanie Ubrań | Usuwanie Ubrań ze Zdjęcia Online",
+    "titleTemplate": "%s — {brand}",
+    "pageTitle": "AI Usuwanie Ubrań — Usuwanie Ubrań ze Zdjęcia z AI",
+    "pageDescription": "AI usuwanie ubrań ze zdjęcia szybko i realistycznie. Nasz usuwacz ubrań AI usuwa ubrania z dowolnego zdjęcia w kilka sekund. Darmowe kredyty i kody promocyjne na stronie głównej oraz w Telegram bocie. Szybko, anonimowo i tylko 18+.",
+    "ogImageAlt": "AI usuwanie ubrań — przed i po realistycznie"
+  },
+
+  "gate": {
+    "rules": [
+      "Ta strona zawiera treści dla dorosłych, w tym nagość i materiały o charakterze jednoznacznie seksualnym.",
+      "Przesyłanie i wykorzystywanie zdjęć osób nieletnich oraz jakichkolwiek osób bez ich wyraźnej zgody jest surowo zabronione.",
+      "Ponosisz pełną odpowiedzialność za wszystkie obrazy tworzone na tej platformie.",
+      "Klikając „Akceptuję”, potwierdzasz, że osiągnąłeś pełnoletność w swojej jurysdykcji, zgadzasz się z powyższymi warunkami i wyrażasz zgodę na przeglądanie treści o charakterze jednoznacznie seksualnym."
+    ],
+    "accept": "Akceptuję",
+    "a11yLabel": "Potwierdzenie wieku i zgody"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} — strona główna",
+    "langLabel": "Zmień język",
+    "menuOpen": "Otwórz menu",
+    "menuClose": "Zamknij menu",
+    "links": [
+      "AI Usuwanie Ubrań",
+      "Jak to działa",
+      "Zalety",
+      "FAQ"
+    ],
+    "social": [
+      "Telegram bot — darmowe kredyty, kody promocyjne i nowości"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [
+      "Sztuczna Inteligencja",
+      "AI"
+    ],
+    "titleLines": [
+      "AI",
+      "Usuwanie",
+      "Ubrań"
+    ],
+    "subtitleStrong": "Usuń ubrania z dowolnego zdjęcia w kilka sekund.",
+    "subtitle": "Nasz AI usuwacz ubrań daje realistyczne i naturalne efekty. Wystarczy przesłać zdjęcie. Darmowe kredyty i kody promocyjne znajdziesz na stronie głównej oraz w naszym Telegram bocie.",
+    "cta": "Prześlij zdjęcie i usuń ubrania",
+    "imageAlt": "Demo AI usuwanie ubrań — ubrane zdjęcie staje się realistycznym aktem"
+  },
+
+  "stats": {
+    "a11yLabel": "Główne liczby platformy",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Nowych użytkowników dziś"
+      },
+      {
+        "value": "97%",
+        "label": "Udanych generacji"
+      },
+      {
+        "value": "348.000",
+        "label": "Zarejestrowanych użytkowników łącznie"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "Narzędzia AI do usuwania ubrań i tworzenia treści dla dorosłych",
+    "badge": "Najczęściej używane",
+    "cta": "Wypróbuj teraz",
+    "items": [
+      {
+        "title": "AI Usuwanie Ubrań / Usuwacz Ubrań",
+        "body": "Najlepszy AI usuwacz ubrań. Nasza AI analizuje kształt ciała, fałdy ubrań, światło i cienie, generując realistyczną skórę i naturalne proporcje. Najszybszy sposób na usunięcie ubrań ze zdjęcia. Darmowe kredyty i kody promocyjne na stronie głównej oraz w Telegram bocie.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "AI usuwanie ubrań przed i po",
+        "badge": true
+      },
+      {
+        "title": "Zamiana Twarzy na Akt",
+        "body": "Umieść dowolną twarz na nagim ciele zachowując oświetlenie, odcień skóry i pozę. Idealne po użyciu usuwacza ubrań. Nowi użytkownicy znajdą darmowe kredyty w Telegram bocie.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Wynik zamiany twarzy na akt"
+      },
+      {
+        "title": "Generator Efektów na Twarzy",
+        "body": "Dodaj realistyczne efekty na twarzy jednym kliknięciem. Działa zarówno na oryginalnych zdjęciach, jak i już przetworzonych. Kody promocyjne i darmowe kredyty na stronie głównej oraz w bocie.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Podgląd efektów na twarzy"
+      },
+      {
+        "title": "Ciało w Ciąży z AI",
+        "body": "Zmień dowolne zdjęcie w naturalne ciało w ciąży zachowując twarz i pozę. Kreatywne narzędzie poza samym usuwaniem ubrań. Śledź darmowe kredyty w Telegram bocie.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "Transformacja ciała w ciąży"
+      },
+      {
+        "title": "Twarz Orgazmu / Ahegao",
+        "body": "Twórz ekspresje orgazmu i ahegao z kontrolą intensywności. Można łączyć z usuwaczem ubrań. Darmowe kredyty i kody promocyjne na stronie głównej oraz w Telegram bocie.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "Podgląd twarzy orgazmu"
+      },
+      {
+        "title": "Generator Ahegao AI",
+        "body": "Klasyczne ekspresje ahegao z wysokim poziomem szczegółów. Działa samodzielnie lub po usunięciu ubrań. Sprawdź aktualne bonusy w Telegram bocie i na stronie głównej.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "Wynik generatora Ahegao"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "Wypróbuj AI usuwanie ubrań za darmo",
+    "ariaLabel": "Przykłady przed i po AI usuwania ubrań",
+    "pagerLabel": "Wybierz przykład przed i po",
+    "slideLabel": "Pokaż przykład {n}",
+    "slides": [
+      {
+        "title": "Realistyczne AI usuwanie ubrań na zwykłych zdjęciach",
+        "body": "AI identyfikuje ubrania, przewiduje kształt ciała pod nimi i rekonstruuje skórę, teksturę oraz cienie w naturalny sposób. Efekt wygląda jak prawdziwe zdjęcie, a nie grube wycięcie. Darmowe kredyty i kody promocyjne dostępne na stronie głównej oraz w Telegram bocie.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Oryginalne zdjęcie w ubraniu",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Realistyczny wynik po usunięciu ubrań",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Działa dobrze przy złożonych pozach i tłach",
+        "body": "Nawet przy skrzyżowanych ramionach, kątach bocznych lub ruchliwym tle AI zachowuje anatomię i czyste krawędzie. Jest wytrenowana do oddzielania ciała od otoczenia. Śledź promocje z darmowymi kredytami w Telegram bocie.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Złożona poza przed przetwarzaniem",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Czysty wynik przy złożonej pozie",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Wysoki detal skóry i naturalne światło",
+        "body": "Modele generują gładką skórę, realistyczne detale i oświetlenie pasujące do oryginalnego zdjęcia. Dzięki temu unika się sztucznego wyglądu. Kody promocyjne i darmowe kredyty na stronie głównej oraz w Telegram bocie.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Zdjęcie studyjne przed usunięciem ubrań",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Szczegółowy wynik z naturalnym światłem",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "Jak"
+      },
+      {
+        "text": "usunąć ubrania z dowolnego zdjęcia",
+        "accent": true
+      },
+      {
+        "text": "w 3 prostych krokach"
+      }
+    ],
+    "subline": "Bez skomplikowanych promptów. Bez instalacji. Darmowe kredyty i kody promocyjne na stronie głównej oraz w Telegram bocie.",
+    "steps": [
+      {
+        "title": "Prześlij zdjęcie",
+        "body": "Wybierz ostre zdjęcie osoby pełnoletniej za zgodą (JPG lub PNG). Ujęcia frontalne i trzyczwarte z dobrym oświetleniem dają najlepsze wyniki. Darmowe kredyty znajdziesz w Telegram bocie i na stronie głównej."
+      },
+      {
+        "title": "AI przetwarza obraz",
+        "body": "Usuwacz ubrań identyfikuje ubrania, buduje model ciała i generuje realistyczną skórę uwzględniając pozę, światło i cienie. Proces trwa średnio 5–12 sekund."
+      },
+      {
+        "title": "Pobierz lub dopracuj wynik",
+        "body": "Zobacz wynik od razu. Pobierz go w wysokiej jakości lub użyj dodatkowych narzędzi (zamiana twarzy, efekty, ahegao). Nie zapomnij sprawdzić Telegram bota — tam regularnie pojawiają się darmowe kredyty i kody promocyjne."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Dlaczego wybrać nasz"
+      },
+      {
+        "text": "AI usuwacz ubrań",
+        "accent": true
+      },
+      {
+        "text": "zamiast innych"
+      }
+    ],
+    "subline": "Uczciwe porównanie z popularnymi narzędziami. Darmowe kredyty i kody promocyjne na stronie głównej oraz w Telegram bocie.",
+    "caption": "Porównanie AI usuwania ubrań z ClothOff, Undress.cc i innymi",
+    "rowHeader": "Funkcja",
+    "columns": [
+      "Nasz AI Usuwacz Ubrań",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Tak",
+      "no": "Nie",
+      "partial": "Częściowo"
+    },
+    "rows": [
+      {
+        "label": "Realistyczna skóra i anatomia",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Darmowa próba bez rejestracji",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Przetwarzanie w 5–12 sekund",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Działa przy złożonych pozach",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Nie przechowuje zdjęć na stałe",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Dodatkowe narzędzia (twarz, efekty)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Dobre na telefonie",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Jasna polityka 18+ i zgody",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      },
+      {
+        "label": "Telegram bot z darmowymi kredytami",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Kody promocyjne na stronie głównej",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Wypróbuj nasz AI usuwacz ubrań",
+      "ClothOff",
+      "Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Dlaczego nasz"
+      },
+      {
+        "text": "AI usuwacz ubrań",
+        "accent": true
+      },
+      {
+        "text": "daje lepsze wyniki"
+      }
+    ],
+    "items": [
+      {
+        "title": "Prawdziwy fotorealizm, nie tylko wymazywanie ubrań",
+        "body": "Wiele narzędzi tylko usuwa tkaninę i zostawia nienaturalne plamy. Nasza AI rekonstruuje objętość ciała, teksturę skóry i miękkie cienie. Efekt wygląda jak prawdziwe zdjęcie. Darmowe kredyty i kody promocyjne na stronie głównej oraz w Telegram bocie.",
+        "imageAlt": "Szczegół realistycznej skóry po usunięciu ubrań"
+      },
+      {
+        "title": "Szybko nawet przy trudnych zdjęciach",
+        "body": "Ruchliwe tło, skrzyżowane ramiona, kąt boczny lub słabe światło — model jest na to wytrenowany. Średni czas generowania to 5–12 sekund. Śledź promocje z darmowymi kredytami w Telegram bocie.",
+        "imageAlt": "AI usuwanie ubrań przy złożonej pozie i tle"
+      },
+      {
+        "title": "Prywatność na pierwszym miejscu",
+        "body": "Zdjęcia są przetwarzane w tymczasowych sesjach i automatycznie usuwane. Nie tworzymy stałych galerii i nie sprzedajemy danych. Pozostajesz anonimowy. Darmowe kredyty można uzyskać przez Telegram bota z minimalnymi danymi.",
+        "imageAlt": "Bezpieczne i prywatne przetwarzanie obrazów"
+      },
+      {
+        "title": "Więcej niż samo usuwanie ubrań",
+        "body": "Po usunięciu ubrań możesz zastosować zamianę twarzy, korektę ciała, ahegao i inne efekty. Jedna platforma zastępuje wiele usług. Kody promocyjne i darmowe kredyty na stronie głównej oraz w Telegram bocie.",
+        "imageAlt": "Dodatkowe narzędzia AI po usunięciu ubrań"
+      },
+      {
+        "title": "Darmowe kredyty i kody promocyjne przez Telegram",
+        "body": "Regularnie rozdajemy darmowe kredyty i ważne kody promocyjne. Aktualne oferty pojawiają się na stronie głównej i w Telegram bocie. Dołącz do bota, żeby nie przegapić bonusów i aktualizacji.",
+        "imageAlt": "Telegram bot z darmowymi kredytami i kodami promocyjnymi"
+      },
+      {
+        "title": "Prosty proces, bez skomplikowanych ustawień",
+        "body": "Nie trzeba pisać długich promptów. Przesyłasz zdjęcie — dostajesz wynik. Dla większości użytkowników to wystarczy. Darmowe kredyty na start znajdziesz na stronie głównej oraz w Telegram bocie.",
+        "imageAlt": "Prosty proces przesyłania i wyniku"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "Często zadawane pytania",
+    "title": "Pytania o AI usuwanie ubrań i usuwanie ubrań ze zdjęcia",
+    "subtitle": "Wszystko, co musisz wiedzieć przed przesłaniem pierwszego zdjęcia. Darmowe kredyty i kody promocyjne na stronie głównej oraz w Telegram bocie.",
+    "items": [
+      {
+        "q": "Czym jest AI usuwanie ubrań / usuwacz ubrań?",
+        "a": "AI usuwanie ubrań (zwane też usuwaczem ubrań lub undress AI) to sztuczna inteligencja, która analizuje ubrane zdjęcie, przewiduje ciało pod ubraniem i generuje realistyczną wersję aktu. Nowoczesne modele skupiają się na naturalnej skórze, poprawnej anatomii i spójnym oświetleniu. Usługa jest wyłącznie dla osób 18+ i może być używana tylko za zgodą. Darmowe kredyty i kody promocyjne znajdziesz na stronie głównej oraz w Telegram bocie."
+      },
+      {
+        "q": "Czy mogę wypróbować za darmo?",
+        "a": "Tak. Nowi użytkownicy zazwyczaj otrzymują darmowe kredyty. Po okresie próbnym można kupić więcej. Często nie potrzeba karty, żeby zacząć. Aktualne darmowe kredyty i kody promocyjne publikowane są na stronie głównej oraz w naszym Telegram bocie — sprawdzaj regularnie."
+      },
+      {
+        "q": "Ile czasu zajmuje przetwarzanie?",
+        "a": "Większość zdjęć jest przetwarzana w 5–12 sekund w zależności od rozdzielczości, złożoności pozy i obciążenia serwerów. Bardzo duże pliki lub trudne kąty mogą zająć trochę więcej czasu."
+      },
+      {
+        "q": "Czy to bezpieczne i prywatne?",
+        "a": "Przesłane obrazy są przetwarzane w tymczasowych sesjach i automatycznie usuwane. Nie przechowujemy stałych kopii i nie udostępniamy zdjęć osobom trzecim. Używaj tylko zdjęć siebie lub osób, które wyraziły wyraźną zgodę. Usługa jest ściśle 18+."
+      },
+      {
+        "q": "Czy mogę przesłać dowolne zdjęcie?",
+        "a": "Technicznie AI działa z większością ostrych zdjęć osób. Prawnie i etycznie wolno przesyłać tylko własne zdjęcia lub zdjęcia osób z jasną zgodą. Treści z udziałem nieletnich są surowo zabronione. Platforma jest wyłącznie dla dorosłych 18+."
+      },
+      {
+        "q": "Dlaczego nasz AI usuwacz ubrań jest lepszy niż ClothOff lub Undress.cc?",
+        "a": "Stawiamy na precyzję anatomiczną, naturalne światło i mniej artefaktów przy trudnych pozach. Dodatkowo mamy więcej narzędzi w jednym miejscu. Darmowe kredyty i kody promocyjne pojawiają się regularnie na stronie głównej oraz w Telegram bocie, co ułatwia testowanie bez płacenia."
+      },
+      {
+        "q": "Czy muszę coś instalować lub obowiązkowo się rejestrować?",
+        "a": "Nic nie trzeba instalować — wszystko działa w przeglądarce. Darmowe konto daje więcej limitów, ale ograniczona próba często jest dostępna bez pełnej rejestracji. Darmowe kredyty można też uzyskać przez Telegram bota."
+      },
+      {
+        "q": "Jakie zdjęcia dają najlepsze wyniki?",
+        "a": "Ostre zdjęcia z dobrym oświetleniem, gdzie ciało jest widoczne w całości lub prawie w całości, działają najlepiej. Ujęcia frontalne i trzyczwarte są stabilniejsze. Im wyraźniejsze kontury ubrań i ciała, tym lepsza jakość."
+      },
+      {
+        "q": "Dlaczego czasem pojawiają się artefakty?",
+        "a": "Artefakty częściej występują przy bardzo złożonych pozach, gdy ciało jest mocno zasłonięte, przy słabym świetle lub niskiej rozdzielczości. Spróbuj innego zdjęcia lub lepszego kąta — często wynik wyraźnie się poprawia."
+      },
+      {
+        "q": "Czy mogę używać wyniku komercyjnie?",
+        "a": "To zależy od praw, jakie masz do oryginalnego zdjęcia, oraz warunków korzystania z usługi. Nawet przy dobrym wyniku musisz respektować zgodę osób i prawa autorskie."
+      },
+      {
+        "q": "Czy działa na zdjęciach mężczyzn i różnych typach ciała?",
+        "a": "Obecne modele radzą sobie z różnymi typami ciała. Jakość może się różnić w zależności od kąta i jakości oryginalnego zdjęcia. Najlepszym sposobem na sprawdzenie jest przesłanie obrazu z darmowymi kredytami z Telegram bota."
+      },
+      {
+        "q": "Jaka jest różnica między usuwaniem ubrań a generowaniem od zera?",
+        "a": "Usuwanie ubrań wychodzi z Twojego konkretnego zdjęcia: poza, twarz, kąt i oświetlenie są w dużej mierze zachowane, zmienia się głównie ubranie. Generowanie od zera tworzy obraz z tekstu i nie musi zachowywać oryginalnego wyglądu."
+      },
+      {
+        "q": "Jak płacę za kredyty i jakie metody płatności są dostępne?",
+        "a": "Płatność odbywa się przez bezpieczne systemy bezpośrednio na stronie. Karty i inne popularne metody są dostępne (pełna lista pojawia się na stronie zakupu). Po płatności kredyty są automatycznie naliczane. Darmowe kredyty i aktualne kody promocyjne można uzyskać w Telegram bocie i na stronie głównej."
+      },
+      {
+        "q": "Czy można zwrócić kredyty lub poprosić o zwrot pieniędzy?",
+        "a": "Nieużyte płatne kredyty zazwyczaj nie wygasają i pozostają na koncie. Zwrot pieniędzy jest możliwy w przypadkach określonych w regulaminie (błąd techniczny, podwójne obciążenie itp.). Aby o to poprosić, skontaktuj się z supportem. Darmowe kredyty i kody promocyjne z Telegram bota nie podlegają zwrotowi — są częścią promocji."
+      },
+      {
+        "q": "Czy jest Telegram bot i co można z niego dostać?",
+        "a": "Tak, mamy Telegram bota. Regularnie pojawiają się w nim darmowe kredyty, kody promocyjne i nowości. Sprawdzaj aktualne oferty na stronie głównej i w samym bocie — tam publikowane są ważne kody i bonusy dla nowych i stałych użytkowników. Dołącz przez link w nagłówku lub stopce."
+      },
+      {
+        "q": "Jak usunąć konto?",
+        "a": "Możesz usunąć konto w ustawieniach profilu lub kontaktując się z supportem. Po potwierdzeniu konto i powiązane dane są usuwane zgodnie z polityką prywatności. Nieużyte płatne kredyty zazwyczaj przepadają przy usunięciu. Darmowe kredyty z Telegram bota też nie są zachowywane."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} — strona główna",
+    "description": "Zaawansowany AI usuwacz ubrań. Realistyczne wyniki, szybkie przetwarzanie i prywatność na pierwszym miejscu. Darmowe kredyty i kody promocyjne na stronie głównej oraz w Telegram bocie. Tylko dla dorosłych 18+. Zawsze uzyskuj zgodę przed przesyłaniem zdjęć innych osób.",
+    "columns": [
+      {
+        "title": "Narzędzia",
+        "links": [
+          "AI Usuwanie Ubrań",
+          "Zamiana Twarzy na Akt",
+          "Generator Ahegao",
+          "Wszystkie narzędzia AI"
+        ]
+      },
+      {
+        "title": "Wsparcie",
+        "links": [
+          "Jak to działa",
+          "Często zadawane pytania",
+          "Telegram bot (kredyty i kody)",
+          "Kontakt"
+        ]
+      },
+      {
+        "title": "Prawne",
+        "links": [
+          "Regulamin",
+          "Polityka prywatności",
+          "Polityka 18+ i zgody",
+          "Zwroty"
+        ]
+      }
+    ],
+    "legal": [
+      "Regulamin",
+      "Polityka prywatności",
+      "Polityka treści i zgody"
+    ],
+    "copyright": "Wszelkie prawa zastrzeżone. Tylko dla dorosłych 18+. Używaj odpowiedzialnie i wyłącznie za wyraźną zgodą. Darmowe kredyty i kody promocyjne na stronie głównej oraz w Telegram bocie."
+  }
+}

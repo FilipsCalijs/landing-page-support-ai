@@ -1,0 +1,418 @@
+{
+  "_about": "Deutsche Texte für die gesamte Website. Der Dateiname ist der Sprachcode. Alle sichtbaren Strings stehen hier. Schlüssel mit _ sind Notizen und werden nie gerendert.",
+
+  "meta": {
+    "locale": "de",
+    "label": "Deutsch",
+    "short": "DE",
+    "htmlLang": "de",
+    "ogLocale": "de_DE",
+    "siteTitle": "{brand} – Kleidung entfernen mit KI, kostenlos online",
+    "titleTemplate": "%s – {brand}",
+    "pageTitle": "Undress AI online – KI Kleidung entfernen kostenlos testen",
+    "pageDescription": "Kleidung auf Fotos in Sekunden mit KI entfernen. Realistische Ergebnisse, kostenlose Testcredits, keine Installation. Der schnelle Undress-AI-Generator online – privat und nur für Erwachsene ab 18.",
+    "ogImageAlt": "Undress AI Vorher-Nachher – realistisches Entfernen von Kleidung"
+  },
+
+  "gate": {
+    "rules": [
+      "Diese Website enthält Inhalte für Erwachsene, einschließlich Nacktheit und sexuell explizitem Material.",
+      "Das Hochladen oder Verwenden von Bildern Minderjähriger oder von Personen ohne deren ausdrückliche Zustimmung ist strengstens verboten.",
+      "Für alle Bilder, die Sie auf dieser Plattform erstellen, tragen Sie die volle Verantwortung.",
+      "Mit einem Klick auf „Akzeptieren“ bestätigen Sie, dass Sie in Ihrer Rechtsordnung volljährig sind, den obigen Bedingungen zustimmen und dem Ansehen sexuell expliziter Inhalte zustimmen."
+    ],
+    "accept": "Akzeptieren",
+    "a11yLabel": "Bestätigung von Alter und Einwilligung"
+  },
+
+  "nav": {
+    "logoLabel": "{brand} – Startseite",
+    "langLabel": "Sprache wechseln",
+    "menuOpen": "Navigationsmenü öffnen",
+    "menuClose": "Navigationsmenü schließen",
+    "links": [
+      "Undress AI",
+      "So funktioniert es",
+      "Funktionen",
+      "FAQ"
+    ],
+    "social": [
+      "Telegram-Kanal – Neuigkeiten und Gratis-Credits"
+    ]
+  },
+
+  "hero": {
+    "eyebrow": [],
+    "titleLines": [
+      "Kleidung",
+      "entfernen",
+      "online"
+    ],
+    "subtitleStrong": "Sieh jede Person auf einem Foto ohne Kleidung.",
+    "subtitle": "Einfach ein Bild hochladen und in Sekunden ein realistisches KI-Ergebnis erhalten. Kostenlos testen.",
+    "cta": "Foto hochladen & entkleiden",
+    "imageAlt": "Undress-AI-Demo – bekleidetes Foto wird zu realistischem Aktbild"
+  },
+
+  "stats": {
+    "a11yLabel": "Wichtigste Kennzahlen der Plattform",
+    "items": [
+      {
+        "value": "5.400+",
+        "label": "Neue Nutzer heute"
+      },
+      {
+        "value": "97 %",
+        "label": "Erfolgreiche Generierungen"
+      },
+      {
+        "value": "348.000",
+        "label": "Registrierte Nutzer insgesamt"
+      }
+    ]
+  },
+
+  "tools": {
+    "title": "Leistungsstarke KI-Tools zum Entkleiden und für kreative Erwachsenenbilder",
+    "badge": "Beliebt",
+    "cta": "Jetzt testen",
+    "items": [
+      {
+        "title": "KI Kleidung entfernen",
+        "body": "Undress AI mit einem Klick: entfernt Kleidung mit fotorealistischer Haut, natürlichem Licht und korrekten Körperproportionen. Das beste kostenlose Tool zum Entkleiden.",
+        "image": "/photo-modes/nudifier.webp",
+        "imageAlt": "KI Kleidung entfernen – vorher und nachher",
+        "badge": true
+      },
+      {
+        "title": "Face Swap für Aktbilder",
+        "body": "Setze jedes Gesicht auf einen nackten Körper – Licht, Hautton und Pose bleiben stimmig. Ideal für kreative Experimente.",
+        "image": "/photo-modes/porn-face-swap.webp",
+        "imageAlt": "Ergebnis eines KI-Face-Swaps auf Aktbild"
+      },
+      {
+        "title": "Cum-Face-Generator",
+        "body": "Realistische Gesichtseffekte mit einem Klick. Funktioniert sowohl auf Originalfotos als auch auf bereits entkleideten Bildern.",
+        "image": "/photo-modes/cum-face-generator.webp",
+        "imageAlt": "Vorschau des Cum-Face-Generators"
+      },
+      {
+        "title": "Schwangerschafts-Generator",
+        "body": "Verwandle jedes Foto in einen natürlich wirkenden schwangeren Körper – Gesicht und Pose bleiben erhalten. Ein einzigartiges Fantasie-Tool.",
+        "image": "/photo-modes/pregnant-ai-generator.webp",
+        "imageAlt": "KI-Transformation zu schwangerem Körper"
+      },
+      {
+        "title": "Orgasmus-Gesicht-Generator",
+        "body": "Erzeuge ausdrucksstarke Ahegao- und Orgasmusgesichter mit präziser Kontrolle über Intensität und Mimik.",
+        "image": "/photo-modes/orgasm-face-generator.webp",
+        "imageAlt": "KI-Vorschau eines Orgasmusgesichts"
+      },
+      {
+        "title": "KI-Ahegao-Generator",
+        "body": "Klassische Ahegao-Ausdrücke mit hoher Detailtreue. Einzeln nutzbar oder direkt nach dem Entkleiden eines Fotos.",
+        "image": "/photo-modes/ai-ahegao-generator.webp",
+        "imageAlt": "Ergebnis des KI-Ahegao-Generators"
+      }
+    ]
+  },
+
+  "showcase": {
+    "cta": "Undress AI kostenlos testen",
+    "ariaLabel": "Vorher-Nachher-Beispiele der Undress AI",
+    "pagerLabel": "Vorher-Nachher-Beispiel auswählen",
+    "slideLabel": "Beispiel {n} anzeigen",
+    "slides": [
+      {
+        "title": "Realistische Undress AI für alltägliche Fotos",
+        "body": "Unser neuronales Netz erkennt Kleidung, sagt die Körperform darunter voraus und rekonstruiert natürliche Hauttextur, Schatten und Proportionen. Das Ergebnis wirkt wie eine echte Fotografie, nicht wie ein grober Ausschnitt.",
+        "before": {
+          "src": "/before_after/before1.png",
+          "alt": "Bekleidetes Ausgangsfoto vor der Undress AI",
+          "width": 800,
+          "height": 800
+        },
+        "after": {
+          "src": "/before_after/after1.png",
+          "alt": "Realistisches Ergebnis nach dem Entfernen der Kleidung",
+          "width": 800,
+          "height": 800
+        }
+      },
+      {
+        "title": "Funktioniert bei komplexen Posen und Hintergründen",
+        "body": "Auch bei verschränkten Armen, seitlichen Perspektiven oder unruhigen Hintergründen bleiben Anatomie und Kanten sauber. Keine verzerrten Gliedmaßen, keine schwebenden Stoffreste.",
+        "before": {
+          "src": "/before_after/before2.png",
+          "alt": "Foto mit komplexer Pose vor der Verarbeitung",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after2.png",
+          "alt": "Sauberes Ergebnis bei komplexer Pose",
+          "width": 640,
+          "height": 640
+        }
+      },
+      {
+        "title": "Detailreiche Haut und natürliches Licht",
+        "body": "Modelle, die auf vielfältige Körpertypen trainiert wurden, liefern weiche Haut, realistische Details, feine Schatten und eine Lichtstimmung, die zum Originalfoto passt.",
+        "before": {
+          "src": "/before_after/before4.png",
+          "alt": "Studiofoto vor dem Entkleiden",
+          "width": 1280,
+          "height": 1280
+        },
+        "after": {
+          "src": "/before_after/after4.png",
+          "alt": "Detailreiches Aktergebnis mit natürlichem Licht",
+          "width": 800,
+          "height": 800
+        }
+      }
+    ]
+  },
+
+  "howTo": {
+    "heading": [
+      {
+        "text": "So entkleidest du"
+      },
+      {
+        "text": "jedes Foto",
+        "accent": true
+      },
+      {
+        "text": "in 3 einfachen Schritten"
+      }
+    ],
+    "subline": "Keine komplizierten Prompts. Keine Installation. Hochladen und Ergebnis erhalten.",
+    "steps": [
+      {
+        "title": "Foto hochladen",
+        "body": "Wähle ein scharfes Bild einer einwilligenden erwachsenen Person (JPG oder PNG). Frontale und Dreiviertel-Ansichten liefern die besten Ergebnisse."
+      },
+      {
+        "title": "Das neuronale Netz arbeiten lassen",
+        "body": "Die KI erkennt die Kleidung automatisch, modelliert die Körperform und erzeugt realistische Haut – im Schnitt in unter 10 Sekunden."
+      },
+      {
+        "title": "Ergebnis herunterladen oder nachbearbeiten",
+        "body": "Sieh das Bild sofort. Lade es in hoher Qualität herunter oder wende weitere Tools an (Face Swap, Körperanpassungen, Effekte), wenn du mehr Kontrolle willst."
+      }
+    ]
+  },
+
+  "comparison": {
+    "heading": [
+      {
+        "text": "Warum Nutzer"
+      },
+      {
+        "text": "unsere Undress AI",
+        "accent": true
+      },
+      {
+        "text": "den Alternativen vorziehen"
+      }
+    ],
+    "subline": "Ehrlicher Vergleich mit den beliebtesten Tools 2026:",
+    "caption": "Vergleichstabelle Undress AI gegenüber ClothOff und Undress.cc",
+    "rowHeader": "Funktion",
+    "columns": [
+      "Unsere Undress AI",
+      "ClothOff",
+      "Undress.cc"
+    ],
+    "legend": {
+      "yes": "Ja",
+      "no": "Nein",
+      "partial": "Teilweise"
+    },
+    "rows": [
+      {
+        "label": "Realistische Haut & Anatomie",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Kostenlos testen ohne Anmeldung",
+        "cells": [
+          "yes",
+          "partial",
+          "yes"
+        ]
+      },
+      {
+        "label": "Verarbeitung in unter 10 Sekunden",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Funktioniert bei komplexen Posen",
+        "cells": [
+          "yes",
+          "yes",
+          "partial"
+        ]
+      },
+      {
+        "label": "Keine dauerhafte Speicherung der Bilder",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Zusätzliche Kreativ-Tools (Face Swap, Effekte)",
+        "cells": [
+          "yes",
+          "partial",
+          "no"
+        ]
+      },
+      {
+        "label": "Mobilfreundliche Oberfläche",
+        "cells": [
+          "yes",
+          "yes",
+          "yes"
+        ]
+      },
+      {
+        "label": "Klare 18+- und Einwilligungsrichtlinie",
+        "cells": [
+          "yes",
+          "partial",
+          "partial"
+        ]
+      }
+    ],
+    "cta": [
+      "Unsere Undress AI testen",
+      "Zu ClothOff",
+      "Zu Undress.cc"
+    ]
+  },
+
+  "benefits": {
+    "heading": [
+      {
+        "text": "Warum unser"
+      },
+      {
+        "text": "KI-Kleidungsentferner",
+        "accent": true
+      },
+      {
+        "text": "bessere Ergebnisse liefert"
+      }
+    ],
+    "items": [
+      {
+        "title": "Echte fotorealistische KI statt einfachem Wegradieren",
+        "body": "Die meisten Tools löschen nur den Stoff und hinterlassen unnatürliche Flächen. Unser neuronales Netz rekonstruiert Körpervolumen, Hauttextur und feine Schatten, sodass das Ergebnis wie ein echtes Foto aussieht. Nutzer bewerten Anatomie und Licht regelmäßig besser als bei ClothOff oder klassischen Undress.cc-Ergebnissen.",
+        "imageAlt": "Nahaufnahme fotorealistischer Hautdetails der Undress AI"
+      },
+      {
+        "title": "Schnelle Ergebnisse auch bei schwierigen Fotos",
+        "body": "Unruhige Hintergründe, verschränkte Arme, seitliche Perspektiven, wenig Licht oder enge Kleidung – das Modell wurde genau dafür trainiert. Die Generierung bleibt bei durchschnittlich 8–10 Sekunden, mit sauberen Kanten und korrekten Proportionen.",
+        "imageAlt": "Undress AI bei komplexer Pose und unruhigem Hintergrund"
+      },
+      {
+        "title": "Verarbeitung mit Datenschutz zuerst",
+        "body": "Bilder werden in temporären Sitzungen verarbeitet und automatisch gelöscht. Wir legen keine dauerhaften Galerien an und verkaufen keine Nutzerdaten. Du bleibst anonym und behältst die Kontrolle – genau das erwarten erwachsene Nutzer von einem modernen Dienst.",
+        "imageAlt": "Illustration zu privater und sicherer KI-Bildverarbeitung"
+      },
+      {
+        "title": "Mehr als nur Entkleiden",
+        "body": "Nach dem Entfernen der Kleidung kannst du sofort Face Swap, Körperanpassungen, Ahegao, Effekte und weitere kreative Modi anwenden. Eine Plattform ersetzt mehrere Einzeltools und hält Gesicht und Licht über alle Bearbeitungen hinweg konsistent.",
+        "imageAlt": "Weitere KI-Tools nach dem Entkleiden"
+      }
+    ]
+  },
+
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Häufige Fragen zu Undress AI und KI-Kleidungsentfernern",
+    "subtitle": "Alles Wichtige, bevor du dein erstes Foto hochlädst.",
+    "items": [
+      {
+        "q": "Was ist eine Undress AI bzw. ein KI-Kleidungsentferner?",
+        "a": "Eine Undress AI analysiert mit neuronalen Netzen ein bekleidetes Foto, sagt den Körper darunter voraus und erzeugt eine realistische Aktversion. Moderne Modelle achten auf natürliche Haut, korrekte Anatomie und stimmiges Licht statt auf grobes Wegradieren von Stoff."
+      },
+      {
+        "q": "Kann ich die Undress AI kostenlos testen?",
+        "a": "Ja. Neue Nutzer erhalten Gratis-Credits und können das Tool ohne Zahlung ausprobieren. Danach lassen sich weitere Credits kaufen. Für den Start ist keine Kreditkarte nötig."
+      },
+      {
+        "q": "Wie lange dauert das Entkleiden eines Fotos?",
+        "a": "Die meisten Bilder sind in 5–12 Sekunden fertig, abhängig von Auflösung und aktueller Serverauslastung. Komplexe Posen oder sehr große Dateien brauchen ein paar Sekunden länger."
+      },
+      {
+        "q": "Ist der Dienst sicher und privat?",
+        "a": "Hochgeladene Fotos werden in temporären Sitzungen verarbeitet und automatisch gelöscht. Wir speichern keine dauerhaften Kopien und geben keine Bilder an Dritte weiter. Verwende ausschließlich Fotos einwilligender Erwachsener ab 18."
+      },
+      {
+        "q": "Darf ich jedes beliebige Foto verwenden?",
+        "a": "Technisch funktioniert die KI mit den meisten scharfen Personenfotos. Rechtlich und ethisch darfst du nur Bilder von dir selbst oder von Personen hochladen, die ausdrücklich eingewilligt haben. Die Plattform ist strikt ab 18."
+      },
+      {
+        "q": "Wie schneidet diese Undress AI gegenüber ClothOff oder Undress.cc ab?",
+        "a": "Unser Modell legt den Schwerpunkt auf anatomische Genauigkeit und natürliches Licht. Viele Nutzer berichten von weniger Artefakten bei schwierigen Posen als bei älteren Undress.cc-Versionen und von gleichmäßigerer Hautqualität als bei manchen ClothOff-Ergebnissen. Zusätzliche Kreativ-Tools sind in derselben Oberfläche enthalten."
+      },
+      {
+        "q": "Muss ich etwas installieren oder ein Konto anlegen?",
+        "a": "Nein, alles läuft im Browser. Ein kostenloses Konto schaltet höhere Limits und den Verlauf frei, ein begrenzter Test ist auf den meisten Geräten aber auch ohne Registrierung möglich."
+      }
+    ]
+  },
+
+  "footer": {
+    "logoLabel": "{brand} – Startseite",
+    "description": "Fortschrittliche Undress AI und KI-Kleidungsentferner. Realistische Ergebnisse, schnelle Verarbeitung, Fokus auf Privatsphäre. Nur für Erwachsene ab 18. Lade Fotos anderer Personen ausschließlich mit deren Einwilligung hoch.",
+    "columns": [
+      {
+        "title": "Tools",
+        "links": [
+          "KI Kleidung entfernen",
+          "Face Swap für Aktbilder",
+          "Ahegao-Generator",
+          "Alle KI-Tools"
+        ]
+      },
+      {
+        "title": "Support",
+        "links": [
+          "So funktioniert es",
+          "FAQ",
+          "Telegram-Kanal",
+          "Kontakt"
+        ]
+      },
+      {
+        "title": "Rechtliches",
+        "links": [
+          "AGB",
+          "Datenschutzerklärung",
+          "18+-Inhaltsrichtlinie",
+          "Rückerstattungsrichtlinie"
+        ]
+      }
+    ],
+    "legal": [
+      "AGB",
+      "Datenschutzerklärung",
+      "Inhalts- und Einwilligungsrichtlinie"
+    ],
+    "copyright": "Alle Rechte vorbehalten. Nur für Erwachsene ab 18. Verantwortungsvoll und ausschließlich mit ausdrücklicher Einwilligung nutzen."
+  }
+}
